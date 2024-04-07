@@ -7,13 +7,17 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from bs4 import BeautifulSoup
 from lyricsgenius import Genius
 import time
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 
-
+#Fetches spotify data and lyrics for each song using API keys. Will also ideally
+#run only once
 
 LYRIC_URL = "https://spotify-scraper.p.rapidapi.com/v1/track/lyrics"
-CID ='9e87ec1ea86b4b239e24525700e69598'
-SECRET_API ='bbd8b33ba2524014bc266f006c168a95'
+CID =os.environ['CID']
+SECRET_API = os.environ['SPOTIFY_SECRET']
 #GENIUS_TOKEN = 'QhX0q-edkd7ZlG2u79k1K40Y6wLA-jmpCpfVJbuxZikzvRFHs7m70IqPF5BcgMjx'
 
 
@@ -45,7 +49,7 @@ def add_features(df):
 		df.loc[i, 'explicit'] = sp.track(track_id)['explicit']
 		querystring = {"trackId":track_id}
 		headers = {
-			"X-RapidAPI-Key": "e66ab9e6c9msh0a0457e0c88540dp140b34jsnde29bcd01798",
+			"X-RapidAPI-Key": os.environ['RAPIDAPI_KEY'],
 			"X-RapidAPI-Host": "spotify-scraper.p.rapidapi.com"
 		}
 		response = requests.get(LYRIC_URL, headers=headers, params=querystring)

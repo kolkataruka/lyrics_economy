@@ -1,5 +1,8 @@
 import pandas as pd
 
+#This file is to be run only once. It filters out the downloaded data for only
+#the specified countries, and cleans it for for futher preprocessing
+
 countries = ['United States']
 init_df = pd.read_csv('../data/charts.csv')
 filtered_df = init_df[init_df['region'].isin(countries)]

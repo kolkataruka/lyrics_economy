@@ -4,9 +4,14 @@ import re
 import requests
 from fuzzywuzzy import fuzz
 from google.cloud import translate_v2 as translate
+from dotenv import load_dotenv
+import os
+load_dotenv()
+
+#Assigning emotions to the lyrics generated. Hopefully only one run needed
 
 MAX_TOKENS = 512
-PROJECT_ID = "amiable-fin-407621"
+PROJECT_ID = os.environ['PROJECT_ID']
 PARENT = f"projects/{PROJECT_ID}"
 
 EMOTION_DICT = {
@@ -16,6 +21,7 @@ EMOTION_DICT = {
     'gratitude': 0, 'grief': 1, 'joy': 0, 'love': 0, 'nervousness': 2, 
     'optimism': 0, 'pride': 0, 'realization': 2, 'relief': 2, 'remorse': 1, 'sadness': 1, 'surprise': 2, 'neutral': 2
 }
+
 
 def detect_language(text: str) -> translate.DetectedLanguage:
     client = translate.TranslationServiceClient()
