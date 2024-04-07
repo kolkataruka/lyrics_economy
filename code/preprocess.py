@@ -24,12 +24,14 @@ def data_split(init_df):
     #init_df = init_df.dropna()
     #print(init_df.head())
     cols = init_df.columns
+    print(cols)
     #df_scaled = normalize(init_df) 
 
     #df_scaled = pd.DataFrame(df_scaled, columns=cols) 
-    df_encoded = pd.get_dummies(init_df, columns=['emotions_id'], drop_first=True) #one hot encoding regime types and admin scale
-    #print(df_scaled.head())
-    y=df_encoded['emotions_id']
+    #df_encoded = pd.get_dummies(init_df, columns=['emotions_id']) #one hot encoding regime types and admin scale
+    #print(df_encoded.head())
+    
+    y=init_df['emotions_id']
     X=init_df.drop(columns=['emotions_id'])
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1680)
     return X_train, X_test, y_train, y_test

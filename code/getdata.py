@@ -57,7 +57,7 @@ def add_features(df):
 			df.loc[i, 'lyrics'] = response.text
 		else:
 			print(df['title'].iloc[i])
-			missed_lyrics.append[i]
+			missed_lyrics.append(i)
 		time.sleep(0.5)
 	
 	for ind in missed_lyrics:

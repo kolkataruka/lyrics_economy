@@ -23,23 +23,16 @@ EMOTION_DICT = {
 }
 
 
-def detect_language(text: str) -> translate.DetectedLanguage:
-    client = translate.TranslationServiceClient()
+def translate_text(text, target_language_code):
+    client = translate.Client("en")
 
-    response = client.detect_language(parent=PARENT, content=text)
+    if isinstance(text, bytes):
+        text = text.decode("utf-8")
 
-    return response.languages[0]
-
-def translate_text(text, target_language_code) -> translate.Translation:
-    client = translate.TranslationServiceClient()
-
-    response = client.translate_text(
-        parent=PARENT,
-        contents=[text],
-        target_language_code=target_language_code,
+    response = client.translate(text, target_language=target_language_code
     )
 
-    return response.translations[0]
+    return response["translatedText"]
 
 def clean_lyrics(lyrics):
     cleaned_lyrics = re.sub(r'\[.*?\]', '', lyrics)
@@ -64,7 +57,7 @@ def clean_lyrics(lyrics):
         if not is_duplicate:
             unique_sentences.append(sentence)
     for sent in unique_sentences:
-        translated_sent = translate_text(sent, target_lang).translated_text
+        translated_sent = translate_text(sent, target_lang)
         translated_sentences.append(translated_sent)
     
     # Join the unique sentences to form the deduplicated lyrics
@@ -74,7 +67,7 @@ def clean_lyrics(lyrics):
 def make_emotions(songs_df):
 
     songs_df['lyrics'] = songs_df['lyrics'].apply(clean_lyrics)
-    print(songs_df['lyrics'])
+    #print(songs_df['lyrics'])
     classifier = pipeline(task="text-classification", model="SamLowe/roberta-base-go_emotions", top_k=None)
     emotions = []
     batch_size = 256
@@ -82,19 +75,19 @@ def make_emotions(songs_df):
         batch_emotions = []
         lyrics = row['lyrics']
         tokens = lyrics.split()
-        print(len(tokens))
+        #print(len(tokens))
         token_batches = []
         for i in range(0, len(tokens), batch_size):
             if (len(tokens) - i) < batch_size:
                 token_batches.append(tokens[i:])
             else:
                 token_batches.append(tokens[i:i+batch_size])
-        print(len(token_batches))
+        #print(len(token_batches))
         for batch in token_batches:
             batch_lyric = ' '.join(batch)
             emo = classifier([batch_lyric])
             batch_emotions.append(emo)
-            print(batch_emotions)
+            #print(batch_emotions)
         final_emotions = {emotion['label']: 0 for emotion in batch_emotions[0][0]}
         for batch in batch_emotions:
             for sublist in  batch_emotions:
@@ -107,28 +100,30 @@ def make_emotions(songs_df):
         top_emotion = dict(sorted_emotions[:1])
         emotions.append(next(iter(top_emotion.keys())))
     
-    print(emotions)
+    #print(emotions)
     songs_df['emotions'] = emotions
     songs_df['emotions_id'] = songs_df['emotions'].map(EMOTION_DICT)
-    #songs_df.to_csv('../data/song_emotions.csv')
+    songs_df.to_csv('../data/song_emotions.csv')
 
 
-
-#songs_df = pd.read_csv('../data/feats_lyrics.csv').head(1)
-#make_emotions(songs_df)
-
-test_df = pd.read_csv('../data/top_songs.csv').head(1)
-track_id = test_df['id'].iloc[0]
-querystring = {"trackId":track_id}
-headers = {
-    "X-RapidAPI-Key": "e66ab9e6c9msh0a0457e0c88540dp140b34jsnde29bcd01798",
-    "X-RapidAPI-Host": "spotify-scraper.p.rapidapi.com"
-}
-response = requests.get('https://spotify-scraper.p.rapidapi.com/v1/track/lyrics', headers=headers, params=querystring)
-test_df.loc[0, 'lyrics'] = response.text
+def test_model():
+    test_df = pd.read_csv('../data/top_songs.csv').head(1)
+    track_id = test_df['id'].iloc[0]
+    querystring = {"trackId":track_id}
+    headers = {
+        "X-RapidAPI-Key": "e66ab9e6c9msh0a0457e0c88540dp140b34jsnde29bcd01798",
+        "X-RapidAPI-Host": "spotify-scraper.p.rapidapi.com"
+    }
+    response = requests.get('https://spotify-scraper.p.rapidapi.com/v1/track/lyrics', headers=headers, params=querystring)
+    test_df.loc[0, 'lyrics'] = response.text
 
 
-make_emotions(test_df)
+    make_emotions(test_df)
+
+#test_model()
+songs_df = pd.read_csv('../data/feats_lyrics.csv')
+#print(songs_df['lyrics'].iloc[0])
+make_emotions(songs_df)
 
 
 
