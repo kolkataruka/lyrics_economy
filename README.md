@@ -26,6 +26,7 @@ Then run the following files in order:
 1. `filter_data.py`
 2. `getdata.py`
 3. `cleaning_emotions.py`
+
 This prepares all the music data we need. After this, to run the analysis,
 simply run `main.py`
 
