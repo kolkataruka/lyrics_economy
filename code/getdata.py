@@ -23,6 +23,10 @@ SECRET_API = os.environ['SPOTIFY_SECRET']
 
 
 def add_features(df):
+	'''
+	Adding audio analysis features using each track's Spotify ID. Then adding
+	each track's lyrics using the same.
+	'''
 	client_credentials_manager = SpotifyClientCredentials(client_id=CID, client_secret=SECRET_API)
 	sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
 	#genius = Genius(GENIUS_TOKEN)
@@ -36,6 +40,8 @@ def add_features(df):
 		#	lines = response.json().get('lines', [])
 		#	lyrics = '\n'.join([line['words'] for line in lines])
 		#	df.loc[i, 'lyrics'] = lyrics
+
+		
 		track_id = df['id'].iloc[i]
 		audio_features = sp.audio_features([track_id])[0]
 		df.loc[i, 'acoustic'] = audio_features['acousticness']
@@ -60,6 +66,7 @@ def add_features(df):
 			missed_lyrics.append(i)
 		time.sleep(0.5)
 	
+	#In case some tracks were missed when extracting lyrics
 	for ind in missed_lyrics:
 		track_id = df['id'].iloc[ind]
 		querystring = {"trackId":track_id}

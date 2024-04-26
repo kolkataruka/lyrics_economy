@@ -1,4 +1,3 @@
-from distutils.command.clean import clean
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import normalize
@@ -8,10 +7,7 @@ from sklearn.preprocessing import normalize
 
 def load_data():
     music_df = pd.read_csv('../data/song_emotions.csv')[['month','year', 'region', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'emotions', 'emotions_id']]
-    unemployment_df = pd.read_csv('../data/unemployment.csv')[['Year', 'Period', 'Value']]
-    unemployment_df = unemployment_df.rename(columns={'Year': 'year', 'Period': 'month', 'Value': 'unemployment'})
-    unemployment_df['month'] = unemployment_df['month'].str.extract(r'(\d+)').astype(int)
-    unemployment_df = unemployment_df.assign(region='United States')
+    unemployment_df = pd.read_csv('../data/unemployment.csv')
     final_df = music_df.merge(unemployment_df, on=['year', 'month', 'region'], how='left')
     final_df.to_csv('../data/combined.csv')
     return final_df

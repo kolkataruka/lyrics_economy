@@ -1,301 +1,901 @@
-,month,year,id,count,title,rank,date,artist,url,region
-0,1,2017,0SGkqnVQo9KPytSri1H6cF,31,Bounce Back,10,2017-01-01,Big Sean,https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF,United States
-31,1,2017,343YBumqHu19cGoGARUTsd,31,Fake Love,2,2017-01-01,Drake,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd,United States
-62,1,2017,4Km5HrUvYTaSUfiSGPJeQR,31,Bad and Boujee (feat. Lil Uzi Vert),1,2017-01-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR,United States
-93,1,2017,5aAx2yezTd8zXrkmtKl66Z,31,Starboy,3,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z,United States
-124,1,2017,3NdDpSvN911VPGivFlV5d0,30,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",9,2017-01-02,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0,United States
-154,2,2017,0SGkqnVQo9KPytSri1H6cF,28,Bounce Back,7,2017-02-01,Big Sean,https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF,United States
-182,2,2017,2EEeOnHehOozLq4aS0n6SL,28,iSpy (feat. Lil Yachty),8,2017-02-01,KYLE,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL,United States
-210,2,2017,3NdDpSvN911VPGivFlV5d0,28,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",3,2017-02-01,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0,United States
-238,2,2017,4Km5HrUvYTaSUfiSGPJeQR,28,Bad and Boujee (feat. Lil Uzi Vert),1,2017-02-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR,United States
-266,2,2017,7qiZfU4dY1lWllzX7mPBI3,28,Shape of You,2,2017-02-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3,United States
-294,3,2017,7qiZfU4dY1lWllzX7mPBI3,29,Shape of You,1,2017-03-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3,United States
-323,3,2017,0KKkJNfGyhkQ5aFogxQAPU,26,That's What I Like,7,2017-03-01,Bruno Mars,https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU,United States
-349,3,2017,2EEeOnHehOozLq4aS0n6SL,26,iSpy (feat. Lil Yachty),2,2017-03-01,KYLE,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL,United States
-375,3,2017,4Q3N4Ct4zCuIHuZ65E3BD4,25,Tunnel Vision,9,2017-03-01,Kodak Black,https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4,United States
-400,3,2017,3rOSwuTsUlJp0Pu0MkN8r8,23,Mask Off,10,2017-03-06,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8,United States
-423,4,2017,7KXjTSCq5nL1LoYtL7XAwS,30,HUMBLE.,1,2017-04-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,United States
-453,4,2017,3rOSwuTsUlJp0Pu0MkN8r8,29,Mask Off,2,2017-04-01,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8,United States
-482,4,2017,2eMwDehkIC1j68U6FA3Eiq,26,XO TOUR Llif3,9,2017-04-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq,United States
-508,4,2017,7hDc8b7IXETo14hHIHdnhd,24,Passionfruit,3,2017-04-01,Drake,https://open.spotify.com/track/7hDc8b7IXETo14hHIHdnhd,United States
-532,4,2017,2EEeOnHehOozLq4aS0n6SL,23,iSpy (feat. Lil Yachty),5,2017-04-01,KYLE,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL,United States
-555,5,2017,2eMwDehkIC1j68U6FA3Eiq,29,XO TOUR Llif3,6,2017-05-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq,United States
-584,5,2017,3rOSwuTsUlJp0Pu0MkN8r8,29,Mask Off,5,2017-05-01,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8,United States
-613,5,2017,6HZILIRieu8S0iqY8kIKhj,29,DNA.,4,2017-05-01,Kendrick Lamar,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj,United States
-642,5,2017,72Q0FQQo32KJloivv5xge2,29,I'm the One,2,2017-05-01,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",https://open.spotify.com/track/72Q0FQQo32KJloivv5xge2,United States
-671,5,2017,7KXjTSCq5nL1LoYtL7XAwS,29,HUMBLE.,1,2017-05-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,United States
-700,6,2017,2eMwDehkIC1j68U6FA3Eiq,29,XO TOUR Llif3,4,2017-06-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq,United States
-729,6,2017,3a1lNhkSLSkpJE4MSHpDu9,29,Congratulations,5,2017-06-01,"Post Malone, Quavo",https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9,United States
-758,6,2017,5CtI0qwDJkDQGwXD1H1cLb,29,Despacito - Remix,2,2017-06-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb,United States
-787,6,2017,7KXjTSCq5nL1LoYtL7XAwS,29,HUMBLE.,1,2017-06-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,United States
-816,6,2017,3kxfsdsCpFgN412fpnW85Y,27,Redbone,10,2017-06-04,Childish Gambino,https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y,United States
-843,7,2017,1OAh8uOEOvTDqkKFsKksCi,31,Wild Thoughts (feat. Rihanna & Bryson Tiller),3,2017-07-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi,United States
-874,7,2017,2eMwDehkIC1j68U6FA3Eiq,31,XO TOUR Llif3,2,2017-07-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq,United States
-905,7,2017,3DXncPQOG4VBw3QHh3S817,31,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",4,2017-07-01,DJ Khaled,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817,United States
-936,7,2017,3a1lNhkSLSkpJE4MSHpDu9,31,Congratulations,7,2017-07-01,"Post Malone, Quavo",https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9,United States
-967,7,2017,5CtI0qwDJkDQGwXD1H1cLb,31,Despacito - Remix,1,2017-07-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb,United States
-998,8,2017,3B54sVLJ402zGa6Xm4YGNe,31,Unforgettable,1,2017-08-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe,United States
-1029,8,2017,5eqK0tbzUPo2SoeZsov04s,31,Bank Account,5,2017-08-01,21 Savage,https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s,United States
-1060,8,2017,7KXjTSCq5nL1LoYtL7XAwS,27,HUMBLE.,6,2017-08-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,United States
-1087,8,2017,1OAh8uOEOvTDqkKFsKksCi,26,Wild Thoughts (feat. Rihanna & Bryson Tiller),3,2017-08-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi,United States
-1113,8,2017,2eMwDehkIC1j68U6FA3Eiq,24,XO TOUR Llif3,2,2017-08-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq,United States
-1137,9,2017,2771LMNxwf62FTAdpJMQfM,30,Bodak Yellow,5,2017-09-01,Cardi B,https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM,United States
-1167,9,2017,5Z3GHaZ6ec9bsiI5BenrbY,30,Young Dumb & Broke,8,2017-09-01,Khalid,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY,United States
-1197,9,2017,5tz69p7tJuGPeMGwNTxYuV,30,1-800-273-8255,2,2017-09-01,"Logic, Alessia Cara, Khalid",https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV,United States
-1227,9,2017,7GX5flRQZVHRAGd6B4TmDO,30,XO Tour Llif3,3,2017-09-01,Lil Uzi Vert,https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO,United States
-1257,9,2017,3B54sVLJ402zGa6Xm4YGNe,29,Unforgettable,7,2017-09-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe,United States
-1286,10,2017,2fQrGHiQOvpL9UgPvtYy6G,31,Bank Account,4,2017-10-01,21 Savage,https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G,United States
-1317,10,2017,5tz69p7tJuGPeMGwNTxYuV,31,1-800-273-8255,3,2017-10-01,"Logic, Alessia Cara, Khalid",https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV,United States
-1348,10,2017,2771LMNxwf62FTAdpJMQfM,30,Bodak Yellow,2,2017-10-01,Cardi B,https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM,United States
-1378,10,2017,75ZvA4QfFiZvzhj2xkaWAh,30,I Fall Apart,7,2017-10-02,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh,United States
-1408,10,2017,5Z3GHaZ6ec9bsiI5BenrbY,29,Young Dumb & Broke,7,2017-10-01,Khalid,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY,United States
-1437,11,2017,0ofbQMrRDsUaVKq2mGLEAb,30,Havana,4,2017-11-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb,United States
-1467,11,2017,2fQrGHiQOvpL9UgPvtYy6G,30,Bank Account,6,2017-11-01,21 Savage,https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G,United States
-1497,11,2017,43ZyHQITOjhciSUUNPVRHc,30,Gucci Gang,3,2017-11-01,Lil Pump,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc,United States
-1527,11,2017,75ZvA4QfFiZvzhj2xkaWAh,30,I Fall Apart,5,2017-11-01,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh,United States
-1557,11,2017,7wGoVu4Dady5GV0Sv4UIsx,30,rockstar,1,2017-11-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx,United States
-1587,12,2017,7wGoVu4Dady5GV0Sv4UIsx,31,rockstar,1,2017-12-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx,United States
-1618,12,2017,43ZyHQITOjhciSUUNPVRHc,30,Gucci Gang,2,2017-12-01,Lil Pump,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc,United States
-1648,12,2017,75ZvA4QfFiZvzhj2xkaWAh,29,I Fall Apart,4,2017-12-01,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh,United States
-1677,12,2017,42CeaId2XNlxugDvyqHfDf,28,Candy Paint,5,2017-12-01,Post Malone,https://open.spotify.com/track/42CeaId2XNlxugDvyqHfDf,United States
-1705,12,2017,7sO5G9EABYOXQKNPNiE9NR,28,Ric Flair Drip (& Metro Boomin),6,2017-12-01,Offset,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR,United States
-1733,1,2018,7wGoVu4Dady5GV0Sv4UIsx,31,rockstar,1,2018-01-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx,United States
-1764,1,2018,7sO5G9EABYOXQKNPNiE9NR,30,Ric Flair Drip (& Metro Boomin),6,2018-01-01,Offset,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR,United States
-1794,1,2018,75ZvA4QfFiZvzhj2xkaWAh,29,I Fall Apart,8,2018-01-01,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh,United States
-1823,1,2018,2DQ1ITjI0YoLFzuADN1ZBW,26,No Limit,2,2018-01-01,"G-Eazy, A$AP Rocky, Cardi B",https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW,United States
-1849,1,2018,3Vo4wInECJQuz9BIBMOu8i,26,Finesse - Remix; feat. Cardi B,2,2018-01-05,Bruno Mars,https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i,United States
-1875,2,2018,2UVbBKQOdFAekPTRsnkzcf,28,Stir Fry,2,2018-02-01,Migos,https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf,United States
-1903,2,2018,2XW4DbS6NddZxRPm5rMCeY,28,God's Plan,1,2018-02-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY,United States
-1931,2,2018,6tHWl8ows5JOZq9Yfaqn3M,28,Mine,8,2018-02-01,Bazzi,https://open.spotify.com/track/6tHWl8ows5JOZq9Yfaqn3M,United States
-1959,2,2018,4ofvoCdXq99vpMZO4Cfp8x,22,Pray For Me (with Kendrick Lamar),3,2018-02-02,The Weeknd,https://open.spotify.com/track/4ofvoCdXq99vpMZO4Cfp8x,United States
-1981,2,2018,4qKcDkK6siZ7Jp1Jb4m0aL,20,Look Alive (feat. Drake),10,2018-02-09,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL,United States
-2001,3,2018,2XW4DbS6NddZxRPm5rMCeY,31,God's Plan,1,2018-03-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY,United States
-2032,3,2018,4qKcDkK6siZ7Jp1Jb4m0aL,31,Look Alive (feat. Drake),3,2018-03-01,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL,United States
-2063,3,2018,65NwOZqoXny4JxqAPlfxRF,31,Psycho (feat. Ty Dolla $ign),2,2018-03-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF,United States
-2094,3,2018,3GCdLUSnKSMJhs4Tj6CV3s,29,All The Stars (with SZA),4,2018-03-01,Kendrick Lamar,https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s,United States
-2123,3,2018,2UVbBKQOdFAekPTRsnkzcf,26,Stir Fry,5,2018-03-01,Migos,https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf,United States
-2149,4,2018,2XW4DbS6NddZxRPm5rMCeY,25,God's Plan,2,2018-04-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY,United States
-2174,4,2018,1cTZMwcBJT0Ka3UJPXOeeN,23,Nice For What,1,2018-04-07,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN,United States
-2197,4,2018,65NwOZqoXny4JxqAPlfxRF,22,Psycho (feat. Ty Dolla $ign),4,2018-04-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF,United States
-2219,4,2018,4qKcDkK6siZ7Jp1Jb4m0aL,20,Look Alive (feat. Drake),7,2018-04-01,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL,United States
-2239,4,2018,1gm616Plq4ScqNi7TVkZ5N,19,Call Out My Name,1,2018-04-01,The Weeknd,https://open.spotify.com/track/1gm616Plq4ScqNi7TVkZ5N,United States
-2258,5,2018,1cTZMwcBJT0Ka3UJPXOeeN,31,Nice For What,4,2018-05-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN,United States
-2289,5,2018,3swc6WTsr7rl9DqQKQA55C,31,Psycho (feat. Ty Dolla $ign),2,2018-05-01,Post Malone,https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C,United States
-2320,5,2018,7dt6x5M1jzdTEt8oCbisTK,31,Better Now,1,2018-05-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK,United States
-2351,5,2018,2XW4DbS6NddZxRPm5rMCeY,29,God's Plan,10,2018-05-03,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY,United States
-2380,5,2018,4qKcDkK6siZ7Jp1Jb4m0aL,26,Look Alive (feat. Drake),9,2018-05-05,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL,United States
-2406,6,2018,0X8DcetL926BYiPJYstJTc,28,Lucid Dreams,2,2018-06-01,Juice WRLD,https://open.spotify.com/track/0X8DcetL926BYiPJYstJTc,United States
-2434,6,2018,6vN77lE9LK6HP2DewaN6HZ,27,Yes Indeed,3,2018-06-01,"Lil Baby, Drake",https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ,United States
-2461,6,2018,7dt6x5M1jzdTEt8oCbisTK,26,Better Now,5,2018-06-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK,United States
-2487,6,2018,1cTZMwcBJT0Ka3UJPXOeeN,23,Nice For What,1,2018-06-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN,United States
-2510,6,2018,58q2HKrzhC3ozto2nDdN4z,23,I Like It,8,2018-06-01,"Cardi B, Bad Bunny, J Balvin",https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z,United States
-2533,7,2018,3ee8Jmje8o58CHK66QrVC2,29,SAD!,10,2018-07-03,XXXTENTACION,https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2,United States
-2562,7,2018,58q2HKrzhC3ozto2nDdN4z,25,I Like It,8,2018-07-07,"Cardi B, Bad Bunny, J Balvin",https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z,United States
-2587,7,2018,0JP9xo3adEtGSdUEISiszL,24,Moonlight,10,2018-07-06,XXXTENTACION,https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL,United States
-2611,7,2018,5IaHrVsrferBYDm0bDyABy,22,Taste (feat. Offset),10,2018-07-10,Tyga,https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy,United States
-2633,7,2018,0bAkKNCQfWkexHFn7fIKns,19,In My Feelings,6,2018-07-01,Drake,https://open.spotify.com/track/0bAkKNCQfWkexHFn7fIKns,United States
-2652,8,2018,2G7V7zsVDxg1yRsu7Ew9RJ,31,In My Feelings,1,2018-08-01,Drake,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ,United States
-2683,8,2018,2E124GmJRnBJuXbTb4cPUB,30,FEFE (feat. Nicki Minaj & Murda Beatz),2,2018-08-01,6ix9ine,https://open.spotify.com/track/2E124GmJRnBJuXbTb4cPUB,United States
-2713,8,2018,0s3nnoMeVWz3989MkNQiRf,29,Lucid Dreams,3,2018-08-01,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf,United States
-2742,8,2018,2xLMifQCjDGFmkHkpNLD9h,29,SICKO MODE,2,2018-08-03,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,United States
-2771,8,2018,3ee8Jmje8o58CHK66QrVC2,27,SAD!,5,2018-08-01,XXXTENTACION,https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2,United States
-2798,9,2018,2xLMifQCjDGFmkHkpNLD9h,29,SICKO MODE,5,2018-09-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,United States
-2827,9,2018,0s3nnoMeVWz3989MkNQiRf,27,Lucid Dreams,9,2018-09-01,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf,United States
-2854,9,2018,2E124GmJRnBJuXbTb4cPUB,27,FEFE (feat. Nicki Minaj & Murda Beatz),4,2018-09-01,6ix9ine,https://open.spotify.com/track/2E124GmJRnBJuXbTb4cPUB,United States
-2881,9,2018,60SdxE8apGAxMiRrpbmLY0,27,Lucky You (feat. Joyner Lucas),1,2018-09-01,Eminem,https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0,United States
-2908,9,2018,4S8d14HvHb70ImctNgVzQQ,22,I Love It (& Lil Pump),7,2018-09-08,Kanye West,https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ,United States
-2930,10,2018,2xLMifQCjDGFmkHkpNLD9h,31,SICKO MODE,5,2018-10-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,United States
-2961,10,2018,1xzBco0xcoJEDXktl7Jxrr,27,Mo Bamba,6,2018-10-05,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr,United States
-2988,10,2018,78QR3Wp35dqAhFEc2qAGjE,27,Drip Too Hard (Lil Baby & Gunna),2,2018-10-05,Lil Baby,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE,United States
-3015,10,2018,5p7ujcrUXASCNwRaWNHR1C,24,Without Me,8,2018-10-05,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C,United States
-3039,10,2018,0s3nnoMeVWz3989MkNQiRf,21,Lucid Dreams,9,2018-10-02,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf,United States
-3060,11,2018,1xzBco0xcoJEDXktl7Jxrr,30,Mo Bamba,1,2018-11-01,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr,United States
-3090,11,2018,2xLMifQCjDGFmkHkpNLD9h,30,SICKO MODE,2,2018-11-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,United States
-3120,11,2018,5p7ujcrUXASCNwRaWNHR1C,30,Without Me,6,2018-11-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C,United States
-3150,11,2018,78QR3Wp35dqAhFEc2qAGjE,30,Drip Too Hard (Lil Baby & Gunna),5,2018-11-01,Lil Baby,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE,United States
-3180,11,2018,7l3E7lcozEodtVsSTCkcaA,30,ZEZE (feat. Travis Scott & Offset),3,2018-11-01,Kodak Black,https://open.spotify.com/track/7l3E7lcozEodtVsSTCkcaA,United States
-3210,12,2018,2xLMifQCjDGFmkHkpNLD9h,30,SICKO MODE,4,2018-12-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,United States
-3240,12,2018,2IRZnDFmlqMuOrYOLnZZyc,29,Going Bad (feat. Drake),2,2018-12-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc,United States
-3269,12,2018,2rPE9A1vEgShuZxxzR2tZH,29,"thank u, next",1,2018-12-01,Ariana Grande,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH,United States
-3298,12,2018,1xzBco0xcoJEDXktl7Jxrr,28,Mo Bamba,3,2018-12-01,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr,United States
-3326,12,2018,78QR3Wp35dqAhFEc2qAGjE,28,Drip Too Hard (Lil Baby & Gunna),6,2018-12-01,Lil Baby,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE,United States
-3354,1,2019,2IRZnDFmlqMuOrYOLnZZyc,31,Going Bad (feat. Drake),5,2019-01-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc,United States
-3385,1,2019,2xLMifQCjDGFmkHkpNLD9h,31,SICKO MODE,3,2019-01-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,United States
-3416,1,2019,3KkXRkHbMCARz0aVfEt68P,31,Sunflower - Spider-Man: Into the Spider-Verse,1,2019-01-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,United States
-3447,1,2019,5p7ujcrUXASCNwRaWNHR1C,31,Without Me,9,2019-01-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C,United States
-3478,1,2019,6MWtB6iiXyIwun0YzU6DFP,31,Wow.,2,2019-01-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP,United States
-3509,2,2019,6MWtB6iiXyIwun0YzU6DFP,26,Wow.,4,2019-02-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP,United States
-3535,2,2019,2JvzF1RMd7lE3KmFlsyZD8,24,MIDDLE CHILD,2,2019-02-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8,United States
-3559,2,2019,2IRZnDFmlqMuOrYOLnZZyc,22,Going Bad (feat. Drake),6,2019-02-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc,United States
-3581,2,2019,4kV4N9D1iKVxx1KLvtTpjS,21,"break up with your girlfriend, i'm bored",2,2019-02-08,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS,United States
-3602,2,2019,6ocbgoVGwYJhOv1GgI9NsF,21,7 rings,1,2019-02-08,Ariana Grande,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF,United States
-3623,3,2019,2JvzF1RMd7lE3KmFlsyZD8,31,MIDDLE CHILD,3,2019-03-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8,United States
-3654,3,2019,4kV4N9D1iKVxx1KLvtTpjS,28,"break up with your girlfriend, i'm bored",5,2019-03-01,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS,United States
-3682,3,2019,4y3OI86AEP6PQoDE6olYhO,28,Sucker,1,2019-03-01,Jonas Brothers,https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO,United States
-3710,3,2019,6MWtB6iiXyIwun0YzU6DFP,28,Wow.,6,2019-03-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP,United States
-3738,3,2019,6ocbgoVGwYJhOv1GgI9NsF,28,7 rings,2,2019-03-01,Ariana Grande,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF,United States
-3766,4,2019,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,1,2019-04-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m,United States
-3796,4,2019,2JvzF1RMd7lE3KmFlsyZD8,30,MIDDLE CHILD,10,2019-04-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8,United States
-3826,4,2019,3KkXRkHbMCARz0aVfEt68P,30,Sunflower - Spider-Man: Into the Spider-Verse,8,2019-04-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,United States
-3856,4,2019,53CJANUxooaqGOtdsBTh7O,30,Old Town Road,2,2019-04-01,Lil Nas X,https://open.spotify.com/track/53CJANUxooaqGOtdsBTh7O,United States
-3886,4,2019,1wJRveJZLSb1rjhnUHQiv6,27,Swervin (feat. 6ix9ine),8,2019-04-03,A Boogie Wit da Hoodie,https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6,United States
-3913,5,2019,2Fxmhks0bxGSBdJ92vM42m,31,bad guy,2,2019-05-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m,United States
-3944,5,2019,6u7jPi22kF8CTQ3rb9DHE7,31,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,2019-05-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7,United States
-3975,5,2019,3KkXRkHbMCARz0aVfEt68P,30,Sunflower - Spider-Man: Into the Spider-Verse,4,2019-05-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,United States
-4005,5,2019,6LsAAHotRLMOHfCsSfYCsz,26,If I Can't Have You,3,2019-05-03,Shawn Mendes,https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz,United States
-4031,5,2019,5qmq61DAAOUaW8AUo8xKhh,25,Truth Hurts,8,2019-05-06,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh,United States
-4056,6,2019,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,2,2019-06-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m,United States
-4086,6,2019,5qmq61DAAOUaW8AUo8xKhh,30,Truth Hurts,6,2019-06-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh,United States
-4116,6,2019,6u7jPi22kF8CTQ3rb9DHE7,27,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,2019-06-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7,United States
-4143,6,2019,7DcvwMAiqKJQD1rrdfxSDx,27,The London (feat. J. Cole & Travis Scott),3,2019-06-01,Young Thug,https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx,United States
-4170,6,2019,3HVWdVOQ0ZA45FuZGSfvns,25,I Don't Care (with Justin Bieber),7,2019-06-01,Ed Sheeran,https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns,United States
-4195,7,2019,5qmq61DAAOUaW8AUo8xKhh,31,Truth Hurts,4,2019-07-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh,United States
-4226,7,2019,5ry2OE6R2zPQFDO85XkgRb,31,Money In The Grave (Drake ft. Rick Ross),3,2019-07-01,Drake,https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb,United States
-4257,7,2019,6fTt0CH2t0mdeB2N9XFG5r,31,Panini,2,2019-07-01,Lil Nas X,https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r,United States
-4288,7,2019,1kBbgxAUc4HQv7cgIayIDH,29,Ransom,8,2019-07-01,Lil Tecca,https://open.spotify.com/track/1kBbgxAUc4HQv7cgIayIDH,United States
-4317,7,2019,3KkXRkHbMCARz0aVfEt68P,29,Sunflower - Spider-Man: Into the Spider-Verse,10,2019-07-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P,United States
-4346,8,2019,5qmq61DAAOUaW8AUo8xKhh,30,Truth Hurts,3,2019-08-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh,United States
-4376,8,2019,6v3KW9xbzN5yKLt9YKDYA2,30,Señorita,2,2019-08-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2,United States
-4406,8,2019,1kBbgxAUc4HQv7cgIayIDH,29,Ransom,1,2019-08-01,Lil Tecca,https://open.spotify.com/track/1kBbgxAUc4HQv7cgIayIDH,United States
-4435,8,2019,6vBdBCoOhKHiYDDOcorfNo,29,Goodbyes (Feat. Young Thug),4,2019-08-01,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo,United States
-4464,8,2019,5ry2OE6R2zPQFDO85XkgRb,27,Money In The Grave (Drake ft. Rick Ross),5,2019-08-01,Drake,https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb,United States
-4491,9,2019,6vBdBCoOhKHiYDDOcorfNo,30,Goodbyes (Feat. Young Thug),5,2019-09-01,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo,United States
-4521,9,2019,6EOKwHETwSkZ9gW2b6ASE0,27,Ransom,2,2019-09-01,Lil Tecca,https://open.spotify.com/track/6EOKwHETwSkZ9gW2b6ASE0,United States
-4548,9,2019,5qmq61DAAOUaW8AUo8xKhh,23,Truth Hurts,3,2019-09-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh,United States
-4571,9,2019,21jGcNKet2qwijlDFuPiPb,15,Circles,1,2019-09-16,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb,United States
-4586,9,2019,0RiRZpuVRbi7oqRdSMwhQY,14,Sunflower - Spider-Man: Into the Spider-Verse,10,2019-09-16,"Post Malone, Swae Lee",https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY,United States
-4600,10,2019,21jGcNKet2qwijlDFuPiPb,29,Circles,1,2019-10-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb,United States
-4629,10,2019,3eekarcy7kvN4yt5ZFzltW,27,HIGHEST IN THE ROOM,1,2019-10-04,Travis Scott,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW,United States
-4656,10,2019,6Gg1gjgKi2AK4e0qzsR7sd,26,Bandit (with YoungBoy Never Broke Again),4,2019-10-04,Juice WRLD,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd,United States
-4682,10,2019,4sjiIpEv617LDXaidKioOI,24,223's (feat. 9lokknine),5,2019-10-01,YNW Melly,https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI,United States
-4706,10,2019,7aiClxsDWFRQ0Kzk5KI5ku,24,hot girl bummer,8,2019-10-03,blackbear,https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku,United States
-4730,11,2019,21jGcNKet2qwijlDFuPiPb,30,Circles,3,2019-11-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb,United States
-4760,11,2019,3eekarcy7kvN4yt5ZFzltW,30,HIGHEST IN THE ROOM,1,2019-11-01,Travis Scott,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW,United States
-4790,11,2019,6Gg1gjgKi2AK4e0qzsR7sd,30,Bandit (with YoungBoy Never Broke Again),4,2019-11-01,Juice WRLD,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd,United States
-4820,11,2019,1HfMVBKM75vxSfsQ5VefZ5,25,Lose You To Love Me,2,2019-11-01,Selena Gomez,https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5,United States
-4845,11,2019,7aiClxsDWFRQ0Kzk5KI5ku,21,hot girl bummer,8,2019-11-01,blackbear,https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku,United States
-4866,12,2019,696DnlkuDOXcMAnKlTgXXK,30,ROXANNE,2,2019-12-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK,United States
-4896,12,2019,21jGcNKet2qwijlDFuPiPb,29,Circles,4,2019-12-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb,United States
-4925,12,2019,6Gg1gjgKi2AK4e0qzsR7sd,26,Bandit (with YoungBoy Never Broke Again),10,2019-12-01,Juice WRLD,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd,United States
-4951,12,2019,6Ozh9Ok6h4Oi1wUSLtBseN,26,BOP,9,2019-12-01,DaBaby,https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN,United States
-4977,12,2019,4TnjEaWOeW0eKTKIEvJyCa,25,Falling,8,2019-12-01,Trevor Daniel,https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa,United States
-5002,1,2020,0nbXyq5TXYPCO7pr3N8S4I,31,The Box,1,2020-01-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I,United States
-5033,1,2020,696DnlkuDOXcMAnKlTgXXK,30,ROXANNE,2,2020-01-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK,United States
-5063,1,2020,6Ozh9Ok6h4Oi1wUSLtBseN,29,BOP,4,2020-01-01,DaBaby,https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN,United States
-5092,1,2020,21jGcNKet2qwijlDFuPiPb,28,Circles,3,2020-01-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb,United States
-5120,1,2020,4TnjEaWOeW0eKTKIEvJyCa,25,Falling,8,2020-01-01,Trevor Daniel,https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa,United States
-5145,2,2020,0nbXyq5TXYPCO7pr3N8S4I,29,The Box,1,2020-02-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I,United States
-5174,2,2020,0sf12qNH5qcw8qpgymFOqD,29,Blinding Lights,7,2020-02-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD,United States
-5203,2,2020,5yY9lUy8nbvjM1Uyo1Uqoc,29,Life Is Good (feat. Drake),2,2020-02-01,Future,https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc,United States
-5232,2,2020,696DnlkuDOXcMAnKlTgXXK,27,ROXANNE,4,2020-02-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK,United States
-5259,2,2020,07KXEDMj78x68D884wgVEm,24,High Fashion (feat. Mustard),10,2020-02-03,Roddy Ricch,https://open.spotify.com/track/07KXEDMj78x68D884wgVEm,United States
-5283,3,2020,0nbXyq5TXYPCO7pr3N8S4I,31,The Box,1,2020-03-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I,United States
-5314,3,2020,22LAwLoDA5b4AaGSkg6bKW,26,Blueberry Faygo,5,2020-03-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW,United States
-5340,3,2020,3Dv1eDb0MEgF93GpLXlucZ,23,Say So,2,2020-03-01,Doja Cat,https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ,United States
-5363,3,2020,4umIPjkehX1r7uhmGvXiSV,18,Intentions (feat. Quavo),6,2020-03-01,Justin Bieber,https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV,United States
-5381,3,2020,0sf12qNH5qcw8qpgymFOqD,16,Blinding Lights,3,2020-03-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD,United States
-5397,4,2020,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,1,2020-04-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b,United States
-5427,4,2020,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,2,2020-04-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I,United States
-5457,4,2020,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,3,2020-04-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW,United States
-5487,4,2020,127QTOFJsJQp5LbJbu3A1y,28,Toosie Slide,1,2020-04-03,Drake,https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y,United States
-5515,4,2020,24Yi9hE78yPEbZ4kxyoXAI,27,Roses - Imanbek Remix,8,2020-04-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI,United States
-5542,5,2020,39Yp9wwQiSRIDOvrVg7mbk,31,THE SCOTTS,3,2020-05-01,"THE SCOTTS, Travis Scott, Kid Cudi",https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk,United States
-5573,5,2020,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,6,2020-05-02,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b,United States
-5603,5,2020,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,9,2020-05-02,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I,United States
-5633,5,2020,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,8,2020-05-02,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW,United States
-5663,5,2020,466cKvZn1j45IpxDdYZqdA,30,Toosie Slide,2,2020-05-01,Drake,https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA,United States
-5693,6,2020,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,6,2020-06-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b,United States
-5723,6,2020,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,8,2020-06-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I,United States
-5753,6,2020,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,4,2020-06-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW,United States
-5783,6,2020,39Yp9wwQiSRIDOvrVg7mbk,30,THE SCOTTS,3,2020-06-01,"THE SCOTTS, Travis Scott, Kid Cudi",https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk,United States
-5813,6,2020,5RqR4ZCCKJDcBLIn4sih9l,30,Party Girl,5,2020-06-01,StaySolidRocky,https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l,United States
-5843,7,2020,7ytR5pFWmSjzHJIeQkgog4,27,ROCKSTAR (feat. Roddy Ricch),1,2020-07-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4,United States
-5870,7,2020,2MbdDtCv5LUVjYy9RuGTgC,22,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",2,2020-07-01,"Tory Lanez, Jack Harlow",https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC,United States
-5892,7,2020,6o3QUC5oAE4g6WxRIFcZtb,18,Wishing Well,6,2020-07-10,Juice WRLD,https://open.spotify.com/track/6o3QUC5oAE4g6WxRIFcZtb,United States
-5910,7,2020,7y7w4tl4MaRC2UMEj1mPtr,17,Come & Go (with Marshmello),2,2020-07-10,Juice WRLD,https://open.spotify.com/track/7y7w4tl4MaRC2UMEj1mPtr,United States
-5927,7,2020,22LAwLoDA5b4AaGSkg6bKW,14,Blueberry Faygo,5,2020-07-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW,United States
-5941,8,2020,2MbdDtCv5LUVjYy9RuGTgC,31,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",6,2020-08-01,"Tory Lanez, Jack Harlow",https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC,United States
-5972,8,2020,7ytR5pFWmSjzHJIeQkgog4,31,ROCKSTAR (feat. Roddy Ricch),2,2020-08-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4,United States
-6003,8,2020,2U5WueTLIK5WJLD7mvDODv,25,Wishing Well,4,2020-08-07,Juice WRLD,https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv,United States
-6028,8,2020,4Oun2ylbjFKMPTiaSbbCih,25,WAP (feat. Megan Thee Stallion),1,2020-08-07,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih,United States
-6053,8,2020,2Y0wPrPQBrGhoLn14xRYCG,24,Come & Go (with Marshmello),5,2020-08-07,Juice WRLD,https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG,United States
-6077,9,2020,0PvFJmanyNQMseIFrU708S,30,For The Night (feat. Lil Baby & DaBaby),4,2020-09-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S,United States
-6107,9,2020,2SAqBLGA283SUiwJ3xOUVI,30,Laugh Now Cry Later (feat. Lil Durk),2,2020-09-01,Drake,https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI,United States
-6137,9,2020,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),3,2020-09-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq,United States
-6167,9,2020,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),1,2020-09-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih,United States
-6197,9,2020,2MbdDtCv5LUVjYy9RuGTgC,29,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",8,2020-09-01,"Tory Lanez, Jack Harlow",https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC,United States
-6226,10,2020,0PvFJmanyNQMseIFrU708S,30,For The Night (feat. Lil Baby & DaBaby),4,2020-10-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S,United States
-6256,10,2020,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),3,2020-10-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq,United States
-6286,10,2020,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),1,2020-10-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih,United States
-6316,10,2020,7hxHWCCAIIxFLCzvDgnQHX,30,"Lemonade (feat. Gunna, Don Toliver & NAV)",2,2020-10-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX,United States
-6346,10,2020,2SAqBLGA283SUiwJ3xOUVI,28,Laugh Now Cry Later (feat. Lil Durk),5,2020-10-01,Drake,https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI,United States
-6374,11,2020,35mvY5S1H3J2QZyna3TFe0,30,positions,1,2020-11-01,Ariana Grande,https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0,United States
-6404,11,2020,7hxHWCCAIIxFLCzvDgnQHX,28,"Lemonade (feat. Gunna, Don Toliver & NAV)",5,2020-11-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX,United States
-6432,11,2020,3tjFYV6RSFtuktYl3ZtYcq,27,Mood (feat. iann dior),3,2020-11-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq,United States
-6459,11,2020,47EiUVwUp4C9fGccaPuUCS,26,DÁKITI,9,2020-11-01,"Bad Bunny, Jhay Cortez",https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS,United States
-6485,11,2020,0PvFJmanyNQMseIFrU708S,24,For The Night (feat. Lil Baby & DaBaby),6,2020-11-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S,United States
-6509,12,2020,0bYg9bo50gSsH3LtXe2SQn,25,All I Want for Christmas Is You,2,2020-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn,United States
-6534,12,2020,2EjXfH91m7f8HiJN1yQg97,25,Rockin' Around The Christmas Tree,3,2020-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97,United States
-6559,12,2020,7vQbuQcyTflfCIOu3Uzzya,24,Jingle Bell Rock,6,2020-12-01,Bobby Helms,https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya,United States
-6583,12,2020,1IcR6RlgvDczfvoWJSSY2A,23,It's the Most Wonderful Time of the Year,7,2020-12-01,Andy Williams,https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A,United States
-6606,12,2020,2FRnf9qhLbvw8fu4IBXx78,20,Last Christmas,10,2020-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78,United States
-6626,1,2021,3YJJjQPAbDT7mGpX3WtQ9A,31,Good Days,10,2021-01-01,SZA,https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A,United States
-6657,1,2021,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),1,2021-01-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq,United States
-6687,1,2021,7hxHWCCAIIxFLCzvDgnQHX,30,"Lemonade (feat. Gunna, Don Toliver & NAV)",4,2021-01-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX,United States
-6717,1,2021,5vGLcdRuSbUhD8ScwsGSdA,29,Whoopty,8,2021-01-02,CJ,https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA,United States
-6746,1,2021,7lPN2DXiMsVn7XUKtOW1CS,24,drivers license,5,2021-01-08,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS,United States
-6770,2,2021,0VjIjW4GlUZAMYd2vXMi3b,28,Blinding Lights,9,2021-02-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b,United States
-6798,2,2021,3YJJjQPAbDT7mGpX3WtQ9A,28,Good Days,2,2021-02-01,SZA,https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A,United States
-6826,2,2021,5QO79kh1waicV47BqGRL3g,28,Save Your Tears,4,2021-02-01,The Weeknd,https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g,United States
-6854,2,2021,60ynsPSSKe6O3sfwRnIBRf,28,Streets,3,2021-02-01,Doja Cat,https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf,United States
-6882,2,2021,7lPN2DXiMsVn7XUKtOW1CS,28,drivers license,1,2021-02-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS,United States
-6910,3,2021,1M4OcYkxAtu3ErzSgDEfoi,31,Up,4,2021-03-01,Cardi B,https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi,United States
-6941,3,2021,5Kskr9LcNYa0tpt5f0ZEJx,30,Calling My Phone,2,2021-03-01,"Lil Tjay, 6LACK",https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx,United States
-6971,3,2021,6tDDoYIxWvMLTdKpjFkc1B,30,telepatía,3,2021-03-01,Kali Uchis,https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B,United States
-7001,3,2021,7lPN2DXiMsVn7XUKtOW1CS,30,drivers license,1,2021-03-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS,United States
-7031,3,2021,7MAibcTli4IisCtbHKrGMh,26,Leave The Door Open,4,2021-03-05,"Bruno Mars, Anderson .Paak, Silk Sonic",https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh,United States
-7057,4,2021,4iJyoBOLtHqaGxP12qzhQI,30,Peaches (feat. Daniel Caesar & Giveon),2,2021-04-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI,United States
-7087,4,2021,3VT8hOC5vuDXBsHrR53WFh,29,Astronaut In The Ocean,4,2021-04-01,Masked Wolf,https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh,United States
-7116,4,2021,5nujrmhLynf4yMoMtj8AQF,28,Levitating (feat. DaBaby),9,2021-04-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF,United States
-7144,4,2021,61KpQadow081I2AsbeLcsb,28,deja vu,3,2021-04-02,Olivia Rodrigo,https://open.spotify.com/track/61KpQadow081I2AsbeLcsb,United States
-7172,4,2021,3FAJ6O0NOHQV8Mc5Ri6ENp,22,Heartbreak Anniversary,10,2021-04-01,Giveon,https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp,United States
-7194,5,2021,748mdHapucXQri7IAO8yFK,27,Kiss Me More (feat. SZA),2,2021-05-01,Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK,United States
-7221,5,2021,43PGPuHIlVOc04jrZVh9L6,21,RAPSTAR,1,2021-05-01,Polo G,https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6,United States
-7242,5,2021,5nujrmhLynf4yMoMtj8AQF,18,Levitating (feat. DaBaby),6,2021-05-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF,United States
-7260,5,2021,61KpQadow081I2AsbeLcsb,17,deja vu,7,2021-05-01,Olivia Rodrigo,https://open.spotify.com/track/61KpQadow081I2AsbeLcsb,United States
-7277,5,2021,67BtfxlNbhBmCDR2L2l8qd,16,MONTERO (Call Me By Your Name),3,2021-05-01,Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd,United States
-7293,6,2021,4ZtFanR9U6ndgddUvNcjcG,30,good 4 u,1,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG,United States
-7323,6,2021,6HU7h9RYOaPRFeh0R3UeAr,28,deja vu,2,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr,United States
-7351,6,2021,5CZ40GBx1sQ9agT82CLQCT,27,traitor,3,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT,United States
-7378,6,2021,5nujrmhLynf4yMoMtj8AQF,25,Levitating (feat. DaBaby),6,2021-06-05,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF,United States
-7403,6,2021,748mdHapucXQri7IAO8yFK,24,Kiss Me More (feat. SZA),5,2021-06-01,Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK,United States
-7427,7,2021,3DarAbFujv6eYNliUTyqtz,31,Kiss Me More (feat. SZA),2,2021-07-01,Doja Cat,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz,United States
-7458,7,2021,4ZtFanR9U6ndgddUvNcjcG,31,good 4 u,1,2021-07-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG,United States
-7489,7,2021,3Wrjm47oTz2sjIgck11l5e,28,Beggin',9,2021-07-03,Måneskin,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e,United States
-7517,7,2021,5nujrmhLynf4yMoMtj8AQF,27,Levitating (feat. DaBaby),6,2021-07-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF,United States
-7544,7,2021,5lAnYvAIkSDNXqfo7DyFUm,25,Ain't Shit,10,2021-07-06,Doja Cat,https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm,United States
-7569,8,2021,27NovPIUIRrOZoCHxABJwK,29,INDUSTRY BABY (feat. Jack Harlow),2,2021-08-01,Lil Nas X,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK,United States
-7598,8,2021,5PjdY0CKGZdEuoNab3yDmX,29,STAY (with Justin Bieber),1,2021-08-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX,United States
-7627,8,2021,3DarAbFujv6eYNliUTyqtz,28,Kiss Me More (feat. SZA),5,2021-08-01,Doja Cat,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz,United States
-7655,8,2021,3Vi5XqYrmQgOYBajMWSvCi,28,Need To Know,8,2021-08-01,Doja Cat,https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi,United States
-7683,8,2021,4RVwu0g32PAqgUiJoXsdF8,28,Happier Than Ever,3,2021-08-01,Billie Eilish,https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8,United States
-7711,9,2021,0k1WUmIRnG3xU6fvvDVfRG,28,Way 2 Sexy (with Future & Young Thug),5,2021-09-03,Drake,https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG,United States
-7739,9,2021,2BcMwX1MPV6ZHP4tUT9uq6,28,Knife Talk (with 21 Savage ft. Project Pat),9,2021-09-03,Drake,https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6,United States
-7767,9,2021,40iJIUlhi6renaREYGeIDS,28,Fair Trade (with Travis Scott),3,2021-09-03,Drake,https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS,United States
-7795,9,2021,5PjdY0CKGZdEuoNab3yDmX,28,STAY (with Justin Bieber),2,2021-09-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX,United States
-7823,9,2021,02MWAaffLxlfxAUY7c5dvx,24,Heat Waves,9,2021-09-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx,United States
-7847,10,2021,02MWAaffLxlfxAUY7c5dvx,31,Heat Waves,5,2021-10-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx,United States
-7878,10,2021,0k1WUmIRnG3xU6fvvDVfRG,31,Way 2 Sexy (with Future & Young Thug),4,2021-10-01,Drake,https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG,United States
-7909,10,2021,2BcMwX1MPV6ZHP4tUT9uq6,31,Knife Talk (with 21 Savage ft. Project Pat),3,2021-10-01,Drake,https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6,United States
-7940,10,2021,5PjdY0CKGZdEuoNab3yDmX,31,STAY (with Justin Bieber),2,2021-10-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX,United States
-7971,10,2021,5Z9KJZvQzH6PFmb8SNkxuk,31,INDUSTRY BABY (feat. Jack Harlow),1,2021-10-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk,United States
-8002,11,2021,5Z9KJZvQzH6PFmb8SNkxuk,28,INDUSTRY BABY (feat. Jack Harlow),2,2021-11-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk,United States
-8030,11,2021,5PjdY0CKGZdEuoNab3yDmX,25,STAY (with Justin Bieber),3,2021-11-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX,United States
-8055,11,2021,02MWAaffLxlfxAUY7c5dvx,23,Heat Waves,4,2021-11-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx,United States
-8078,11,2021,5enxwA8aAbwZbf5qCHORXi,19,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),1,2021-11-12,Taylor Swift,https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi,United States
-8097,11,2021,7sMBvZCSUl99bJLXZaLa0b,17,Smokin Out The Window,6,2021-11-12,"Bruno Mars, Anderson .Paak, Silk Sonic",https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b,United States
-8114,12,2021,0bYg9bo50gSsH3LtXe2SQn,24,All I Want for Christmas Is You,9,2021-12-03,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn,United States
-8138,12,2021,2EjXfH91m7f8HiJN1yQg97,24,Rockin' Around The Christmas Tree,8,2021-12-03,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97,United States
-8162,12,2021,5Z9KJZvQzH6PFmb8SNkxuk,22,INDUSTRY BABY (feat. Jack Harlow),2,2021-12-03,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk,United States
-8184,12,2021,7vQbuQcyTflfCIOu3Uzzya,22,Jingle Bell Rock,4,2021-12-04,Bobby Helms,https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya,United States
-8206,12,2021,1IcR6RlgvDczfvoWJSSY2A,19,It's the Most Wonderful Time of the Year,9,2021-12-04,Andy Williams,https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A,United States
+,month,year,region,id,count,title,rank,date,artist,url
+0,1,2017,Canada,343YBumqHu19cGoGARUTsd,31,Fake Love,3,2017-01-01,Drake,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd
+31,1,2017,Canada,3NdDpSvN911VPGivFlV5d0,31,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",9,2017-01-01,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0
+62,1,2017,Canada,4Km5HrUvYTaSUfiSGPJeQR,31,Bad and Boujee (feat. Lil Uzi Vert),4,2017-01-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR
+93,1,2017,Canada,5aAx2yezTd8zXrkmtKl66Z,31,Starboy,1,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z
+124,1,2017,Canada,5knuzwU65gJK7IF5yJsuaW,30,Rockabye (feat. Sean Paul & Anne-Marie),10,2017-01-01,Clean Bandit,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW
+154,1,2017,United Kingdom,5Ua3GXyHwiSfpNTMjq6m2z,31,Touch,6,2017-01-01,Little Mix,https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z
+185,1,2017,United Kingdom,5knuzwU65gJK7IF5yJsuaW,31,Rockabye (feat. Sean Paul & Anne-Marie),1,2017-01-01,Clean Bandit,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW
+216,1,2017,United Kingdom,4Q4jmPHwu0wrJvqrld0FQ6,28,I Would Like,5,2017-01-01,Zara Larsson,https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6
+244,1,2017,United Kingdom,58zsLZPvfflaiIbNWoA22O,27,Human,9,2017-01-02,Rag'n'Bone Man,https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O
+271,1,2017,United Kingdom,6PCUP3dWmTjcTtXY02oFdT,26,Castle on the Hill,2,2017-01-06,Ed Sheeran,https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT
+297,1,2017,United States,0SGkqnVQo9KPytSri1H6cF,31,Bounce Back,10,2017-01-01,Big Sean,https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF
+328,1,2017,United States,343YBumqHu19cGoGARUTsd,31,Fake Love,2,2017-01-01,Drake,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd
+359,1,2017,United States,4Km5HrUvYTaSUfiSGPJeQR,31,Bad and Boujee (feat. Lil Uzi Vert),1,2017-01-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR
+390,1,2017,United States,5aAx2yezTd8zXrkmtKl66Z,31,Starboy,3,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z
+421,1,2017,United States,3NdDpSvN911VPGivFlV5d0,30,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",9,2017-01-02,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0
+451,2,2017,Canada,3NdDpSvN911VPGivFlV5d0,28,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",3,2017-02-01,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0
+479,2,2017,Canada,72jbDTw1piOOj770jWNeaG,28,Paris,2,2017-02-01,The Chainsmokers,https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG
+507,2,2017,Canada,7qiZfU4dY1lWllzX7mPBI3,28,Shape of You,1,2017-02-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+535,2,2017,Canada,4Km5HrUvYTaSUfiSGPJeQR,26,Bad and Boujee (feat. Lil Uzi Vert),4,2017-02-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR
+561,2,2017,Canada,5knuzwU65gJK7IF5yJsuaW,23,Rockabye (feat. Sean Paul & Anne-Marie),6,2017-02-01,Clean Bandit,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW
+584,2,2017,United Kingdom,6PCUP3dWmTjcTtXY02oFdT,28,Castle on the Hill,2,2017-02-01,Ed Sheeran,https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT
+612,2,2017,United Kingdom,72jbDTw1piOOj770jWNeaG,28,Paris,4,2017-02-01,The Chainsmokers,https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG
+640,2,2017,United Kingdom,7qiZfU4dY1lWllzX7mPBI3,28,Shape of You,1,2017-02-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+668,2,2017,United Kingdom,00lNx0OcTJrS3MKHcB80HY,27,You Don't Know Me - Radio Edit,3,2017-02-01,"Jax Jones, RAYE",https://open.spotify.com/track/00lNx0OcTJrS3MKHcB80HY
+695,2,2017,United Kingdom,5Ua3GXyHwiSfpNTMjq6m2z,24,Touch,5,2017-02-01,Little Mix,https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z
+719,2,2017,United States,0SGkqnVQo9KPytSri1H6cF,28,Bounce Back,7,2017-02-01,Big Sean,https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF
+747,2,2017,United States,2EEeOnHehOozLq4aS0n6SL,28,iSpy (feat. Lil Yachty),8,2017-02-01,KYLE,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL
+775,2,2017,United States,3NdDpSvN911VPGivFlV5d0,28,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",3,2017-02-01,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0
+803,2,2017,United States,4Km5HrUvYTaSUfiSGPJeQR,28,Bad and Boujee (feat. Lil Uzi Vert),1,2017-02-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR
+831,2,2017,United States,7qiZfU4dY1lWllzX7mPBI3,28,Shape of You,2,2017-02-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+859,3,2017,Canada,7qiZfU4dY1lWllzX7mPBI3,31,Shape of You,1,2017-03-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+890,3,2017,Canada,3eR23VReFzcdmS7TYCrhCe,26,It Ain't Me (with Selena Gomez),2,2017-03-01,Kygo,https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe
+916,3,2017,Canada,6RUKPb4LETWmmr3iAEQktW,25,Something Just Like This,3,2017-03-01,"The Chainsmokers, Coldplay",https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW
+941,3,2017,Canada,0dA2Mk56wEzDgegdC6R17g,24,Stay (with Alessia Cara),6,2017-03-01,Zedd,https://open.spotify.com/track/0dA2Mk56wEzDgegdC6R17g
+965,3,2017,Canada,3rOSwuTsUlJp0Pu0MkN8r8,19,Mask Off,6,2017-03-08,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+984,3,2017,United Kingdom,7qiZfU4dY1lWllzX7mPBI3,31,Shape of You,1,2017-03-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+1015,3,2017,United Kingdom,6PCUP3dWmTjcTtXY02oFdT,30,Castle on the Hill,4,2017-03-01,Ed Sheeran,https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT
+1045,3,2017,United Kingdom,0afhq8XCExXpqazXczTSve,29,Galway Girl,2,2017-03-03,Ed Sheeran,https://open.spotify.com/track/0afhq8XCExXpqazXczTSve
+1074,3,2017,United Kingdom,5HDPtsnyb3maFmPL8LLUTG,23,New Man,4,2017-03-03,Ed Sheeran,https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG
+1097,3,2017,United Kingdom,0tgVpDi06FyKpA1z0VMD4v,20,Perfect,5,2017-03-03,Ed Sheeran,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+1117,3,2017,United States,7qiZfU4dY1lWllzX7mPBI3,29,Shape of You,1,2017-03-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+1146,3,2017,United States,0KKkJNfGyhkQ5aFogxQAPU,26,That's What I Like,7,2017-03-01,Bruno Mars,https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU
+1172,3,2017,United States,2EEeOnHehOozLq4aS0n6SL,26,iSpy (feat. Lil Yachty),2,2017-03-01,KYLE,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL
+1198,3,2017,United States,4Q3N4Ct4zCuIHuZ65E3BD4,25,Tunnel Vision,9,2017-03-01,Kodak Black,https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4
+1223,3,2017,United States,3rOSwuTsUlJp0Pu0MkN8r8,23,Mask Off,10,2017-03-06,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+1246,4,2017,Canada,3rOSwuTsUlJp0Pu0MkN8r8,30,Mask Off,4,2017-04-01,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+1276,4,2017,Canada,7KXjTSCq5nL1LoYtL7XAwS,30,HUMBLE.,3,2017-04-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+1306,4,2017,Canada,7hDc8b7IXETo14hHIHdnhd,30,Passionfruit,2,2017-04-01,Drake,https://open.spotify.com/track/7hDc8b7IXETo14hHIHdnhd
+1336,4,2017,Canada,7qiZfU4dY1lWllzX7mPBI3,30,Shape of You,1,2017-04-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+1366,4,2017,Canada,3eR23VReFzcdmS7TYCrhCe,28,It Ain't Me (with Selena Gomez),5,2017-04-01,Kygo,https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe
+1394,4,2017,United Kingdom,0afhq8XCExXpqazXczTSve,30,Galway Girl,1,2017-04-01,Ed Sheeran,https://open.spotify.com/track/0afhq8XCExXpqazXczTSve
+1424,4,2017,United Kingdom,0dA2Mk56wEzDgegdC6R17g,30,Stay (with Alessia Cara),9,2017-04-01,Zedd,https://open.spotify.com/track/0dA2Mk56wEzDgegdC6R17g
+1454,4,2017,United Kingdom,1x5sYLZiu9r5E43kMlt9f8,30,Symphony (feat. Zara Larsson),4,2017-04-01,Clean Bandit,https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8
+1484,4,2017,United Kingdom,7hDc8b7IXETo14hHIHdnhd,30,Passionfruit,3,2017-04-01,Drake,https://open.spotify.com/track/7hDc8b7IXETo14hHIHdnhd
+1514,4,2017,United Kingdom,7qiZfU4dY1lWllzX7mPBI3,30,Shape of You,2,2017-04-01,Ed Sheeran,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+1544,4,2017,United States,7KXjTSCq5nL1LoYtL7XAwS,30,HUMBLE.,1,2017-04-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+1574,4,2017,United States,3rOSwuTsUlJp0Pu0MkN8r8,29,Mask Off,2,2017-04-01,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+1603,4,2017,United States,2eMwDehkIC1j68U6FA3Eiq,26,XO TOUR Llif3,9,2017-04-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+1629,4,2017,United States,7hDc8b7IXETo14hHIHdnhd,24,Passionfruit,3,2017-04-01,Drake,https://open.spotify.com/track/7hDc8b7IXETo14hHIHdnhd
+1653,4,2017,United States,2EEeOnHehOozLq4aS0n6SL,23,iSpy (feat. Lil Yachty),5,2017-04-01,KYLE,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL
+1676,5,2017,Canada,1F2HXIJrE2Xn81OzT2zZvW,29,Unforgettable,8,2017-05-01,"French Montana, Swae Lee",https://open.spotify.com/track/1F2HXIJrE2Xn81OzT2zZvW
+1705,5,2017,Canada,2eMwDehkIC1j68U6FA3Eiq,29,XO TOUR Llif3,9,2017-05-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+1734,5,2017,Canada,3rOSwuTsUlJp0Pu0MkN8r8,29,Mask Off,5,2017-05-01,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+1763,5,2017,Canada,72Q0FQQo32KJloivv5xge2,29,I'm the One,1,2017-05-01,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",https://open.spotify.com/track/72Q0FQQo32KJloivv5xge2
+1792,5,2017,Canada,7KXjTSCq5nL1LoYtL7XAwS,29,HUMBLE.,3,2017-05-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+1821,5,2017,United Kingdom,1x5sYLZiu9r5E43kMlt9f8,29,Symphony (feat. Zara Larsson),2,2017-05-01,Clean Bandit,https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8
+1850,5,2017,United Kingdom,6kex4EBAj0WHXDKZMEJaaF,29,Swalla (feat. Nicki Minaj & Ty Dolla $ign),7,2017-05-01,Jason Derulo,https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF
+1879,5,2017,United Kingdom,72Q0FQQo32KJloivv5xge2,29,I'm the One,1,2017-05-01,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",https://open.spotify.com/track/72Q0FQQo32KJloivv5xge2
+1908,5,2017,United Kingdom,79cuOz3SPQTuFrp8WgftAu,29,There's Nothing Holdin' Me Back,9,2017-05-01,Shawn Mendes,https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu
+1937,5,2017,United Kingdom,5CtI0qwDJkDQGwXD1H1cLb,27,Despacito - Remix,6,2017-05-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+1964,5,2017,United States,2eMwDehkIC1j68U6FA3Eiq,29,XO TOUR Llif3,6,2017-05-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+1993,5,2017,United States,3rOSwuTsUlJp0Pu0MkN8r8,29,Mask Off,5,2017-05-01,Future,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+2022,5,2017,United States,6HZILIRieu8S0iqY8kIKhj,29,DNA.,4,2017-05-01,Kendrick Lamar,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+2051,5,2017,United States,72Q0FQQo32KJloivv5xge2,29,I'm the One,2,2017-05-01,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",https://open.spotify.com/track/72Q0FQQo32KJloivv5xge2
+2080,5,2017,United States,7KXjTSCq5nL1LoYtL7XAwS,29,HUMBLE.,1,2017-05-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+2109,6,2017,Canada,2eMwDehkIC1j68U6FA3Eiq,29,XO TOUR Llif3,5,2017-06-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+2138,6,2017,Canada,5CtI0qwDJkDQGwXD1H1cLb,29,Despacito - Remix,1,2017-06-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2167,6,2017,Canada,7KXjTSCq5nL1LoYtL7XAwS,29,HUMBLE.,3,2017-06-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+2196,6,2017,Canada,3DXncPQOG4VBw3QHh3S817,26,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",2,2017-06-05,DJ Khaled,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817
+2222,6,2017,Canada,6EpRaXYhGOB3fj4V2uDkMJ,26,Strip That Down,10,2017-06-04,"Liam Payne, Quavo",https://open.spotify.com/track/6EpRaXYhGOB3fj4V2uDkMJ
+2248,6,2017,United Kingdom,4iLqG9SeJSnt0cSPICSjxv,29,Attention,9,2017-06-01,Charlie Puth,https://open.spotify.com/track/4iLqG9SeJSnt0cSPICSjxv
+2277,6,2017,United Kingdom,5CtI0qwDJkDQGwXD1H1cLb,29,Despacito - Remix,1,2017-06-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2306,6,2017,United Kingdom,6EpRaXYhGOB3fj4V2uDkMJ,29,Strip That Down,4,2017-06-01,"Liam Payne, Quavo",https://open.spotify.com/track/6EpRaXYhGOB3fj4V2uDkMJ
+2335,6,2017,United Kingdom,79cuOz3SPQTuFrp8WgftAu,28,There's Nothing Holdin' Me Back,5,2017-06-01,Shawn Mendes,https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu
+2363,6,2017,United Kingdom,3DXncPQOG4VBw3QHh3S817,26,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",2,2017-06-05,DJ Khaled,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817
+2389,6,2017,United States,2eMwDehkIC1j68U6FA3Eiq,29,XO TOUR Llif3,4,2017-06-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+2418,6,2017,United States,3a1lNhkSLSkpJE4MSHpDu9,29,Congratulations,5,2017-06-01,"Post Malone, Quavo",https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9
+2447,6,2017,United States,5CtI0qwDJkDQGwXD1H1cLb,29,Despacito - Remix,2,2017-06-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2476,6,2017,United States,7KXjTSCq5nL1LoYtL7XAwS,29,HUMBLE.,1,2017-06-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+2505,6,2017,United States,3kxfsdsCpFgN412fpnW85Y,27,Redbone,10,2017-06-04,Childish Gambino,https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y
+2532,7,2017,Canada,1OAh8uOEOvTDqkKFsKksCi,31,Wild Thoughts (feat. Rihanna & Bryson Tiller),2,2017-07-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+2563,7,2017,Canada,2eMwDehkIC1j68U6FA3Eiq,31,XO TOUR Llif3,6,2017-07-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+2594,7,2017,Canada,3DXncPQOG4VBw3QHh3S817,31,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",3,2017-07-01,DJ Khaled,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817
+2625,7,2017,Canada,5CtI0qwDJkDQGwXD1H1cLb,31,Despacito - Remix,1,2017-07-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2656,7,2017,Canada,5bcTCxgc7xVfSaMV3RuVke,31,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",8,2017-07-01,"Calvin Harris, Funk Wav",https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+2687,7,2017,United Kingdom,1OAh8uOEOvTDqkKFsKksCi,31,Wild Thoughts (feat. Rihanna & Bryson Tiller),2,2017-07-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+2718,7,2017,United Kingdom,3DXncPQOG4VBw3QHh3S817,31,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",5,2017-07-01,DJ Khaled,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817
+2749,7,2017,United Kingdom,5CtI0qwDJkDQGwXD1H1cLb,31,Despacito - Remix,1,2017-07-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2780,7,2017,United Kingdom,5bcTCxgc7xVfSaMV3RuVke,31,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",8,2017-07-01,"Calvin Harris, Funk Wav",https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+2811,7,2017,United Kingdom,6EpRaXYhGOB3fj4V2uDkMJ,30,Strip That Down,6,2017-07-01,"Liam Payne, Quavo",https://open.spotify.com/track/6EpRaXYhGOB3fj4V2uDkMJ
+2841,7,2017,United States,1OAh8uOEOvTDqkKFsKksCi,31,Wild Thoughts (feat. Rihanna & Bryson Tiller),3,2017-07-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+2872,7,2017,United States,2eMwDehkIC1j68U6FA3Eiq,31,XO TOUR Llif3,2,2017-07-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+2903,7,2017,United States,3DXncPQOG4VBw3QHh3S817,31,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",4,2017-07-01,DJ Khaled,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817
+2934,7,2017,United States,3a1lNhkSLSkpJE4MSHpDu9,31,Congratulations,7,2017-07-01,"Post Malone, Quavo",https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9
+2965,7,2017,United States,5CtI0qwDJkDQGwXD1H1cLb,31,Despacito - Remix,1,2017-07-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2996,8,2017,Canada,2rb5MvYT7ZIxbKW5hfcHx8,31,Mi Gente,7,2017-08-01,"J Balvin, Willy William",https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+3027,8,2017,Canada,3B54sVLJ402zGa6Xm4YGNe,31,Unforgettable,2,2017-08-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+3058,8,2017,Canada,5bcTCxgc7xVfSaMV3RuVke,31,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",5,2017-08-01,"Calvin Harris, Funk Wav",https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+3089,8,2017,Canada,1OAh8uOEOvTDqkKFsKksCi,30,Wild Thoughts (feat. Rihanna & Bryson Tiller),3,2017-08-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+3119,8,2017,Canada,5CtI0qwDJkDQGwXD1H1cLb,28,Despacito - Remix,1,2017-08-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+3147,8,2017,United Kingdom,1OAh8uOEOvTDqkKFsKksCi,31,Wild Thoughts (feat. Rihanna & Bryson Tiller),1,2017-08-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+3178,8,2017,United Kingdom,2ekn2ttSfGqwhhate0LSR0,31,New Rules,6,2017-08-01,Dua Lipa,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+3209,8,2017,United Kingdom,3B54sVLJ402zGa6Xm4YGNe,31,Unforgettable,2,2017-08-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+3240,8,2017,United Kingdom,5CtI0qwDJkDQGwXD1H1cLb,31,Despacito - Remix,3,2017-08-01,"Luis Fonsi, Daddy Yankee, Justin Bieber",https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+3271,8,2017,United Kingdom,5bcTCxgc7xVfSaMV3RuVke,31,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",4,2017-08-01,"Calvin Harris, Funk Wav",https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+3302,8,2017,United States,3B54sVLJ402zGa6Xm4YGNe,31,Unforgettable,1,2017-08-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+3333,8,2017,United States,5eqK0tbzUPo2SoeZsov04s,31,Bank Account,5,2017-08-01,21 Savage,https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s
+3364,8,2017,United States,7KXjTSCq5nL1LoYtL7XAwS,27,HUMBLE.,6,2017-08-01,Kendrick Lamar,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+3391,8,2017,United States,1OAh8uOEOvTDqkKFsKksCi,26,Wild Thoughts (feat. Rihanna & Bryson Tiller),3,2017-08-01,DJ Khaled,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+3417,8,2017,United States,2eMwDehkIC1j68U6FA3Eiq,24,XO TOUR Llif3,2,2017-08-01,Lil Uzi Vert,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+3441,9,2017,Canada,3B54sVLJ402zGa6Xm4YGNe,30,Unforgettable,2,2017-09-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+3471,9,2017,Canada,0ofbQMrRDsUaVKq2mGLEAb,29,Havana,9,2017-09-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+3500,9,2017,Canada,2rb5MvYT7ZIxbKW5hfcHx8,27,Mi Gente,4,2017-09-01,"J Balvin, Willy William",https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+3527,9,2017,Canada,7vGuf3Y35N4wmASOKLUVVU,27,Silence,7,2017-09-01,"Marshmello, Khalid",https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+3554,9,2017,Canada,5tz69p7tJuGPeMGwNTxYuV,24,1-800-273-8255,10,2017-09-07,"Logic, Alessia Cara, Khalid",https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+3578,9,2017,United Kingdom,2ekn2ttSfGqwhhate0LSR0,30,New Rules,1,2017-09-01,Dua Lipa,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+3608,9,2017,United Kingdom,3B54sVLJ402zGa6Xm4YGNe,30,Unforgettable,3,2017-09-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+3638,9,2017,United Kingdom,0ofbQMrRDsUaVKq2mGLEAb,27,Havana,10,2017-09-03,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+3665,9,2017,United Kingdom,7nZmah2llfvLDiUjm0kiyz,26,Friends (with BloodPop®),5,2017-09-01,Justin Bieber,https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz
+3691,9,2017,United Kingdom,6uFsE1JgZ20EXyU0JQZbUR,25,Look What You Made Me Do,2,2017-09-01,Taylor Swift,https://open.spotify.com/track/6uFsE1JgZ20EXyU0JQZbUR
+3716,9,2017,United States,2771LMNxwf62FTAdpJMQfM,30,Bodak Yellow,5,2017-09-01,Cardi B,https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM
+3746,9,2017,United States,5Z3GHaZ6ec9bsiI5BenrbY,30,Young Dumb & Broke,8,2017-09-01,Khalid,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY
+3776,9,2017,United States,5tz69p7tJuGPeMGwNTxYuV,30,1-800-273-8255,2,2017-09-01,"Logic, Alessia Cara, Khalid",https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+3806,9,2017,United States,7GX5flRQZVHRAGd6B4TmDO,30,XO Tour Llif3,3,2017-09-01,Lil Uzi Vert,https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO
+3836,9,2017,United States,3B54sVLJ402zGa6Xm4YGNe,29,Unforgettable,7,2017-09-01,"French Montana, Swae Lee",https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+3865,10,2017,Canada,0ofbQMrRDsUaVKq2mGLEAb,31,Havana,5,2017-10-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+3896,10,2017,Canada,2fQrGHiQOvpL9UgPvtYy6G,31,Bank Account,6,2017-10-01,21 Savage,https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G
+3927,10,2017,Canada,5tz69p7tJuGPeMGwNTxYuV,31,1-800-273-8255,3,2017-10-01,"Logic, Alessia Cara, Khalid",https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+3958,10,2017,Canada,7vGuf3Y35N4wmASOKLUVVU,31,Silence,8,2017-10-01,"Marshmello, Khalid",https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+3989,10,2017,Canada,0mel2N9Ws9r4yLQn5QE21Y,26,Too Good At Goodbyes - Edit,7,2017-10-01,Sam Smith,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+4015,10,2017,United Kingdom,0mel2N9Ws9r4yLQn5QE21Y,31,Too Good At Goodbyes - Edit,4,2017-10-01,Sam Smith,https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y
+4046,10,2017,United Kingdom,0ofbQMrRDsUaVKq2mGLEAb,31,Havana,3,2017-10-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+4077,10,2017,United Kingdom,1j4kHkkpqZRBwE0A4CN4Yv,31,Dusk Till Dawn - Radio Edit,5,2017-10-01,"ZAYN, Sia",https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+4108,10,2017,United Kingdom,2OALaHcDdKkjYEpAr0Qzab,31,Lonely Together (feat. Rita Ora),10,2017-10-01,Avicii,https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab
+4139,10,2017,United Kingdom,2ekn2ttSfGqwhhate0LSR0,31,New Rules,2,2017-10-01,Dua Lipa,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+4170,10,2017,United States,2fQrGHiQOvpL9UgPvtYy6G,31,Bank Account,4,2017-10-01,21 Savage,https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G
+4201,10,2017,United States,5tz69p7tJuGPeMGwNTxYuV,31,1-800-273-8255,3,2017-10-01,"Logic, Alessia Cara, Khalid",https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+4232,10,2017,United States,2771LMNxwf62FTAdpJMQfM,30,Bodak Yellow,2,2017-10-01,Cardi B,https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM
+4262,10,2017,United States,75ZvA4QfFiZvzhj2xkaWAh,30,I Fall Apart,7,2017-10-02,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+4292,10,2017,United States,5Z3GHaZ6ec9bsiI5BenrbY,29,Young Dumb & Broke,7,2017-10-01,Khalid,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY
+4321,11,2017,Canada,0ofbQMrRDsUaVKq2mGLEAb,30,Havana,2,2017-11-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+4351,11,2017,Canada,43ZyHQITOjhciSUUNPVRHc,30,Gucci Gang,5,2017-11-01,Lil Pump,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc
+4381,11,2017,Canada,7EmGUiUaOSGDnUUQUDrOXC,30,Wolves,4,2017-11-01,"Selena Gomez, Marshmello",https://open.spotify.com/track/7EmGUiUaOSGDnUUQUDrOXC
+4411,11,2017,Canada,7wGoVu4Dady5GV0Sv4UIsx,30,rockstar,1,2017-11-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+4441,11,2017,Canada,7vGuf3Y35N4wmASOKLUVVU,29,Silence,7,2017-11-01,"Marshmello, Khalid",https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+4470,11,2017,United Kingdom,0ofbQMrRDsUaVKq2mGLEAb,30,Havana,2,2017-11-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+4500,11,2017,United Kingdom,2ekn2ttSfGqwhhate0LSR0,30,New Rules,3,2017-11-01,Dua Lipa,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+4530,11,2017,United Kingdom,7vGuf3Y35N4wmASOKLUVVU,30,Silence,4,2017-11-01,"Marshmello, Khalid",https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+4560,11,2017,United Kingdom,7wGoVu4Dady5GV0Sv4UIsx,30,rockstar,1,2017-11-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+4590,11,2017,United Kingdom,2nUJvBO87SkxCViQsLc9Zr,26,Man's Not Hot,10,2017-11-03,Big Shaq,https://open.spotify.com/track/2nUJvBO87SkxCViQsLc9Zr
+4616,11,2017,United States,0ofbQMrRDsUaVKq2mGLEAb,30,Havana,4,2017-11-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+4646,11,2017,United States,2fQrGHiQOvpL9UgPvtYy6G,30,Bank Account,6,2017-11-01,21 Savage,https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G
+4676,11,2017,United States,43ZyHQITOjhciSUUNPVRHc,30,Gucci Gang,3,2017-11-01,Lil Pump,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc
+4706,11,2017,United States,75ZvA4QfFiZvzhj2xkaWAh,30,I Fall Apart,5,2017-11-01,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+4736,11,2017,United States,7wGoVu4Dady5GV0Sv4UIsx,30,rockstar,1,2017-11-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+4766,12,2017,Canada,0ofbQMrRDsUaVKq2mGLEAb,30,Havana,2,2017-12-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+4796,12,2017,Canada,7wGoVu4Dady5GV0Sv4UIsx,30,rockstar,1,2017-12-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+4826,12,2017,Canada,43ZyHQITOjhciSUUNPVRHc,28,Gucci Gang,3,2017-12-01,Lil Pump,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc
+4854,12,2017,Canada,7EmGUiUaOSGDnUUQUDrOXC,27,Wolves,5,2017-12-01,"Selena Gomez, Marshmello",https://open.spotify.com/track/7EmGUiUaOSGDnUUQUDrOXC
+4881,12,2017,Canada,0bYg9bo50gSsH3LtXe2SQn,22,All I Want for Christmas Is You,6,2017-12-02,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+4903,12,2017,United Kingdom,7wGoVu4Dady5GV0Sv4UIsx,29,rockstar,3,2017-12-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+4932,12,2017,United Kingdom,0ofbQMrRDsUaVKq2mGLEAb,27,Havana,6,2017-12-01,"Camila Cabello, Young Thug",https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+4959,12,2017,United Kingdom,0bYg9bo50gSsH3LtXe2SQn,26,All I Want for Christmas Is You,1,2017-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+4985,12,2017,United Kingdom,2FRnf9qhLbvw8fu4IBXx78,26,Last Christmas,4,2017-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+5011,12,2017,United Kingdom,3VTNVsTTu05dmTsVFrmGpK,25,Fairytale of New York (feat. Kirsty MacColl),5,2017-12-01,The Pogues,https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK
+5036,12,2017,United States,7wGoVu4Dady5GV0Sv4UIsx,31,rockstar,1,2017-12-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+5067,12,2017,United States,43ZyHQITOjhciSUUNPVRHc,30,Gucci Gang,2,2017-12-01,Lil Pump,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc
+5097,12,2017,United States,75ZvA4QfFiZvzhj2xkaWAh,29,I Fall Apart,4,2017-12-01,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+5126,12,2017,United States,42CeaId2XNlxugDvyqHfDf,28,Candy Paint,5,2017-12-01,Post Malone,https://open.spotify.com/track/42CeaId2XNlxugDvyqHfDf
+5154,12,2017,United States,7sO5G9EABYOXQKNPNiE9NR,28,Ric Flair Drip (& Metro Boomin),6,2017-12-01,Offset,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
+5182,1,2018,Canada,5UEnHoDYpsxlfzWLZIc7LD,31,River (feat. Ed Sheeran),8,2018-01-01,Eminem,https://open.spotify.com/track/5UEnHoDYpsxlfzWLZIc7LD
+5213,1,2018,Canada,7wGoVu4Dady5GV0Sv4UIsx,31,rockstar,1,2018-01-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+5244,1,2018,Canada,5k38wzpLb15YgncyWdTZE4,30,Him & I (with Halsey),5,2018-01-01,G-Eazy,https://open.spotify.com/track/5k38wzpLb15YgncyWdTZE4
+5274,1,2018,Canada,3Vo4wInECJQuz9BIBMOu8i,24,Finesse - Remix; feat. Cardi B,8,2018-01-06,Bruno Mars,https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i
+5298,1,2018,Canada,2DQ1ITjI0YoLFzuADN1ZBW,21,No Limit,8,2018-01-02,"G-Eazy, A$AP Rocky, Cardi B",https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW
+5319,1,2018,United Kingdom,5UEnHoDYpsxlfzWLZIc7LD,31,River (feat. Ed Sheeran),1,2018-01-01,Eminem,https://open.spotify.com/track/5UEnHoDYpsxlfzWLZIc7LD
+5350,1,2018,United Kingdom,6mrKP2jyIQmM0rw6fQryjr,31,Let You Down,7,2018-01-01,NF,https://open.spotify.com/track/6mrKP2jyIQmM0rw6fQryjr
+5381,1,2018,United Kingdom,7amMgNDcObIDkIXv4xcvc2,31,Barking,6,2018-01-01,Ramz,https://open.spotify.com/track/7amMgNDcObIDkIXv4xcvc2
+5412,1,2018,United Kingdom,7wGoVu4Dady5GV0Sv4UIsx,29,rockstar,2,2018-01-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+5441,1,2018,United Kingdom,2xmrfQpmS2iJExTlklLoAL,21,I Miss You (feat. Julia Michaels),9,2018-01-01,Clean Bandit,https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL
+5462,1,2018,United States,7wGoVu4Dady5GV0Sv4UIsx,31,rockstar,1,2018-01-01,"Post Malone, 21 Savage",https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+5493,1,2018,United States,7sO5G9EABYOXQKNPNiE9NR,30,Ric Flair Drip (& Metro Boomin),6,2018-01-01,Offset,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
+5523,1,2018,United States,75ZvA4QfFiZvzhj2xkaWAh,29,I Fall Apart,8,2018-01-01,Post Malone,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+5552,1,2018,United States,2DQ1ITjI0YoLFzuADN1ZBW,26,No Limit,2,2018-01-01,"G-Eazy, A$AP Rocky, Cardi B",https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW
+5578,1,2018,United States,3Vo4wInECJQuz9BIBMOu8i,26,Finesse - Remix; feat. Cardi B,2,2018-01-05,Bruno Mars,https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i
+5604,2,2018,Canada,2XW4DbS6NddZxRPm5rMCeY,28,God's Plan,1,2018-02-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+5632,2,2018,Canada,4ofvoCdXq99vpMZO4Cfp8x,22,Pray For Me (with Kendrick Lamar),3,2018-02-02,The Weeknd,https://open.spotify.com/track/4ofvoCdXq99vpMZO4Cfp8x
+5654,2,2018,Canada,6tHWl8ows5JOZq9Yfaqn3M,22,Mine,7,2018-02-06,Bazzi,https://open.spotify.com/track/6tHWl8ows5JOZq9Yfaqn3M
+5676,2,2018,Canada,5UEnHoDYpsxlfzWLZIc7LD,21,River (feat. Ed Sheeran),4,2018-02-01,Eminem,https://open.spotify.com/track/5UEnHoDYpsxlfzWLZIc7LD
+5697,2,2018,Canada,4qKcDkK6siZ7Jp1Jb4m0aL,20,Look Alive (feat. Drake),5,2018-02-09,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+5717,2,2018,United Kingdom,2XW4DbS6NddZxRPm5rMCeY,28,God's Plan,1,2018-02-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+5745,2,2018,United Kingdom,5UEnHoDYpsxlfzWLZIc7LD,28,River (feat. Ed Sheeran),4,2018-02-01,Eminem,https://open.spotify.com/track/5UEnHoDYpsxlfzWLZIc7LD
+5773,2,2018,United Kingdom,76cy1WJvNGJTj78UqeA5zr,28,IDGAF,3,2018-02-01,Dua Lipa,https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr
+5801,2,2018,United Kingdom,7amMgNDcObIDkIXv4xcvc2,28,Barking,2,2018-02-01,Ramz,https://open.spotify.com/track/7amMgNDcObIDkIXv4xcvc2
+5829,2,2018,United Kingdom,5CLGzJsGqhCEECcpnFQA8x,27,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",10,2018-02-02,Rudimental,https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x
+5856,2,2018,United States,2UVbBKQOdFAekPTRsnkzcf,28,Stir Fry,2,2018-02-01,Migos,https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf
+5884,2,2018,United States,2XW4DbS6NddZxRPm5rMCeY,28,God's Plan,1,2018-02-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+5912,2,2018,United States,6tHWl8ows5JOZq9Yfaqn3M,28,Mine,8,2018-02-01,Bazzi,https://open.spotify.com/track/6tHWl8ows5JOZq9Yfaqn3M
+5940,2,2018,United States,4ofvoCdXq99vpMZO4Cfp8x,22,Pray For Me (with Kendrick Lamar),3,2018-02-02,The Weeknd,https://open.spotify.com/track/4ofvoCdXq99vpMZO4Cfp8x
+5962,2,2018,United States,4qKcDkK6siZ7Jp1Jb4m0aL,20,Look Alive (feat. Drake),10,2018-02-09,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+5982,3,2018,Canada,2XW4DbS6NddZxRPm5rMCeY,31,God's Plan,1,2018-03-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6013,3,2018,Canada,4qKcDkK6siZ7Jp1Jb4m0aL,31,Look Alive (feat. Drake),3,2018-03-01,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+6044,3,2018,Canada,65NwOZqoXny4JxqAPlfxRF,31,Psycho (feat. Ty Dolla $ign),2,2018-03-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF
+6075,3,2018,Canada,2ARqIya5NAuvFVHSN3bL0m,29,The Middle,9,2018-03-01,"Zedd, Maren Morris, Grey",https://open.spotify.com/track/2ARqIya5NAuvFVHSN3bL0m
+6104,3,2018,Canada,3GCdLUSnKSMJhs4Tj6CV3s,29,All The Stars (with SZA),4,2018-03-01,Kendrick Lamar,https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s
+6133,3,2018,United Kingdom,08bNPGLD8AhKpnnERrAc6G,31,FRIENDS,5,2018-03-01,"Marshmello, Anne-Marie",https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G
+6164,3,2018,United Kingdom,2XW4DbS6NddZxRPm5rMCeY,31,God's Plan,1,2018-03-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6195,3,2018,United Kingdom,5CLGzJsGqhCEECcpnFQA8x,31,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",6,2018-03-01,Rudimental,https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x
+6226,3,2018,United Kingdom,65NwOZqoXny4JxqAPlfxRF,31,Psycho (feat. Ty Dolla $ign),2,2018-03-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF
+6257,3,2018,United Kingdom,6QgjcU0zLnzq5OrUoSZ3OK,31,Feel It Still,8,2018-03-01,Portugal. The Man,https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK
+6288,3,2018,United States,2XW4DbS6NddZxRPm5rMCeY,31,God's Plan,1,2018-03-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6319,3,2018,United States,4qKcDkK6siZ7Jp1Jb4m0aL,31,Look Alive (feat. Drake),3,2018-03-01,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+6350,3,2018,United States,65NwOZqoXny4JxqAPlfxRF,31,Psycho (feat. Ty Dolla $ign),2,2018-03-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF
+6381,3,2018,United States,3GCdLUSnKSMJhs4Tj6CV3s,29,All The Stars (with SZA),4,2018-03-01,Kendrick Lamar,https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s
+6410,3,2018,United States,2UVbBKQOdFAekPTRsnkzcf,26,Stir Fry,5,2018-03-01,Migos,https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf
+6436,4,2018,Canada,2XW4DbS6NddZxRPm5rMCeY,29,God's Plan,2,2018-04-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6465,4,2018,Canada,4qKcDkK6siZ7Jp1Jb4m0aL,25,Look Alive (feat. Drake),8,2018-04-01,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+6490,4,2018,Canada,1cTZMwcBJT0Ka3UJPXOeeN,24,Nice For What,1,2018-04-07,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+6514,4,2018,Canada,1gm616Plq4ScqNi7TVkZ5N,24,Call Out My Name,1,2018-04-01,The Weeknd,https://open.spotify.com/track/1gm616Plq4ScqNi7TVkZ5N
+6538,4,2018,Canada,65NwOZqoXny4JxqAPlfxRF,24,Psycho (feat. Ty Dolla $ign),5,2018-04-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF
+6562,4,2018,United Kingdom,10Igtw8bSDyyFs7KIsKngZ,30,Freaky Friday (feat. Chris Brown),3,2018-04-01,Lil Dicky,https://open.spotify.com/track/10Igtw8bSDyyFs7KIsKngZ
+6592,4,2018,United Kingdom,2XW4DbS6NddZxRPm5rMCeY,29,God's Plan,1,2018-04-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6621,4,2018,United Kingdom,38zwkK6TtTjIW9tpYBfZ3D,27,Paradise,7,2018-04-01,George Ezra,https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D
+6648,4,2018,United Kingdom,08bNPGLD8AhKpnnERrAc6G,26,FRIENDS,5,2018-04-01,"Marshmello, Anne-Marie",https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G
+6674,4,2018,United Kingdom,7ef4DlsgrMEH11cDZd32M6,25,One Kiss (with Dua Lipa),4,2018-04-06,Calvin Harris,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6
+6699,4,2018,United States,2XW4DbS6NddZxRPm5rMCeY,25,God's Plan,2,2018-04-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6724,4,2018,United States,1cTZMwcBJT0Ka3UJPXOeeN,23,Nice For What,1,2018-04-07,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+6747,4,2018,United States,65NwOZqoXny4JxqAPlfxRF,22,Psycho (feat. Ty Dolla $ign),4,2018-04-01,Post Malone,https://open.spotify.com/track/65NwOZqoXny4JxqAPlfxRF
+6769,4,2018,United States,4qKcDkK6siZ7Jp1Jb4m0aL,20,Look Alive (feat. Drake),7,2018-04-01,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+6789,4,2018,United States,1gm616Plq4ScqNi7TVkZ5N,19,Call Out My Name,1,2018-04-01,The Weeknd,https://open.spotify.com/track/1gm616Plq4ScqNi7TVkZ5N
+6808,5,2018,Canada,1cTZMwcBJT0Ka3UJPXOeeN,31,Nice For What,3,2018-05-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+6839,5,2018,Canada,2XW4DbS6NddZxRPm5rMCeY,31,God's Plan,5,2018-05-01,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+6870,5,2018,Canada,3swc6WTsr7rl9DqQKQA55C,31,Psycho (feat. Ty Dolla $ign),2,2018-05-01,Post Malone,https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C
+6901,5,2018,Canada,7dt6x5M1jzdTEt8oCbisTK,31,Better Now,1,2018-05-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+6932,5,2018,Canada,4qKcDkK6siZ7Jp1Jb4m0aL,27,Look Alive (feat. Drake),8,2018-05-04,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+6959,5,2018,United Kingdom,10Igtw8bSDyyFs7KIsKngZ,31,Freaky Friday (feat. Chris Brown),5,2018-05-01,Lil Dicky,https://open.spotify.com/track/10Igtw8bSDyyFs7KIsKngZ
+6990,5,2018,United Kingdom,1cTZMwcBJT0Ka3UJPXOeeN,31,Nice For What,2,2018-05-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+7021,5,2018,United Kingdom,5SxkdsY1ufZzoq9iXceLw9,31,no tears left to cry,3,2018-05-01,Ariana Grande,https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9
+7052,5,2018,United Kingdom,7ef4DlsgrMEH11cDZd32M6,31,One Kiss (with Dua Lipa),1,2018-05-01,Calvin Harris,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6
+7083,5,2018,United Kingdom,1HagMz5nWk1HmevNCBOxF3,30,Answerphone (feat. Yxng Bane),10,2018-05-01,"Banx & Ranx, Ella Eyre",https://open.spotify.com/track/1HagMz5nWk1HmevNCBOxF3
+7113,5,2018,United States,1cTZMwcBJT0Ka3UJPXOeeN,31,Nice For What,4,2018-05-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+7144,5,2018,United States,3swc6WTsr7rl9DqQKQA55C,31,Psycho (feat. Ty Dolla $ign),2,2018-05-01,Post Malone,https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C
+7175,5,2018,United States,7dt6x5M1jzdTEt8oCbisTK,31,Better Now,1,2018-05-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+7206,5,2018,United States,2XW4DbS6NddZxRPm5rMCeY,29,God's Plan,10,2018-05-03,Drake,https://open.spotify.com/track/2XW4DbS6NddZxRPm5rMCeY
+7235,5,2018,United States,4qKcDkK6siZ7Jp1Jb4m0aL,26,Look Alive (feat. Drake),9,2018-05-05,BlocBoy JB,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL
+7261,6,2018,Canada,7dt6x5M1jzdTEt8oCbisTK,28,Better Now,1,2018-06-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+7289,6,2018,Canada,1cTZMwcBJT0Ka3UJPXOeeN,27,Nice For What,2,2018-06-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+7316,6,2018,Canada,54oMZ3blwWwuPN4wEoG5mk,27,I'm Upset,3,2018-06-01,Drake,https://open.spotify.com/track/54oMZ3blwWwuPN4wEoG5mk
+7343,6,2018,Canada,58q2HKrzhC3ozto2nDdN4z,27,I Like It,6,2018-06-01,"Cardi B, Bad Bunny, J Balvin",https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z
+7370,6,2018,Canada,0X8DcetL926BYiPJYstJTc,25,Lucid Dreams,9,2018-06-01,Juice WRLD,https://open.spotify.com/track/0X8DcetL926BYiPJYstJTc
+7395,6,2018,United Kingdom,7ef4DlsgrMEH11cDZd32M6,29,One Kiss (with Dua Lipa),1,2018-06-01,Calvin Harris,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6
+7424,6,2018,United Kingdom,1cTZMwcBJT0Ka3UJPXOeeN,28,Nice For What,2,2018-06-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+7452,6,2018,United Kingdom,6SFStUDQZNaGPKWOx9ZiJB,28,2002,3,2018-06-01,Anne-Marie,https://open.spotify.com/track/6SFStUDQZNaGPKWOx9ZiJB
+7480,6,2018,United Kingdom,7dt6x5M1jzdTEt8oCbisTK,28,Better Now,4,2018-06-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+7508,6,2018,United Kingdom,5SxkdsY1ufZzoq9iXceLw9,27,no tears left to cry,5,2018-06-01,Ariana Grande,https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9
+7535,6,2018,United States,0X8DcetL926BYiPJYstJTc,28,Lucid Dreams,2,2018-06-01,Juice WRLD,https://open.spotify.com/track/0X8DcetL926BYiPJYstJTc
+7563,6,2018,United States,6vN77lE9LK6HP2DewaN6HZ,27,Yes Indeed,3,2018-06-01,"Lil Baby, Drake",https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ
+7590,6,2018,United States,7dt6x5M1jzdTEt8oCbisTK,26,Better Now,5,2018-06-01,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+7616,6,2018,United States,1cTZMwcBJT0Ka3UJPXOeeN,23,Nice For What,1,2018-06-01,Drake,https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN
+7639,6,2018,United States,58q2HKrzhC3ozto2nDdN4z,23,I Like It,8,2018-06-01,"Cardi B, Bad Bunny, J Balvin",https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z
+7662,7,2018,Canada,58q2HKrzhC3ozto2nDdN4z,28,I Like It,10,2018-07-04,"Cardi B, Bad Bunny, J Balvin",https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z
+7690,7,2018,Canada,7dt6x5M1jzdTEt8oCbisTK,27,Better Now,9,2018-07-05,Post Malone,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+7717,7,2018,Canada,7fa9MBXhVfQ8P8Df9OEbD8,26,Girls Like You (feat. Cardi B),10,2018-07-06,Maroon 5,https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8
+7743,7,2018,Canada,4kWO6O1BUXcZmaxitpVUwp,25,Jackie Chan,10,2018-07-07,"Tiësto, Dzeko, Preme, Post Malone",https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp
+7768,7,2018,Canada,5IaHrVsrferBYDm0bDyABy,25,Taste (feat. Offset),9,2018-07-07,Tyga,https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy
+7793,7,2018,United Kingdom,4ofwffwvvnbSkrMSCKQDaC,31,Shotgun,3,2018-07-01,George Ezra,https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC
+7824,7,2018,United Kingdom,6kPJZM97LwdG9QIsT7khp6,31,Solo (feat. Demi Lovato),8,2018-07-01,Clean Bandit,https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6
+7855,7,2018,United Kingdom,7ef4DlsgrMEH11cDZd32M6,31,One Kiss (with Dua Lipa),5,2018-07-01,Calvin Harris,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6
+7886,7,2018,United Kingdom,3u1S1OmAUhx5DRlLrXqyp3,26,Rise,10,2018-07-05,"Jonas Blue, Jack & Jack",https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3
+7912,7,2018,United Kingdom,1oc3jna2ablnfIKLYbKujl,21,If You're Over Me,7,2018-07-06,Years & Years,https://open.spotify.com/track/1oc3jna2ablnfIKLYbKujl
+7933,7,2018,United States,3ee8Jmje8o58CHK66QrVC2,29,SAD!,10,2018-07-03,XXXTENTACION,https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2
+7962,7,2018,United States,58q2HKrzhC3ozto2nDdN4z,25,I Like It,8,2018-07-07,"Cardi B, Bad Bunny, J Balvin",https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z
+7987,7,2018,United States,0JP9xo3adEtGSdUEISiszL,24,Moonlight,10,2018-07-06,XXXTENTACION,https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL
+8011,7,2018,United States,5IaHrVsrferBYDm0bDyABy,22,Taste (feat. Offset),10,2018-07-10,Tyga,https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy
+8033,7,2018,United States,0bAkKNCQfWkexHFn7fIKns,19,In My Feelings,6,2018-07-01,Drake,https://open.spotify.com/track/0bAkKNCQfWkexHFn7fIKns
+8052,8,2018,Canada,2E124GmJRnBJuXbTb4cPUB,31,FEFE (feat. Nicki Minaj & Murda Beatz),2,2018-08-01,6ix9ine,https://open.spotify.com/track/2E124GmJRnBJuXbTb4cPUB
+8083,8,2018,Canada,2G7V7zsVDxg1yRsu7Ew9RJ,31,In My Feelings,1,2018-08-01,Drake,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+8114,8,2018,Canada,5WvAo7DNuPRmk4APhdPzi8,30,No Brainer,3,2018-08-01,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper",https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8
+8144,8,2018,Canada,2xLMifQCjDGFmkHkpNLD9h,29,SICKO MODE,1,2018-08-03,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+8173,8,2018,Canada,7fa9MBXhVfQ8P8Df9OEbD8,29,Girls Like You (feat. Cardi B),6,2018-08-01,Maroon 5,https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8
+8202,8,2018,United Kingdom,2G7V7zsVDxg1yRsu7Ew9RJ,31,In My Feelings,1,2018-08-01,Drake,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+8233,8,2018,United Kingdom,4ofwffwvvnbSkrMSCKQDaC,31,Shotgun,2,2018-08-01,George Ezra,https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC
+8264,8,2018,United Kingdom,5WvAo7DNuPRmk4APhdPzi8,31,No Brainer,3,2018-08-01,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper",https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8
+8295,8,2018,United Kingdom,0s3nnoMeVWz3989MkNQiRf,30,Lucid Dreams,6,2018-08-01,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf
+8325,8,2018,United Kingdom,3u1S1OmAUhx5DRlLrXqyp3,27,Rise,4,2018-08-01,"Jonas Blue, Jack & Jack",https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3
+8352,8,2018,United States,2G7V7zsVDxg1yRsu7Ew9RJ,31,In My Feelings,1,2018-08-01,Drake,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+8383,8,2018,United States,2E124GmJRnBJuXbTb4cPUB,30,FEFE (feat. Nicki Minaj & Murda Beatz),2,2018-08-01,6ix9ine,https://open.spotify.com/track/2E124GmJRnBJuXbTb4cPUB
+8413,8,2018,United States,0s3nnoMeVWz3989MkNQiRf,29,Lucid Dreams,3,2018-08-01,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf
+8442,8,2018,United States,2xLMifQCjDGFmkHkpNLD9h,29,SICKO MODE,2,2018-08-03,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+8471,8,2018,United States,3ee8Jmje8o58CHK66QrVC2,27,SAD!,5,2018-08-01,XXXTENTACION,https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2
+8498,9,2018,Canada,2xLMifQCjDGFmkHkpNLD9h,30,SICKO MODE,6,2018-09-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+8528,9,2018,Canada,60SdxE8apGAxMiRrpbmLY0,29,Lucky You (feat. Joyner Lucas),2,2018-09-01,Eminem,https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0
+8557,9,2018,Canada,0d2iYfpKoM0QCKvcLCkBao,27,Eastside (with Halsey & Khalid),10,2018-09-02,benny blanco,https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao
+8584,9,2018,Canada,2G7V7zsVDxg1yRsu7Ew9RJ,23,In My Feelings,4,2018-09-01,Drake,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+8607,9,2018,Canada,2dpaYNEQHiRxtZbfNsse99,23,Happier,9,2018-09-07,"Marshmello, Bastille",https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+8630,9,2018,United Kingdom,0d2iYfpKoM0QCKvcLCkBao,30,Eastside (with Halsey & Khalid),3,2018-09-01,benny blanco,https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao
+8660,9,2018,United Kingdom,2G7V7zsVDxg1yRsu7Ew9RJ,30,In My Feelings,4,2018-09-01,Drake,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+8690,9,2018,United Kingdom,5N5k9nd479b1xpDZ4usjrg,30,Promises (with Sam Smith),1,2018-09-01,"Calvin Harris, Jessie Reyez",https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg
+8720,9,2018,United Kingdom,7K7MUBCnzgBAvMVW2RTWNs,30,Body (feat. brando),6,2018-09-01,Loud Luxury,https://open.spotify.com/track/7K7MUBCnzgBAvMVW2RTWNs
+8750,9,2018,United Kingdom,2dpaYNEQHiRxtZbfNsse99,26,Happier,10,2018-09-05,"Marshmello, Bastille",https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+8776,9,2018,United States,2xLMifQCjDGFmkHkpNLD9h,29,SICKO MODE,5,2018-09-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+8805,9,2018,United States,0s3nnoMeVWz3989MkNQiRf,27,Lucid Dreams,9,2018-09-01,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf
+8832,9,2018,United States,2E124GmJRnBJuXbTb4cPUB,27,FEFE (feat. Nicki Minaj & Murda Beatz),4,2018-09-01,6ix9ine,https://open.spotify.com/track/2E124GmJRnBJuXbTb4cPUB
+8859,9,2018,United States,60SdxE8apGAxMiRrpbmLY0,27,Lucky You (feat. Joyner Lucas),1,2018-09-01,Eminem,https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0
+8886,9,2018,United States,4S8d14HvHb70ImctNgVzQQ,22,I Love It (& Lil Pump),7,2018-09-08,Kanye West,https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ
+8908,10,2018,Canada,2dpaYNEQHiRxtZbfNsse99,31,Happier,3,2018-10-01,"Marshmello, Bastille",https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+8939,10,2018,Canada,2xLMifQCjDGFmkHkpNLD9h,31,SICKO MODE,4,2018-10-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+8970,10,2018,Canada,4w8niZpiMy6qz1mntFA5uM,30,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",10,2018-10-02,DJ Snake,https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM
+9000,10,2018,Canada,116H0KvKr2Zl4RPuVBruDO,20,MIA (feat. Drake),2,2018-10-12,Bad Bunny,https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO
+9020,10,2018,Canada,5p7ujcrUXASCNwRaWNHR1C,20,Without Me,10,2018-10-12,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+9040,10,2018,United Kingdom,0d2iYfpKoM0QCKvcLCkBao,31,Eastside (with Halsey & Khalid),1,2018-10-01,benny blanco,https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao
+9071,10,2018,United Kingdom,2dpaYNEQHiRxtZbfNsse99,31,Happier,4,2018-10-01,"Marshmello, Bastille",https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+9102,10,2018,United Kingdom,5N5k9nd479b1xpDZ4usjrg,31,Promises (with Sam Smith),3,2018-10-01,"Calvin Harris, Jessie Reyez",https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg
+9133,10,2018,United Kingdom,5N4erncE7kuUccm7zEmwzk,29,Electricity (with Dua Lipa),5,2018-10-01,"Silk City, Diplo, Mark Ronson",https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk
+9162,10,2018,United Kingdom,01IQ4aQgOf0Kkq3a273hmO,27,Funky Friday,1,2018-10-05,"Dave, Fredo",https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO
+9189,10,2018,United States,2xLMifQCjDGFmkHkpNLD9h,31,SICKO MODE,5,2018-10-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+9220,10,2018,United States,1xzBco0xcoJEDXktl7Jxrr,27,Mo Bamba,6,2018-10-05,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr
+9247,10,2018,United States,78QR3Wp35dqAhFEc2qAGjE,27,Drip Too Hard (Lil Baby & Gunna),2,2018-10-05,Lil Baby,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE
+9274,10,2018,United States,5p7ujcrUXASCNwRaWNHR1C,24,Without Me,8,2018-10-05,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+9298,10,2018,United States,0s3nnoMeVWz3989MkNQiRf,21,Lucid Dreams,9,2018-10-02,Juice WRLD,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf
+9319,11,2018,Canada,1A6OTy97kk0mMdm78rHsm8,30,Sunflower - Spider-Man: Into the Spider-Verse,2,2018-11-01,"Post Malone, Swae Lee",https://open.spotify.com/track/1A6OTy97kk0mMdm78rHsm8
+9349,11,2018,Canada,1xzBco0xcoJEDXktl7Jxrr,30,Mo Bamba,4,2018-11-01,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr
+9379,11,2018,Canada,2xLMifQCjDGFmkHkpNLD9h,30,SICKO MODE,3,2018-11-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+9409,11,2018,Canada,7l3E7lcozEodtVsSTCkcaA,30,ZEZE (feat. Travis Scott & Offset),1,2018-11-01,Kodak Black,https://open.spotify.com/track/7l3E7lcozEodtVsSTCkcaA
+9439,11,2018,Canada,5p7ujcrUXASCNwRaWNHR1C,29,Without Me,6,2018-11-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+9468,11,2018,United Kingdom,01IQ4aQgOf0Kkq3a273hmO,30,Funky Friday,3,2018-11-01,"Dave, Fredo",https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO
+9498,11,2018,United Kingdom,7l3E7lcozEodtVsSTCkcaA,29,ZEZE (feat. Travis Scott & Offset),9,2018-11-01,Kodak Black,https://open.spotify.com/track/7l3E7lcozEodtVsSTCkcaA
+9527,11,2018,United Kingdom,2VxeLyX666F8uXCJ0dZF8B,27,Shallow,2,2018-11-01,"Lady Gaga, Bradley Cooper",https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B
+9554,11,2018,United Kingdom,2rPE9A1vEgShuZxxzR2tZH,27,"thank u, next",1,2018-11-04,Ariana Grande,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH
+9581,11,2018,United Kingdom,5p7ujcrUXASCNwRaWNHR1C,26,Without Me,10,2018-11-05,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+9607,11,2018,United States,1xzBco0xcoJEDXktl7Jxrr,30,Mo Bamba,1,2018-11-01,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr
+9637,11,2018,United States,2xLMifQCjDGFmkHkpNLD9h,30,SICKO MODE,2,2018-11-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+9667,11,2018,United States,5p7ujcrUXASCNwRaWNHR1C,30,Without Me,6,2018-11-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+9697,11,2018,United States,78QR3Wp35dqAhFEc2qAGjE,30,Drip Too Hard (Lil Baby & Gunna),5,2018-11-01,Lil Baby,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE
+9727,11,2018,United States,7l3E7lcozEodtVsSTCkcaA,30,ZEZE (feat. Travis Scott & Offset),3,2018-11-01,Kodak Black,https://open.spotify.com/track/7l3E7lcozEodtVsSTCkcaA
+9757,12,2018,Canada,2IRZnDFmlqMuOrYOLnZZyc,29,Going Bad (feat. Drake),2,2018-12-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+9786,12,2018,Canada,2rPE9A1vEgShuZxxzR2tZH,28,"thank u, next",1,2018-12-01,Ariana Grande,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH
+9814,12,2018,Canada,2xLMifQCjDGFmkHkpNLD9h,28,SICKO MODE,7,2018-12-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+9842,12,2018,Canada,1xzBco0xcoJEDXktl7Jxrr,25,Mo Bamba,8,2018-12-01,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr
+9867,12,2018,Canada,5p7ujcrUXASCNwRaWNHR1C,25,Without Me,8,2018-12-03,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+9892,12,2018,United Kingdom,2rPE9A1vEgShuZxxzR2tZH,28,"thank u, next",2,2018-12-01,Ariana Grande,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH
+9920,12,2018,United Kingdom,0247StOpd3AkeBQzANX4Zf,26,Do They Know It's Christmas? - 1984 Version,4,2018-12-01,Band Aid,https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf
+9946,12,2018,United Kingdom,0bYg9bo50gSsH3LtXe2SQn,26,All I Want for Christmas Is You,1,2018-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+9972,12,2018,United Kingdom,2EjXfH91m7f8HiJN1yQg97,26,Rockin' Around The Christmas Tree,6,2018-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+9998,12,2018,United Kingdom,2FRnf9qhLbvw8fu4IBXx78,26,Last Christmas,3,2018-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+10024,12,2018,United States,2xLMifQCjDGFmkHkpNLD9h,30,SICKO MODE,4,2018-12-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+10054,12,2018,United States,2IRZnDFmlqMuOrYOLnZZyc,29,Going Bad (feat. Drake),2,2018-12-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+10083,12,2018,United States,2rPE9A1vEgShuZxxzR2tZH,29,"thank u, next",1,2018-12-01,Ariana Grande,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH
+10112,12,2018,United States,1xzBco0xcoJEDXktl7Jxrr,28,Mo Bamba,3,2018-12-01,Sheck Wes,https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr
+10140,12,2018,United States,78QR3Wp35dqAhFEc2qAGjE,28,Drip Too Hard (Lil Baby & Gunna),6,2018-12-01,Lil Baby,https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE
+10168,1,2019,Canada,2IRZnDFmlqMuOrYOLnZZyc,31,Going Bad (feat. Drake),5,2019-01-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+10199,1,2019,Canada,2xLMifQCjDGFmkHkpNLD9h,31,SICKO MODE,3,2019-01-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+10230,1,2019,Canada,3KkXRkHbMCARz0aVfEt68P,31,Sunflower - Spider-Man: Into the Spider-Verse,1,2019-01-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+10261,1,2019,Canada,5p7ujcrUXASCNwRaWNHR1C,31,Without Me,8,2019-01-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+10292,1,2019,Canada,6MWtB6iiXyIwun0YzU6DFP,31,Wow.,2,2019-01-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+10323,1,2019,United Kingdom,25sgk305KZfyuqVBQIahim,31,Sweet but Psycho,1,2019-01-01,Ava Max,https://open.spotify.com/track/25sgk305KZfyuqVBQIahim
+10354,1,2019,United Kingdom,3KkXRkHbMCARz0aVfEt68P,31,Sunflower - Spider-Man: Into the Spider-Verse,3,2019-01-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+10385,1,2019,United Kingdom,5p7ujcrUXASCNwRaWNHR1C,31,Without Me,4,2019-01-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+10416,1,2019,United Kingdom,6MWtB6iiXyIwun0YzU6DFP,31,Wow.,5,2019-01-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+10447,1,2019,United Kingdom,2rPE9A1vEgShuZxxzR2tZH,29,"thank u, next",2,2019-01-01,Ariana Grande,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH
+10476,1,2019,United States,2IRZnDFmlqMuOrYOLnZZyc,31,Going Bad (feat. Drake),5,2019-01-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+10507,1,2019,United States,2xLMifQCjDGFmkHkpNLD9h,31,SICKO MODE,3,2019-01-01,Travis Scott,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h
+10538,1,2019,United States,3KkXRkHbMCARz0aVfEt68P,31,Sunflower - Spider-Man: Into the Spider-Verse,1,2019-01-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+10569,1,2019,United States,5p7ujcrUXASCNwRaWNHR1C,31,Without Me,9,2019-01-01,Halsey,https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C
+10600,1,2019,United States,6MWtB6iiXyIwun0YzU6DFP,31,Wow.,2,2019-01-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+10631,2,2019,Canada,2JvzF1RMd7lE3KmFlsyZD8,28,MIDDLE CHILD,2,2019-02-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+10659,2,2019,Canada,6MWtB6iiXyIwun0YzU6DFP,28,Wow.,3,2019-02-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+10687,2,2019,Canada,2IRZnDFmlqMuOrYOLnZZyc,23,Going Bad (feat. Drake),6,2019-02-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+10710,2,2019,Canada,3Ol2xnObFdKV9pmRD2t9x8,21,Look Back at It,10,2019-02-01,A Boogie Wit da Hoodie,https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8
+10731,2,2019,Canada,4kV4N9D1iKVxx1KLvtTpjS,21,"break up with your girlfriend, i'm bored",2,2019-02-08,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS
+10752,2,2019,United Kingdom,6MWtB6iiXyIwun0YzU6DFP,28,Wow.,3,2019-02-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+10780,2,2019,United Kingdom,5WHTFyqSii0lmT9R21abT8,26,Don't Call Me Up,7,2019-02-01,Mabel,https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8
+10806,2,2019,United Kingdom,6Qs4SXO9dwPj5GKvVOv8Ki,24,Dancing With A Stranger (with Normani),5,2019-02-01,Sam Smith,https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki
+10830,2,2019,United Kingdom,4NzMOnvSJVNKF7nw5NkXIP,23,bury a friend,2,2019-02-01,Billie Eilish,https://open.spotify.com/track/4NzMOnvSJVNKF7nw5NkXIP
+10853,2,2019,United Kingdom,2TIlqbIneP0ZY1O0EzYLlc,22,Someone You Loved,9,2019-02-04,Lewis Capaldi,https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc
+10875,2,2019,United States,6MWtB6iiXyIwun0YzU6DFP,26,Wow.,4,2019-02-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+10901,2,2019,United States,2JvzF1RMd7lE3KmFlsyZD8,24,MIDDLE CHILD,2,2019-02-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+10925,2,2019,United States,2IRZnDFmlqMuOrYOLnZZyc,22,Going Bad (feat. Drake),6,2019-02-01,Meek Mill,https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+10947,2,2019,United States,4kV4N9D1iKVxx1KLvtTpjS,21,"break up with your girlfriend, i'm bored",2,2019-02-08,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS
+10968,2,2019,United States,6ocbgoVGwYJhOv1GgI9NsF,21,7 rings,1,2019-02-08,Ariana Grande,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+10989,3,2019,Canada,6MWtB6iiXyIwun0YzU6DFP,30,Wow.,4,2019-03-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+11019,3,2019,Canada,2JvzF1RMd7lE3KmFlsyZD8,28,MIDDLE CHILD,6,2019-03-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+11047,3,2019,Canada,4kV4N9D1iKVxx1KLvtTpjS,28,"break up with your girlfriend, i'm bored",3,2019-03-01,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS
+11075,3,2019,Canada,4y3OI86AEP6PQoDE6olYhO,28,Sucker,2,2019-03-01,Jonas Brothers,https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO
+11103,3,2019,Canada,6ocbgoVGwYJhOv1GgI9NsF,28,7 rings,1,2019-03-01,Ariana Grande,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+11131,3,2019,United Kingdom,2TIlqbIneP0ZY1O0EzYLlc,31,Someone You Loved,2,2019-03-01,Lewis Capaldi,https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc
+11162,3,2019,United Kingdom,4kV4N9D1iKVxx1KLvtTpjS,31,"break up with your girlfriend, i'm bored",1,2019-03-01,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS
+11193,3,2019,United Kingdom,5WHTFyqSii0lmT9R21abT8,31,Don't Call Me Up,4,2019-03-01,Mabel,https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8
+11224,3,2019,United Kingdom,5itOtNx0WxtJmi1TQ3RuRd,31,Giant (with Rag'n'Bone Man),5,2019-03-01,Calvin Harris,https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd
+11255,3,2019,United Kingdom,6MWtB6iiXyIwun0YzU6DFP,30,Wow.,6,2019-03-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+11285,3,2019,United States,2JvzF1RMd7lE3KmFlsyZD8,31,MIDDLE CHILD,3,2019-03-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+11316,3,2019,United States,4kV4N9D1iKVxx1KLvtTpjS,28,"break up with your girlfriend, i'm bored",5,2019-03-01,Ariana Grande,https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS
+11344,3,2019,United States,4y3OI86AEP6PQoDE6olYhO,28,Sucker,1,2019-03-01,Jonas Brothers,https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO
+11372,3,2019,United States,6MWtB6iiXyIwun0YzU6DFP,28,Wow.,6,2019-03-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+11400,3,2019,United States,6ocbgoVGwYJhOv1GgI9NsF,28,7 rings,2,2019-03-01,Ariana Grande,https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF
+11428,4,2019,Canada,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,1,2019-04-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+11458,4,2019,Canada,3KkXRkHbMCARz0aVfEt68P,30,Sunflower - Spider-Man: Into the Spider-Verse,9,2019-04-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+11488,4,2019,Canada,53CJANUxooaqGOtdsBTh7O,30,Old Town Road,3,2019-04-01,Lil Nas X,https://open.spotify.com/track/53CJANUxooaqGOtdsBTh7O
+11518,4,2019,Canada,6MWtB6iiXyIwun0YzU6DFP,30,Wow.,6,2019-04-01,Post Malone,https://open.spotify.com/track/6MWtB6iiXyIwun0YzU6DFP
+11548,4,2019,Canada,1wJRveJZLSb1rjhnUHQiv6,27,Swervin (feat. 6ix9ine),7,2019-04-03,A Boogie Wit da Hoodie,https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6
+11575,4,2019,United Kingdom,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,1,2019-04-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+11605,4,2019,United Kingdom,2TIlqbIneP0ZY1O0EzYLlc,30,Someone You Loved,2,2019-04-01,Lewis Capaldi,https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc
+11635,4,2019,United Kingdom,5WHTFyqSii0lmT9R21abT8,30,Don't Call Me Up,3,2019-04-01,Mabel,https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8
+11665,4,2019,United Kingdom,03x2rVJRFUrvwlfxoHd9Mo,27,Just You and I,8,2019-04-01,Tom Walker,https://open.spotify.com/track/03x2rVJRFUrvwlfxoHd9Mo
+11692,4,2019,United Kingdom,4y3OI86AEP6PQoDE6olYhO,24,Sucker,6,2019-04-01,Jonas Brothers,https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO
+11716,4,2019,United States,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,1,2019-04-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+11746,4,2019,United States,2JvzF1RMd7lE3KmFlsyZD8,30,MIDDLE CHILD,10,2019-04-01,J. Cole,https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+11776,4,2019,United States,3KkXRkHbMCARz0aVfEt68P,30,Sunflower - Spider-Man: Into the Spider-Verse,8,2019-04-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+11806,4,2019,United States,53CJANUxooaqGOtdsBTh7O,30,Old Town Road,2,2019-04-01,Lil Nas X,https://open.spotify.com/track/53CJANUxooaqGOtdsBTh7O
+11836,4,2019,United States,1wJRveJZLSb1rjhnUHQiv6,27,Swervin (feat. 6ix9ine),8,2019-04-03,A Boogie Wit da Hoodie,https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6
+11863,5,2019,Canada,2Fxmhks0bxGSBdJ92vM42m,31,bad guy,2,2019-05-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+11894,5,2019,Canada,3KkXRkHbMCARz0aVfEt68P,31,Sunflower - Spider-Man: Into the Spider-Verse,5,2019-05-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+11925,5,2019,Canada,6u7jPi22kF8CTQ3rb9DHE7,31,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,2019-05-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7
+11956,5,2019,Canada,53CJANUxooaqGOtdsBTh7O,29,Old Town Road,3,2019-05-01,Lil Nas X,https://open.spotify.com/track/53CJANUxooaqGOtdsBTh7O
+11985,5,2019,Canada,6LsAAHotRLMOHfCsSfYCsz,29,If I Can't Have You,3,2019-05-03,Shawn Mendes,https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz
+12014,5,2019,United Kingdom,2Fxmhks0bxGSBdJ92vM42m,31,bad guy,2,2019-05-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+12045,5,2019,United Kingdom,44ZJ4hLD5onikKsVLQaILr,31,Vossi Bop,1,2019-05-01,Stormzy,https://open.spotify.com/track/44ZJ4hLD5onikKsVLQaILr
+12076,5,2019,United Kingdom,6u7jPi22kF8CTQ3rb9DHE7,31,Old Town Road (feat. Billy Ray Cyrus) - Remix,4,2019-05-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7
+12107,5,2019,United Kingdom,6nDKrPlXdpomGBgAlO7UdP,30,SOS,6,2019-05-01,"Avicii, Aloe Blacc",https://open.spotify.com/track/6nDKrPlXdpomGBgAlO7UdP
+12137,5,2019,United Kingdom,1DFD5Fotzgn6yYXkYsKiGs,24,Piece Of Your Heart,3,2019-05-08,"MEDUZA, Goodboys",https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs
+12161,5,2019,United States,2Fxmhks0bxGSBdJ92vM42m,31,bad guy,2,2019-05-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+12192,5,2019,United States,6u7jPi22kF8CTQ3rb9DHE7,31,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,2019-05-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7
+12223,5,2019,United States,3KkXRkHbMCARz0aVfEt68P,30,Sunflower - Spider-Man: Into the Spider-Verse,4,2019-05-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+12253,5,2019,United States,6LsAAHotRLMOHfCsSfYCsz,26,If I Can't Have You,3,2019-05-03,Shawn Mendes,https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz
+12279,5,2019,United States,5qmq61DAAOUaW8AUo8xKhh,25,Truth Hurts,8,2019-05-06,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+12304,6,2019,Canada,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,3,2019-06-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+12334,6,2019,Canada,3HVWdVOQ0ZA45FuZGSfvns,30,I Don't Care (with Justin Bieber),2,2019-06-01,Ed Sheeran,https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns
+12364,6,2019,Canada,6u7jPi22kF8CTQ3rb9DHE7,27,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,2019-06-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7
+12391,6,2019,Canada,7DcvwMAiqKJQD1rrdfxSDx,24,The London (feat. J. Cole & Travis Scott),4,2019-06-01,Young Thug,https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx
+12415,6,2019,Canada,6LsAAHotRLMOHfCsSfYCsz,20,If I Can't Have You,6,2019-06-01,Shawn Mendes,https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz
+12435,6,2019,United Kingdom,1DFD5Fotzgn6yYXkYsKiGs,30,Piece Of Your Heart,6,2019-06-01,"MEDUZA, Goodboys",https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs
+12465,6,2019,United Kingdom,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,4,2019-06-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+12495,6,2019,United Kingdom,3HVWdVOQ0ZA45FuZGSfvns,30,I Don't Care (with Justin Bieber),1,2019-06-01,Ed Sheeran,https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns
+12525,6,2019,United Kingdom,44ZJ4hLD5onikKsVLQaILr,30,Vossi Bop,2,2019-06-01,Stormzy,https://open.spotify.com/track/44ZJ4hLD5onikKsVLQaILr
+12555,6,2019,United Kingdom,7qEHsqek33rTcFNT9PFqLf,30,Someone You Loved,3,2019-06-01,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+12585,6,2019,United States,2Fxmhks0bxGSBdJ92vM42m,30,bad guy,2,2019-06-01,Billie Eilish,https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+12615,6,2019,United States,5qmq61DAAOUaW8AUo8xKhh,30,Truth Hurts,6,2019-06-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+12645,6,2019,United States,6u7jPi22kF8CTQ3rb9DHE7,27,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,2019-06-01,Lil Nas X,https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7
+12672,6,2019,United States,7DcvwMAiqKJQD1rrdfxSDx,27,The London (feat. J. Cole & Travis Scott),3,2019-06-01,Young Thug,https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx
+12699,6,2019,United States,3HVWdVOQ0ZA45FuZGSfvns,25,I Don't Care (with Justin Bieber),7,2019-06-01,Ed Sheeran,https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns
+12724,7,2019,Canada,5ry2OE6R2zPQFDO85XkgRb,31,Money In The Grave (Drake ft. Rick Ross),2,2019-07-01,Drake,https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb
+12755,7,2019,Canada,1kBbgxAUc4HQv7cgIayIDH,29,Ransom,10,2019-07-01,Lil Tecca,https://open.spotify.com/track/1kBbgxAUc4HQv7cgIayIDH
+12784,7,2019,Canada,6fTt0CH2t0mdeB2N9XFG5r,28,Panini,7,2019-07-01,Lil Nas X,https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r
+12812,7,2019,Canada,4hPpVbbakQNv8YTHYaOJP4,27,One Thing Right,8,2019-07-01,"Marshmello, Kane Brown",https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4
+12839,7,2019,Canada,6vBdBCoOhKHiYDDOcorfNo,27,Goodbyes (Feat. Young Thug),3,2019-07-05,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo
+12866,7,2019,United Kingdom,44ZJ4hLD5onikKsVLQaILr,30,Vossi Bop,3,2019-07-01,Stormzy,https://open.spotify.com/track/44ZJ4hLD5onikKsVLQaILr
+12896,7,2019,United Kingdom,7qEHsqek33rTcFNT9PFqLf,30,Someone You Loved,5,2019-07-01,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+12926,7,2019,United Kingdom,0TK2YIli7K1leLovkQiNik,25,Señorita,1,2019-07-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik
+12951,7,2019,United Kingdom,0hVXuCcriWRGvwMV1r5Yn9,20,I Don't Care (with Justin Bieber),3,2019-07-12,Ed Sheeran,https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9
+12971,7,2019,United Kingdom,1AI7UPw3fgwAFkvAlZWhE0,20,Take Me Back to London (feat. Stormzy),2,2019-07-12,Ed Sheeran,https://open.spotify.com/track/1AI7UPw3fgwAFkvAlZWhE0
+12991,7,2019,United States,5qmq61DAAOUaW8AUo8xKhh,31,Truth Hurts,4,2019-07-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+13022,7,2019,United States,5ry2OE6R2zPQFDO85XkgRb,31,Money In The Grave (Drake ft. Rick Ross),3,2019-07-01,Drake,https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb
+13053,7,2019,United States,6fTt0CH2t0mdeB2N9XFG5r,31,Panini,2,2019-07-01,Lil Nas X,https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r
+13084,7,2019,United States,1kBbgxAUc4HQv7cgIayIDH,29,Ransom,8,2019-07-01,Lil Tecca,https://open.spotify.com/track/1kBbgxAUc4HQv7cgIayIDH
+13113,7,2019,United States,3KkXRkHbMCARz0aVfEt68P,29,Sunflower - Spider-Man: Into the Spider-Verse,10,2019-07-01,"Post Malone, Swae Lee",https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P
+13142,8,2019,Canada,5ry2OE6R2zPQFDO85XkgRb,31,Money In The Grave (Drake ft. Rick Ross),4,2019-08-01,Drake,https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb
+13173,8,2019,Canada,6v3KW9xbzN5yKLt9YKDYA2,31,Señorita,1,2019-08-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+13204,8,2019,Canada,6vBdBCoOhKHiYDDOcorfNo,31,Goodbyes (Feat. Young Thug),3,2019-08-01,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo
+13235,8,2019,Canada,5qmq61DAAOUaW8AUo8xKhh,30,Truth Hurts,8,2019-08-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+13265,8,2019,Canada,70eFcWOvlMObDhURTqT4Fv,30,Beautiful People (feat. Khalid),5,2019-08-01,Ed Sheeran,https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv
+13295,8,2019,United Kingdom,1tNJrcVe6gwLEiZCtprs1u,31,3 Nights,4,2019-08-01,Dominic Fike,https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u
+13326,8,2019,United Kingdom,6v3KW9xbzN5yKLt9YKDYA2,31,Señorita,1,2019-08-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+13357,8,2019,United Kingdom,70eFcWOvlMObDhURTqT4Fv,31,Beautiful People (feat. Khalid),2,2019-08-01,Ed Sheeran,https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv
+13388,8,2019,United Kingdom,7b4ky1LlQLFhXHmhZkFgqV,31,Ladbroke Grove,3,2019-08-01,AJ Tracey,https://open.spotify.com/track/7b4ky1LlQLFhXHmhZkFgqV
+13419,8,2019,United Kingdom,3evfXgwjSY5zuFxAHjMW5S,27,Taste (Make It Shake),10,2019-08-05,Aitch,https://open.spotify.com/track/3evfXgwjSY5zuFxAHjMW5S
+13446,8,2019,United States,5qmq61DAAOUaW8AUo8xKhh,30,Truth Hurts,3,2019-08-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+13476,8,2019,United States,6v3KW9xbzN5yKLt9YKDYA2,30,Señorita,2,2019-08-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+13506,8,2019,United States,1kBbgxAUc4HQv7cgIayIDH,29,Ransom,1,2019-08-01,Lil Tecca,https://open.spotify.com/track/1kBbgxAUc4HQv7cgIayIDH
+13535,8,2019,United States,6vBdBCoOhKHiYDDOcorfNo,29,Goodbyes (Feat. Young Thug),4,2019-08-01,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo
+13564,8,2019,United States,5ry2OE6R2zPQFDO85XkgRb,27,Money In The Grave (Drake ft. Rick Ross),5,2019-08-01,Drake,https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb
+13591,9,2019,Canada,6v3KW9xbzN5yKLt9YKDYA2,30,Señorita,2,2019-09-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+13621,9,2019,Canada,6vBdBCoOhKHiYDDOcorfNo,30,Goodbyes (Feat. Young Thug),4,2019-09-01,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo
+13651,9,2019,Canada,6EOKwHETwSkZ9gW2b6ASE0,28,Ransom,3,2019-09-01,Lil Tecca,https://open.spotify.com/track/6EOKwHETwSkZ9gW2b6ASE0
+13679,9,2019,Canada,7qEHsqek33rTcFNT9PFqLf,22,Someone You Loved,9,2019-09-01,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+13701,9,2019,Canada,5qmq61DAAOUaW8AUo8xKhh,19,Truth Hurts,5,2019-09-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+13720,9,2019,United Kingdom,6v3KW9xbzN5yKLt9YKDYA2,30,Señorita,1,2019-09-01,"Shawn Mendes, Camila Cabello",https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+13750,9,2019,United Kingdom,7b4ky1LlQLFhXHmhZkFgqV,30,Ladbroke Grove,4,2019-09-01,AJ Tracey,https://open.spotify.com/track/7b4ky1LlQLFhXHmhZkFgqV
+13780,9,2019,United Kingdom,1tNJrcVe6gwLEiZCtprs1u,29,3 Nights,2,2019-09-01,Dominic Fike,https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u
+13809,9,2019,United Kingdom,23GvTfcGK454ppLsts3W44,29,Strike a Pose (feat. Aitch),10,2019-09-02,Young T & Bugsey,https://open.spotify.com/track/23GvTfcGK454ppLsts3W44
+13838,9,2019,United Kingdom,6y1UtRcHQU07aUs3oxZ8Yn,29,Sorry,8,2019-09-01,Joel Corry,https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn
+13867,9,2019,United States,6vBdBCoOhKHiYDDOcorfNo,30,Goodbyes (Feat. Young Thug),5,2019-09-01,Post Malone,https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo
+13897,9,2019,United States,6EOKwHETwSkZ9gW2b6ASE0,27,Ransom,2,2019-09-01,Lil Tecca,https://open.spotify.com/track/6EOKwHETwSkZ9gW2b6ASE0
+13924,9,2019,United States,5qmq61DAAOUaW8AUo8xKhh,23,Truth Hurts,3,2019-09-01,Lizzo,https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh
+13947,9,2019,United States,21jGcNKet2qwijlDFuPiPb,15,Circles,1,2019-09-16,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+13962,9,2019,United States,0RiRZpuVRbi7oqRdSMwhQY,14,Sunflower - Spider-Man: Into the Spider-Verse,10,2019-09-16,"Post Malone, Swae Lee",https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY
+13976,10,2019,Canada,21jGcNKet2qwijlDFuPiPb,31,Circles,1,2019-10-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14007,10,2019,Canada,7qEHsqek33rTcFNT9PFqLf,29,Someone You Loved,2,2019-10-01,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+14036,10,2019,Canada,3eekarcy7kvN4yt5ZFzltW,28,HIGHEST IN THE ROOM,1,2019-10-04,Travis Scott,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+14064,10,2019,Canada,7aiClxsDWFRQ0Kzk5KI5ku,28,hot girl bummer,10,2019-10-01,blackbear,https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+14092,10,2019,Canada,1rgnBhdG2JDFTbYkYRZAku,27,Dance Monkey,7,2019-10-05,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+14119,10,2019,United Kingdom,1rgnBhdG2JDFTbYkYRZAku,31,Dance Monkey,1,2019-10-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+14150,10,2019,United Kingdom,21jGcNKet2qwijlDFuPiPb,31,Circles,6,2019-10-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14181,10,2019,United Kingdom,2tnVG71enUj33Ic2nFN6kZ,31,Ride It,4,2019-10-01,Regard,https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ
+14212,10,2019,United Kingdom,7qEHsqek33rTcFNT9PFqLf,30,Someone You Loved,7,2019-10-01,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+14242,10,2019,United Kingdom,1xPpYbCaJWonL7IFXPDjON,29,Taste (Make It Shake),2,2019-10-01,Aitch,https://open.spotify.com/track/1xPpYbCaJWonL7IFXPDjON
+14271,10,2019,United States,21jGcNKet2qwijlDFuPiPb,29,Circles,1,2019-10-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14300,10,2019,United States,3eekarcy7kvN4yt5ZFzltW,27,HIGHEST IN THE ROOM,1,2019-10-04,Travis Scott,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+14327,10,2019,United States,6Gg1gjgKi2AK4e0qzsR7sd,26,Bandit (with YoungBoy Never Broke Again),4,2019-10-04,Juice WRLD,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd
+14353,10,2019,United States,4sjiIpEv617LDXaidKioOI,24,223's (feat. 9lokknine),5,2019-10-01,YNW Melly,https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI
+14377,10,2019,United States,7aiClxsDWFRQ0Kzk5KI5ku,24,hot girl bummer,8,2019-10-03,blackbear,https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+14401,11,2019,Canada,1rgnBhdG2JDFTbYkYRZAku,30,Dance Monkey,2,2019-11-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+14431,11,2019,Canada,21jGcNKet2qwijlDFuPiPb,30,Circles,4,2019-11-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14461,11,2019,Canada,2b8fOow8UzyDFAE27YhOZM,30,Memories,8,2019-11-01,Maroon 5,https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM
+14491,11,2019,Canada,3eekarcy7kvN4yt5ZFzltW,30,HIGHEST IN THE ROOM,1,2019-11-01,Travis Scott,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+14521,11,2019,Canada,7qEHsqek33rTcFNT9PFqLf,29,Someone You Loved,7,2019-11-01,Lewis Capaldi,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+14550,11,2019,United Kingdom,1rgnBhdG2JDFTbYkYRZAku,30,Dance Monkey,1,2019-11-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+14580,11,2019,United Kingdom,2tnVG71enUj33Ic2nFN6kZ,30,Ride It,2,2019-11-01,Regard,https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ
+14610,11,2019,United Kingdom,6WrI0LAC5M1Rw2MnX2ZvEg,30,Don't Start Now,3,2019-11-01,Dua Lipa,https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+14640,11,2019,United Kingdom,21jGcNKet2qwijlDFuPiPb,28,Circles,4,2019-11-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14668,11,2019,United Kingdom,4vUmTMuQqjdnvlZmAH61Qk,23,South of the Border (feat. Camila Cabello & Cardi B),5,2019-11-01,Ed Sheeran,https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk
+14691,11,2019,United States,21jGcNKet2qwijlDFuPiPb,30,Circles,3,2019-11-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14721,11,2019,United States,3eekarcy7kvN4yt5ZFzltW,30,HIGHEST IN THE ROOM,1,2019-11-01,Travis Scott,https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW
+14751,11,2019,United States,6Gg1gjgKi2AK4e0qzsR7sd,30,Bandit (with YoungBoy Never Broke Again),4,2019-11-01,Juice WRLD,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd
+14781,11,2019,United States,1HfMVBKM75vxSfsQ5VefZ5,25,Lose You To Love Me,2,2019-11-01,Selena Gomez,https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5
+14806,11,2019,United States,7aiClxsDWFRQ0Kzk5KI5ku,21,hot girl bummer,8,2019-11-01,blackbear,https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+14827,12,2019,Canada,1rgnBhdG2JDFTbYkYRZAku,29,Dance Monkey,3,2019-12-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+14856,12,2019,Canada,696DnlkuDOXcMAnKlTgXXK,29,ROXANNE,4,2019-12-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+14885,12,2019,Canada,0bYg9bo50gSsH3LtXe2SQn,26,All I Want for Christmas Is You,5,2019-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+14911,12,2019,Canada,21jGcNKet2qwijlDFuPiPb,26,Circles,6,2019-12-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+14937,12,2019,Canada,0sf12qNH5qcw8qpgymFOqD,25,Blinding Lights,2,2019-12-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+14962,12,2019,United Kingdom,1rgnBhdG2JDFTbYkYRZAku,29,Dance Monkey,3,2019-12-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+14991,12,2019,United Kingdom,696DnlkuDOXcMAnKlTgXXK,27,ROXANNE,7,2019-12-02,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+15018,12,2019,United Kingdom,0bYg9bo50gSsH3LtXe2SQn,26,All I Want for Christmas Is You,1,2019-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+15044,12,2019,United Kingdom,2FRnf9qhLbvw8fu4IBXx78,26,Last Christmas,2,2019-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+15070,12,2019,United Kingdom,2gMXnyrvIjhVBUZwvLZDMP,21,Before You Go,7,2019-12-01,Lewis Capaldi,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+15091,12,2019,United States,696DnlkuDOXcMAnKlTgXXK,30,ROXANNE,2,2019-12-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+15121,12,2019,United States,21jGcNKet2qwijlDFuPiPb,29,Circles,4,2019-12-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+15150,12,2019,United States,6Gg1gjgKi2AK4e0qzsR7sd,26,Bandit (with YoungBoy Never Broke Again),10,2019-12-01,Juice WRLD,https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd
+15176,12,2019,United States,6Ozh9Ok6h4Oi1wUSLtBseN,26,BOP,9,2019-12-01,DaBaby,https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN
+15202,12,2019,United States,4TnjEaWOeW0eKTKIEvJyCa,25,Falling,8,2019-12-01,Trevor Daniel,https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa
+15227,1,2020,Canada,0nbXyq5TXYPCO7pr3N8S4I,31,The Box,3,2020-01-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+15258,1,2020,Canada,1rgnBhdG2JDFTbYkYRZAku,31,Dance Monkey,1,2020-01-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+15289,1,2020,Canada,696DnlkuDOXcMAnKlTgXXK,31,ROXANNE,2,2020-01-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+15320,1,2020,Canada,0sf12qNH5qcw8qpgymFOqD,29,Blinding Lights,5,2020-01-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+15349,1,2020,Canada,21jGcNKet2qwijlDFuPiPb,29,Circles,4,2020-01-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+15378,1,2020,United Kingdom,1rgnBhdG2JDFTbYkYRZAku,31,Dance Monkey,1,2020-01-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+15409,1,2020,United Kingdom,4QPEwDdOMhY7rNS05mTyMR,31,Own It (feat. Ed Sheeran & Burna Boy),3,2020-01-01,Stormzy,https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR
+15440,1,2020,United Kingdom,696DnlkuDOXcMAnKlTgXXK,31,ROXANNE,2,2020-01-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+15471,1,2020,United Kingdom,2gMXnyrvIjhVBUZwvLZDMP,30,Before You Go,4,2020-01-01,Lewis Capaldi,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+15501,1,2020,United Kingdom,6WrI0LAC5M1Rw2MnX2ZvEg,29,Don't Start Now,5,2020-01-01,Dua Lipa,https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+15530,1,2020,United States,0nbXyq5TXYPCO7pr3N8S4I,31,The Box,1,2020-01-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+15561,1,2020,United States,696DnlkuDOXcMAnKlTgXXK,30,ROXANNE,2,2020-01-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+15591,1,2020,United States,6Ozh9Ok6h4Oi1wUSLtBseN,29,BOP,4,2020-01-01,DaBaby,https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN
+15620,1,2020,United States,21jGcNKet2qwijlDFuPiPb,28,Circles,3,2020-01-01,Post Malone,https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+15648,1,2020,United States,4TnjEaWOeW0eKTKIEvJyCa,25,Falling,8,2020-01-01,Trevor Daniel,https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa
+15673,2,2020,Canada,0nbXyq5TXYPCO7pr3N8S4I,29,The Box,1,2020-02-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+15702,2,2020,Canada,0sf12qNH5qcw8qpgymFOqD,29,Blinding Lights,6,2020-02-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+15731,2,2020,Canada,1rgnBhdG2JDFTbYkYRZAku,29,Dance Monkey,2,2020-02-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+15760,2,2020,Canada,5yY9lUy8nbvjM1Uyo1Uqoc,29,Life Is Good (feat. Drake),3,2020-02-01,Future,https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc
+15789,2,2020,Canada,7FIWs0pqAYbP91WWM0vlTQ,29,Godzilla (feat. Juice WRLD),4,2020-02-01,Eminem,https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+15818,2,2020,United Kingdom,0nbXyq5TXYPCO7pr3N8S4I,29,The Box,1,2020-02-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+15847,2,2020,United Kingdom,0sf12qNH5qcw8qpgymFOqD,29,Blinding Lights,2,2020-02-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+15876,2,2020,United Kingdom,1rgnBhdG2JDFTbYkYRZAku,29,Dance Monkey,3,2020-02-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+15905,2,2020,United Kingdom,2gMXnyrvIjhVBUZwvLZDMP,29,Before You Go,6,2020-02-01,Lewis Capaldi,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+15934,2,2020,United Kingdom,6WrI0LAC5M1Rw2MnX2ZvEg,29,Don't Start Now,5,2020-02-01,Dua Lipa,https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+15963,2,2020,United States,0nbXyq5TXYPCO7pr3N8S4I,29,The Box,1,2020-02-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+15992,2,2020,United States,0sf12qNH5qcw8qpgymFOqD,29,Blinding Lights,7,2020-02-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+16021,2,2020,United States,5yY9lUy8nbvjM1Uyo1Uqoc,29,Life Is Good (feat. Drake),2,2020-02-01,Future,https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc
+16050,2,2020,United States,696DnlkuDOXcMAnKlTgXXK,27,ROXANNE,4,2020-02-01,Arizona Zervas,https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+16077,2,2020,United States,07KXEDMj78x68D884wgVEm,24,High Fashion (feat. Mustard),10,2020-02-03,Roddy Ricch,https://open.spotify.com/track/07KXEDMj78x68D884wgVEm
+16101,3,2020,Canada,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,1,2020-03-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+16131,3,2020,Canada,1rgnBhdG2JDFTbYkYRZAku,30,Dance Monkey,2,2020-03-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+16161,3,2020,Canada,4umIPjkehX1r7uhmGvXiSV,29,Intentions (feat. Quavo),3,2020-03-01,Justin Bieber,https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV
+16190,3,2020,Canada,22LAwLoDA5b4AaGSkg6bKW,28,Blueberry Faygo,6,2020-03-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+16218,3,2020,Canada,6WrI0LAC5M1Rw2MnX2ZvEg,22,Don't Start Now,5,2020-03-01,Dua Lipa,https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+16240,3,2020,United Kingdom,0nbXyq5TXYPCO7pr3N8S4I,31,The Box,2,2020-03-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+16271,3,2020,United Kingdom,24Yi9hE78yPEbZ4kxyoXAI,31,Roses - Imanbek Remix,3,2020-03-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+16302,3,2020,United Kingdom,3Dv1eDb0MEgF93GpLXlucZ,31,Say So,9,2020-03-01,Doja Cat,https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+16333,3,2020,United Kingdom,4umIPjkehX1r7uhmGvXiSV,28,Intentions (feat. Quavo),8,2020-03-01,Justin Bieber,https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV
+16361,3,2020,United Kingdom,1rgnBhdG2JDFTbYkYRZAku,27,Dance Monkey,6,2020-03-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+16388,3,2020,United States,0nbXyq5TXYPCO7pr3N8S4I,31,The Box,1,2020-03-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+16419,3,2020,United States,22LAwLoDA5b4AaGSkg6bKW,26,Blueberry Faygo,5,2020-03-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+16445,3,2020,United States,3Dv1eDb0MEgF93GpLXlucZ,23,Say So,2,2020-03-01,Doja Cat,https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+16468,3,2020,United States,4umIPjkehX1r7uhmGvXiSV,18,Intentions (feat. Quavo),6,2020-03-01,Justin Bieber,https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV
+16486,3,2020,United States,0sf12qNH5qcw8qpgymFOqD,16,Blinding Lights,3,2020-03-01,The Weeknd,https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+16502,4,2020,Canada,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,1,2020-04-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+16532,4,2020,Canada,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,2,2020-04-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+16562,4,2020,Canada,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,4,2020-04-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+16592,4,2020,Canada,24Yi9hE78yPEbZ4kxyoXAI,30,Roses - Imanbek Remix,3,2020-04-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+16622,4,2020,Canada,1rgnBhdG2JDFTbYkYRZAku,29,Dance Monkey,7,2020-04-01,Tones And I,https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+16651,4,2020,United Kingdom,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,1,2020-04-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+16681,4,2020,United Kingdom,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,6,2020-04-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+16711,4,2020,United Kingdom,24Yi9hE78yPEbZ4kxyoXAI,30,Roses - Imanbek Remix,2,2020-04-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+16741,4,2020,United Kingdom,3Dv1eDb0MEgF93GpLXlucZ,30,Say So,8,2020-04-01,Doja Cat,https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+16771,4,2020,United Kingdom,7eJMfftS33KTjuF7lTsMCx,30,death bed (coffee for your head),9,2020-04-01,"Powfu, beabadoobee",https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx
+16801,4,2020,United States,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,1,2020-04-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+16831,4,2020,United States,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,2,2020-04-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+16861,4,2020,United States,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,3,2020-04-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+16891,4,2020,United States,127QTOFJsJQp5LbJbu3A1y,28,Toosie Slide,1,2020-04-03,Drake,https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y
+16919,4,2020,United States,24Yi9hE78yPEbZ4kxyoXAI,27,Roses - Imanbek Remix,8,2020-04-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+16946,5,2020,Canada,39Yp9wwQiSRIDOvrVg7mbk,31,THE SCOTTS,3,2020-05-01,"THE SCOTTS, Travis Scott, Kid Cudi",https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk
+16977,5,2020,Canada,466cKvZn1j45IpxDdYZqdA,31,Toosie Slide,2,2020-05-01,Drake,https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA
+17008,5,2020,Canada,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,6,2020-05-02,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+17038,5,2020,Canada,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,10,2020-05-02,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+17068,5,2020,Canada,24Yi9hE78yPEbZ4kxyoXAI,30,Roses - Imanbek Remix,4,2020-05-02,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+17098,5,2020,United Kingdom,0VjIjW4GlUZAMYd2vXMi3b,31,Blinding Lights,2,2020-05-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+17129,5,2020,United Kingdom,24Yi9hE78yPEbZ4kxyoXAI,31,Roses - Imanbek Remix,4,2020-05-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+17160,5,2020,United Kingdom,466cKvZn1j45IpxDdYZqdA,31,Toosie Slide,1,2020-05-01,Drake,https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA
+17191,5,2020,United Kingdom,7ytR5pFWmSjzHJIeQkgog4,30,ROCKSTAR (feat. Roddy Ricch),8,2020-05-02,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+17221,5,2020,United Kingdom,7eJMfftS33KTjuF7lTsMCx,29,death bed (coffee for your head),5,2020-05-02,"Powfu, beabadoobee",https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx
+17250,5,2020,United States,39Yp9wwQiSRIDOvrVg7mbk,31,THE SCOTTS,3,2020-05-01,"THE SCOTTS, Travis Scott, Kid Cudi",https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk
+17281,5,2020,United States,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,6,2020-05-02,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+17311,5,2020,United States,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,9,2020-05-02,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+17341,5,2020,United States,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,8,2020-05-02,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+17371,5,2020,United States,466cKvZn1j45IpxDdYZqdA,30,Toosie Slide,2,2020-05-01,Drake,https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA
+17401,6,2020,Canada,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,5,2020-06-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+17431,6,2020,Canada,24Yi9hE78yPEbZ4kxyoXAI,30,Roses - Imanbek Remix,2,2020-06-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+17461,6,2020,Canada,466cKvZn1j45IpxDdYZqdA,30,Toosie Slide,4,2020-06-01,Drake,https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA
+17491,6,2020,Canada,5RqR4ZCCKJDcBLIn4sih9l,30,Party Girl,8,2020-06-01,StaySolidRocky,https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l
+17521,6,2020,Canada,7ytR5pFWmSjzHJIeQkgog4,30,ROCKSTAR (feat. Roddy Ricch),1,2020-06-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+17551,6,2020,United Kingdom,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,3,2020-06-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+17581,6,2020,United Kingdom,3H7ihDc1dqLriiWXwsc2po,30,Breaking Me,9,2020-06-01,"Topic, A7S",https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po
+17611,6,2020,United Kingdom,4slSrbTK1sNK4I1mDYEthf,30,Rover (feat. DTG),6,2020-06-01,S1mba,https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf
+17641,6,2020,United Kingdom,5y0ekFHNfFbjKhZlguSzdf,30,Dinner Guest (feat. MoStack),7,2020-06-01,AJ Tracey,https://open.spotify.com/track/5y0ekFHNfFbjKhZlguSzdf
+17671,6,2020,United Kingdom,7ju97lgwC2rKQ6wwsf9no9,30,Rain On Me (with Ariana Grande),2,2020-06-01,Lady Gaga,https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9
+17701,6,2020,United States,0VjIjW4GlUZAMYd2vXMi3b,30,Blinding Lights,6,2020-06-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+17731,6,2020,United States,0nbXyq5TXYPCO7pr3N8S4I,30,The Box,8,2020-06-01,Roddy Ricch,https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+17761,6,2020,United States,22LAwLoDA5b4AaGSkg6bKW,30,Blueberry Faygo,4,2020-06-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+17791,6,2020,United States,39Yp9wwQiSRIDOvrVg7mbk,30,THE SCOTTS,3,2020-06-01,"THE SCOTTS, Travis Scott, Kid Cudi",https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk
+17821,6,2020,United States,5RqR4ZCCKJDcBLIn4sih9l,30,Party Girl,5,2020-06-01,StaySolidRocky,https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l
+17851,7,2020,Canada,7ytR5pFWmSjzHJIeQkgog4,31,ROCKSTAR (feat. Roddy Ricch),1,2020-07-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+17882,7,2020,Canada,1xQ6trAsedVPCdbtDAmk0c,29,Savage Love (Laxed - Siren Beat),3,2020-07-01,"Jawsh 685, Jason Derulo",https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+17911,7,2020,Canada,24Yi9hE78yPEbZ4kxyoXAI,29,Roses - Imanbek Remix,2,2020-07-01,SAINt JHN,https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+17940,7,2020,Canada,6UelLqGlWMcVH1E5c4H7lY,27,Watermelon Sugar,5,2020-07-01,Harry Styles,https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+17967,7,2020,Canada,6o3QUC5oAE4g6WxRIFcZtb,20,Wishing Well,5,2020-07-10,Juice WRLD,https://open.spotify.com/track/6o3QUC5oAE4g6WxRIFcZtb
+17987,7,2020,United Kingdom,1xQ6trAsedVPCdbtDAmk0c,31,Savage Love (Laxed - Siren Beat),2,2020-07-01,"Jawsh 685, Jason Derulo",https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+18018,7,2020,United Kingdom,7ytR5pFWmSjzHJIeQkgog4,31,ROCKSTAR (feat. Roddy Ricch),1,2020-07-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+18049,7,2020,United Kingdom,3H7ihDc1dqLriiWXwsc2po,30,Breaking Me,4,2020-07-01,"Topic, A7S",https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po
+18079,7,2020,United Kingdom,6UelLqGlWMcVH1E5c4H7lY,30,Watermelon Sugar,5,2020-07-01,Harry Styles,https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+18109,7,2020,United Kingdom,0VjIjW4GlUZAMYd2vXMi3b,27,Blinding Lights,6,2020-07-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+18136,7,2020,United States,7ytR5pFWmSjzHJIeQkgog4,27,ROCKSTAR (feat. Roddy Ricch),1,2020-07-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+18163,7,2020,United States,2MbdDtCv5LUVjYy9RuGTgC,22,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",2,2020-07-01,"Tory Lanez, Jack Harlow",https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC
+18185,7,2020,United States,6o3QUC5oAE4g6WxRIFcZtb,18,Wishing Well,6,2020-07-10,Juice WRLD,https://open.spotify.com/track/6o3QUC5oAE4g6WxRIFcZtb
+18203,7,2020,United States,7y7w4tl4MaRC2UMEj1mPtr,17,Come & Go (with Marshmello),2,2020-07-10,Juice WRLD,https://open.spotify.com/track/7y7w4tl4MaRC2UMEj1mPtr
+18220,7,2020,United States,22LAwLoDA5b4AaGSkg6bKW,14,Blueberry Faygo,5,2020-07-01,Lil Mosey,https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+18234,8,2020,Canada,1xQ6trAsedVPCdbtDAmk0c,31,Savage Love (Laxed - Siren Beat),2,2020-08-01,"Jawsh 685, Jason Derulo",https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+18265,8,2020,Canada,6UelLqGlWMcVH1E5c4H7lY,31,Watermelon Sugar,5,2020-08-01,Harry Styles,https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+18296,8,2020,Canada,7ytR5pFWmSjzHJIeQkgog4,31,ROCKSTAR (feat. Roddy Ricch),1,2020-08-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+18327,8,2020,Canada,2Wo6QQD1KMDWeFkkjLqwx5,27,Roses - Imanbek Remix,4,2020-08-03,SAINt JHN,https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5
+18354,8,2020,Canada,4Oun2ylbjFKMPTiaSbbCih,25,WAP (feat. Megan Thee Stallion),4,2020-08-07,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+18379,8,2020,United Kingdom,1xQ6trAsedVPCdbtDAmk0c,31,Savage Love (Laxed - Siren Beat),3,2020-08-01,"Jawsh 685, Jason Derulo",https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+18410,8,2020,United Kingdom,5lWUeSYO61UYgNlFlqcwYl,31,Lighter (feat. KSI),6,2020-08-01,Nathan Dawe,https://open.spotify.com/track/5lWUeSYO61UYgNlFlqcwYl
+18441,8,2020,United Kingdom,6cx06DFPPHchuUAcTxznu9,31,Head & Heart (feat. MNEK),1,2020-08-01,Joel Corry,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+18472,8,2020,United Kingdom,7ytR5pFWmSjzHJIeQkgog4,31,ROCKSTAR (feat. Roddy Ricch),2,2020-08-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+18503,8,2020,United Kingdom,5rZlwNFl01HqLWBQGryKSm,25,Mood Swings (feat. Lil Tjay),9,2020-08-05,Pop Smoke,https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm
+18528,8,2020,United States,2MbdDtCv5LUVjYy9RuGTgC,31,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",6,2020-08-01,"Tory Lanez, Jack Harlow",https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC
+18559,8,2020,United States,7ytR5pFWmSjzHJIeQkgog4,31,ROCKSTAR (feat. Roddy Ricch),2,2020-08-01,DaBaby,https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4
+18590,8,2020,United States,2U5WueTLIK5WJLD7mvDODv,25,Wishing Well,4,2020-08-07,Juice WRLD,https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv
+18615,8,2020,United States,4Oun2ylbjFKMPTiaSbbCih,25,WAP (feat. Megan Thee Stallion),1,2020-08-07,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+18640,8,2020,United States,2Y0wPrPQBrGhoLn14xRYCG,24,Come & Go (with Marshmello),5,2020-08-07,Juice WRLD,https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG
+18664,9,2020,Canada,0PvFJmanyNQMseIFrU708S,30,For The Night (feat. Lil Baby & DaBaby),9,2020-09-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S
+18694,9,2020,Canada,1xQ6trAsedVPCdbtDAmk0c,30,Savage Love (Laxed - Siren Beat),4,2020-09-01,"Jawsh 685, Jason Derulo",https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c
+18724,9,2020,Canada,2SAqBLGA283SUiwJ3xOUVI,30,Laugh Now Cry Later (feat. Lil Durk),3,2020-09-01,Drake,https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI
+18754,9,2020,Canada,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),2,2020-09-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+18784,9,2020,Canada,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),1,2020-09-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+18814,9,2020,United Kingdom,2SAqBLGA283SUiwJ3xOUVI,30,Laugh Now Cry Later (feat. Lil Durk),6,2020-09-01,Drake,https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI
+18844,9,2020,United Kingdom,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),3,2020-09-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+18874,9,2020,United Kingdom,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),1,2020-09-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+18904,9,2020,United Kingdom,5rZlwNFl01HqLWBQGryKSm,30,Mood Swings (feat. Lil Tjay),7,2020-09-01,Pop Smoke,https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm
+18934,9,2020,United Kingdom,6NJfIydBMYrXvlaXsFxmc8,30,Ain't It Different (feat. AJ Tracey & Stormzy),4,2020-09-01,Headie One,https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8
+18964,9,2020,United States,0PvFJmanyNQMseIFrU708S,30,For The Night (feat. Lil Baby & DaBaby),4,2020-09-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S
+18994,9,2020,United States,2SAqBLGA283SUiwJ3xOUVI,30,Laugh Now Cry Later (feat. Lil Durk),2,2020-09-01,Drake,https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI
+19024,9,2020,United States,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),3,2020-09-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19054,9,2020,United States,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),1,2020-09-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+19084,9,2020,United States,2MbdDtCv5LUVjYy9RuGTgC,29,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",8,2020-09-01,"Tory Lanez, Jack Harlow",https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC
+19113,10,2020,Canada,3tjFYV6RSFtuktYl3ZtYcq,31,Mood (feat. iann dior),1,2020-10-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19144,10,2020,Canada,7hxHWCCAIIxFLCzvDgnQHX,31,"Lemonade (feat. Gunna, Don Toliver & NAV)",2,2020-10-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+19175,10,2020,Canada,0PvFJmanyNQMseIFrU708S,30,For The Night (feat. Lil Baby & DaBaby),4,2020-10-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S
+19205,10,2020,Canada,4Oun2ylbjFKMPTiaSbbCih,29,WAP (feat. Megan Thee Stallion),3,2020-10-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+19234,10,2020,Canada,1tkg4EHVoqnhR6iFEXb60y,28,What You Know Bout Love,8,2020-10-01,Pop Smoke,https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y
+19262,10,2020,United Kingdom,1tkg4EHVoqnhR6iFEXb60y,31,What You Know Bout Love,6,2020-10-01,Pop Smoke,https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y
+19293,10,2020,United Kingdom,3tjFYV6RSFtuktYl3ZtYcq,31,Mood (feat. iann dior),1,2020-10-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19324,10,2020,United Kingdom,6cx06DFPPHchuUAcTxznu9,31,Head & Heart (feat. MNEK),4,2020-10-01,Joel Corry,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+19355,10,2020,United Kingdom,7hxHWCCAIIxFLCzvDgnQHX,31,"Lemonade (feat. Gunna, Don Toliver & NAV)",3,2020-10-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+19386,10,2020,United Kingdom,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),2,2020-10-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+19416,10,2020,United States,0PvFJmanyNQMseIFrU708S,30,For The Night (feat. Lil Baby & DaBaby),4,2020-10-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S
+19446,10,2020,United States,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),3,2020-10-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19476,10,2020,United States,4Oun2ylbjFKMPTiaSbbCih,30,WAP (feat. Megan Thee Stallion),1,2020-10-01,Cardi B,https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+19506,10,2020,United States,7hxHWCCAIIxFLCzvDgnQHX,30,"Lemonade (feat. Gunna, Don Toliver & NAV)",2,2020-10-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+19536,10,2020,United States,2SAqBLGA283SUiwJ3xOUVI,28,Laugh Now Cry Later (feat. Lil Durk),5,2020-10-01,Drake,https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI
+19564,11,2020,Canada,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),2,2020-11-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19594,11,2020,Canada,35mvY5S1H3J2QZyna3TFe0,28,positions,1,2020-11-01,Ariana Grande,https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0
+19622,11,2020,Canada,7hxHWCCAIIxFLCzvDgnQHX,27,"Lemonade (feat. Gunna, Don Toliver & NAV)",3,2020-11-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+19649,11,2020,Canada,1tkg4EHVoqnhR6iFEXb60y,26,What You Know Bout Love,5,2020-11-01,Pop Smoke,https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y
+19675,11,2020,Canada,4y4spB9m0Q6026KfkAvy9Q,24,Lonely (with benny blanco),7,2020-11-01,Justin Bieber,https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q
+19699,11,2020,United Kingdom,35mvY5S1H3J2QZyna3TFe0,29,positions,1,2020-11-01,Ariana Grande,https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0
+19728,11,2020,United Kingdom,3tjFYV6RSFtuktYl3ZtYcq,28,Mood (feat. iann dior),2,2020-11-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19756,11,2020,United Kingdom,7hxHWCCAIIxFLCzvDgnQHX,28,"Lemonade (feat. Gunna, Don Toliver & NAV)",3,2020-11-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+19784,11,2020,United Kingdom,1tkg4EHVoqnhR6iFEXb60y,27,What You Know Bout Love,4,2020-11-01,Pop Smoke,https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y
+19811,11,2020,United Kingdom,6cx06DFPPHchuUAcTxznu9,26,Head & Heart (feat. MNEK),5,2020-11-01,Joel Corry,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+19837,11,2020,United States,35mvY5S1H3J2QZyna3TFe0,30,positions,1,2020-11-01,Ariana Grande,https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0
+19867,11,2020,United States,7hxHWCCAIIxFLCzvDgnQHX,28,"Lemonade (feat. Gunna, Don Toliver & NAV)",5,2020-11-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+19895,11,2020,United States,3tjFYV6RSFtuktYl3ZtYcq,27,Mood (feat. iann dior),3,2020-11-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+19922,11,2020,United States,47EiUVwUp4C9fGccaPuUCS,26,DÁKITI,9,2020-11-01,"Bad Bunny, Jhay Cortez",https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS
+19948,11,2020,United States,0PvFJmanyNQMseIFrU708S,24,For The Night (feat. Lil Baby & DaBaby),6,2020-11-01,Pop Smoke,https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S
+19972,12,2020,Canada,0bYg9bo50gSsH3LtXe2SQn,25,All I Want for Christmas Is You,1,2020-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+19997,12,2020,Canada,0lLdorYw7lVrJydTINhWdI,25,It's Beginning to Look a Lot like Christmas,3,2020-12-01,Michael Bublé,https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI
+20022,12,2020,Canada,0lizgQ7Qw35od7CYaoMBZb,25,Santa Tell Me,4,2020-12-01,Ariana Grande,https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb
+20047,12,2020,Canada,2EjXfH91m7f8HiJN1yQg97,25,Rockin' Around The Christmas Tree,5,2020-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+20072,12,2020,Canada,2FRnf9qhLbvw8fu4IBXx78,25,Last Christmas,2,2020-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+20097,12,2020,United Kingdom,0bYg9bo50gSsH3LtXe2SQn,26,All I Want for Christmas Is You,1,2020-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+20123,12,2020,United Kingdom,0lLdorYw7lVrJydTINhWdI,26,It's Beginning to Look a Lot like Christmas,3,2020-12-01,Michael Bublé,https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI
+20149,12,2020,United Kingdom,0lizgQ7Qw35od7CYaoMBZb,26,Santa Tell Me,5,2020-12-01,Ariana Grande,https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb
+20175,12,2020,United Kingdom,2EjXfH91m7f8HiJN1yQg97,26,Rockin' Around The Christmas Tree,4,2020-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+20201,12,2020,United Kingdom,2FRnf9qhLbvw8fu4IBXx78,26,Last Christmas,2,2020-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+20227,12,2020,United States,0bYg9bo50gSsH3LtXe2SQn,25,All I Want for Christmas Is You,2,2020-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+20252,12,2020,United States,2EjXfH91m7f8HiJN1yQg97,25,Rockin' Around The Christmas Tree,3,2020-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+20277,12,2020,United States,7vQbuQcyTflfCIOu3Uzzya,24,Jingle Bell Rock,6,2020-12-01,Bobby Helms,https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya
+20301,12,2020,United States,1IcR6RlgvDczfvoWJSSY2A,23,It's the Most Wonderful Time of the Year,7,2020-12-01,Andy Williams,https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A
+20324,12,2020,United States,2FRnf9qhLbvw8fu4IBXx78,20,Last Christmas,10,2020-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+20344,1,2021,Canada,27OeeYzk6klgBh83TSvGMA,31,WITHOUT YOU,9,2021-01-01,The Kid LAROI,https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA
+20375,1,2021,Canada,3tjFYV6RSFtuktYl3ZtYcq,31,Mood (feat. iann dior),1,2021-01-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+20406,1,2021,Canada,5nujrmhLynf4yMoMtj8AQF,31,Levitating (feat. DaBaby),3,2021-01-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+20437,1,2021,Canada,5vGLcdRuSbUhD8ScwsGSdA,31,Whoopty,7,2021-01-01,CJ,https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA
+20468,1,2021,Canada,31qCy5ZaophVA81wtlwLc4,30,Anyone,4,2021-01-01,Justin Bieber,https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4
+20498,1,2021,United Kingdom,27OeeYzk6klgBh83TSvGMA,31,WITHOUT YOU,8,2021-01-01,The Kid LAROI,https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA
+20529,1,2021,United Kingdom,5vGLcdRuSbUhD8ScwsGSdA,30,Whoopty,5,2021-01-01,CJ,https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA
+20559,1,2021,United Kingdom,3tjFYV6RSFtuktYl3ZtYcq,29,Mood (feat. iann dior),2,2021-01-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+20588,1,2021,United Kingdom,6cx06DFPPHchuUAcTxznu9,25,Head & Heart (feat. MNEK),4,2021-01-01,Joel Corry,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+20613,1,2021,United Kingdom,7hxHWCCAIIxFLCzvDgnQHX,24,"Lemonade (feat. Gunna, Don Toliver & NAV)",6,2021-01-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+20637,1,2021,United States,3YJJjQPAbDT7mGpX3WtQ9A,31,Good Days,10,2021-01-01,SZA,https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A
+20668,1,2021,United States,3tjFYV6RSFtuktYl3ZtYcq,30,Mood (feat. iann dior),1,2021-01-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+20698,1,2021,United States,7hxHWCCAIIxFLCzvDgnQHX,30,"Lemonade (feat. Gunna, Don Toliver & NAV)",4,2021-01-01,Internet Money,https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+20728,1,2021,United States,5vGLcdRuSbUhD8ScwsGSdA,29,Whoopty,8,2021-01-02,CJ,https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA
+20757,1,2021,United States,7lPN2DXiMsVn7XUKtOW1CS,24,drivers license,5,2021-01-08,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+20781,2,2021,Canada,0VjIjW4GlUZAMYd2vXMi3b,28,Blinding Lights,10,2021-02-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+20809,2,2021,Canada,27OeeYzk6klgBh83TSvGMA,28,WITHOUT YOU,5,2021-02-01,The Kid LAROI,https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA
+20837,2,2021,Canada,3tjFYV6RSFtuktYl3ZtYcq,28,Mood (feat. iann dior),4,2021-02-01,24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+20865,2,2021,Canada,5QO79kh1waicV47BqGRL3g,28,Save Your Tears,3,2021-02-01,The Weeknd,https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g
+20893,2,2021,Canada,7lPN2DXiMsVn7XUKtOW1CS,28,drivers license,1,2021-02-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+20921,2,2021,United Kingdom,27OeeYzk6klgBh83TSvGMA,28,WITHOUT YOU,3,2021-02-01,The Kid LAROI,https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA
+20949,2,2021,United Kingdom,4I5bvu2KDsrCg0EWHIcvul,28,Don't Play,4,2021-02-01,"Anne-Marie, KSI, Digital Farm Animals",https://open.spotify.com/track/4I5bvu2KDsrCg0EWHIcvul
+20977,2,2021,United Kingdom,6ft4hAq6yde8jPZY2i5zLr,28,Paradise (feat. Dermot Kennedy),6,2021-02-01,MEDUZA,https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr
+21005,2,2021,United Kingdom,7lPN2DXiMsVn7XUKtOW1CS,28,drivers license,1,2021-02-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+21033,2,2021,United Kingdom,6f3Slt0GbA2bPZlz0aIFXN,24,The Business,9,2021-02-03,Tiësto,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+21057,2,2021,United States,0VjIjW4GlUZAMYd2vXMi3b,28,Blinding Lights,9,2021-02-01,The Weeknd,https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b
+21085,2,2021,United States,3YJJjQPAbDT7mGpX3WtQ9A,28,Good Days,2,2021-02-01,SZA,https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A
+21113,2,2021,United States,5QO79kh1waicV47BqGRL3g,28,Save Your Tears,4,2021-02-01,The Weeknd,https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g
+21141,2,2021,United States,60ynsPSSKe6O3sfwRnIBRf,28,Streets,3,2021-02-01,Doja Cat,https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf
+21169,2,2021,United States,7lPN2DXiMsVn7XUKtOW1CS,28,drivers license,1,2021-02-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+21197,3,2021,Canada,3VT8hOC5vuDXBsHrR53WFh,31,Astronaut In The Ocean,4,2021-03-01,Masked Wolf,https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh
+21228,3,2021,Canada,5Kskr9LcNYa0tpt5f0ZEJx,30,Calling My Phone,1,2021-03-01,"Lil Tjay, 6LACK",https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx
+21258,3,2021,Canada,5QO79kh1waicV47BqGRL3g,30,Save Your Tears,3,2021-03-01,The Weeknd,https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g
+21288,3,2021,Canada,7lPN2DXiMsVn7XUKtOW1CS,29,drivers license,2,2021-03-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+21317,3,2021,Canada,1M4OcYkxAtu3ErzSgDEfoi,23,Up,5,2021-03-01,Cardi B,https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi
+21340,3,2021,United Kingdom,5Kskr9LcNYa0tpt5f0ZEJx,31,Calling My Phone,2,2021-03-01,"Lil Tjay, 6LACK",https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx
+21371,3,2021,United Kingdom,6f3Slt0GbA2bPZlz0aIFXN,31,The Business,4,2021-03-01,Tiësto,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+21402,3,2021,United Kingdom,7lPN2DXiMsVn7XUKtOW1CS,31,drivers license,1,2021-03-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+21433,3,2021,United Kingdom,7pnQ23WgZca9jEfMts9qsR,31,Latest Trends,6,2021-03-01,A1 x J1,https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR
+21464,3,2021,United Kingdom,4cG7HUWYHBV6R6tHn1gxrl,30,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,7,2021-03-01,"Riton, Nightcrawlers",https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl
+21494,3,2021,United States,1M4OcYkxAtu3ErzSgDEfoi,31,Up,4,2021-03-01,Cardi B,https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi
+21525,3,2021,United States,5Kskr9LcNYa0tpt5f0ZEJx,30,Calling My Phone,2,2021-03-01,"Lil Tjay, 6LACK",https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx
+21555,3,2021,United States,6tDDoYIxWvMLTdKpjFkc1B,30,telepatía,3,2021-03-01,Kali Uchis,https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B
+21585,3,2021,United States,7lPN2DXiMsVn7XUKtOW1CS,30,drivers license,1,2021-03-01,Olivia Rodrigo,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+21615,3,2021,United States,7MAibcTli4IisCtbHKrGMh,26,Leave The Door Open,4,2021-03-05,"Bruno Mars, Anderson .Paak, Silk Sonic",https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh
+21641,4,2021,Canada,3VT8hOC5vuDXBsHrR53WFh,30,Astronaut In The Ocean,3,2021-04-01,Masked Wolf,https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh
+21671,4,2021,Canada,4iJyoBOLtHqaGxP12qzhQI,30,Peaches (feat. Daniel Caesar & Giveon),2,2021-04-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+21701,4,2021,Canada,5nujrmhLynf4yMoMtj8AQF,30,Levitating (feat. DaBaby),6,2021-04-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+21731,4,2021,Canada,61KpQadow081I2AsbeLcsb,28,deja vu,5,2021-04-02,Olivia Rodrigo,https://open.spotify.com/track/61KpQadow081I2AsbeLcsb
+21759,4,2021,Canada,43PGPuHIlVOc04jrZVh9L6,22,RAPSTAR,1,2021-04-09,Polo G,https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6
+21781,4,2021,United Kingdom,0siYMEsGrzzzlWLXK5zJfS,30,BED,8,2021-04-01,"Joel Corry, RAYE, David Guetta",https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS
+21811,4,2021,United Kingdom,4cG7HUWYHBV6R6tHn1gxrl,30,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,3,2021-04-01,"Riton, Nightcrawlers",https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl
+21841,4,2021,United Kingdom,4iJyoBOLtHqaGxP12qzhQI,30,Peaches (feat. Daniel Caesar & Giveon),2,2021-04-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+21871,4,2021,United Kingdom,6f3Slt0GbA2bPZlz0aIFXN,28,The Business,5,2021-04-01,Tiësto,https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN
+21899,4,2021,United Kingdom,43PGPuHIlVOc04jrZVh9L6,22,RAPSTAR,3,2021-04-09,Polo G,https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6
+21921,4,2021,United States,4iJyoBOLtHqaGxP12qzhQI,30,Peaches (feat. Daniel Caesar & Giveon),2,2021-04-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+21951,4,2021,United States,3VT8hOC5vuDXBsHrR53WFh,29,Astronaut In The Ocean,4,2021-04-01,Masked Wolf,https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh
+21980,4,2021,United States,5nujrmhLynf4yMoMtj8AQF,28,Levitating (feat. DaBaby),9,2021-04-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22008,4,2021,United States,61KpQadow081I2AsbeLcsb,28,deja vu,3,2021-04-02,Olivia Rodrigo,https://open.spotify.com/track/61KpQadow081I2AsbeLcsb
+22036,4,2021,United States,3FAJ6O0NOHQV8Mc5Ri6ENp,22,Heartbreak Anniversary,10,2021-04-01,Giveon,https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp
+22058,5,2021,Canada,748mdHapucXQri7IAO8yFK,30,Kiss Me More (feat. SZA),4,2021-05-01,Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK
+22088,5,2021,Canada,67BtfxlNbhBmCDR2L2l8qd,28,MONTERO (Call Me By Your Name),2,2021-05-01,Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd
+22116,5,2021,Canada,4iJyoBOLtHqaGxP12qzhQI,25,Peaches (feat. Daniel Caesar & Giveon),1,2021-05-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+22141,5,2021,Canada,5nujrmhLynf4yMoMtj8AQF,24,Levitating (feat. DaBaby),7,2021-05-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22165,5,2021,Canada,43PGPuHIlVOc04jrZVh9L6,18,RAPSTAR,3,2021-05-01,Polo G,https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6
+22183,5,2021,United Kingdom,67BtfxlNbhBmCDR2L2l8qd,31,MONTERO (Call Me By Your Name),1,2021-05-01,Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd
+22214,5,2021,United Kingdom,6uvMKqNlrSvcC4NaKnrwjZ,31,"Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",2,2021-05-01,"Tion Wayne, Russ Millions",https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ
+22245,5,2021,United Kingdom,748mdHapucXQri7IAO8yFK,31,Kiss Me More (feat. SZA),3,2021-05-01,Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK
+22276,5,2021,United Kingdom,4iJyoBOLtHqaGxP12qzhQI,23,Peaches (feat. Daniel Caesar & Giveon),4,2021-05-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+22299,5,2021,United Kingdom,5nujrmhLynf4yMoMtj8AQF,21,Levitating (feat. DaBaby),9,2021-05-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22320,5,2021,United States,748mdHapucXQri7IAO8yFK,27,Kiss Me More (feat. SZA),2,2021-05-01,Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK
+22347,5,2021,United States,43PGPuHIlVOc04jrZVh9L6,21,RAPSTAR,1,2021-05-01,Polo G,https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6
+22368,5,2021,United States,5nujrmhLynf4yMoMtj8AQF,18,Levitating (feat. DaBaby),6,2021-05-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22386,5,2021,United States,61KpQadow081I2AsbeLcsb,17,deja vu,7,2021-05-01,Olivia Rodrigo,https://open.spotify.com/track/61KpQadow081I2AsbeLcsb
+22403,5,2021,United States,67BtfxlNbhBmCDR2L2l8qd,16,MONTERO (Call Me By Your Name),3,2021-05-01,Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd
+22419,6,2021,Canada,4ZtFanR9U6ndgddUvNcjcG,30,good 4 u,1,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+22449,6,2021,Canada,5nujrmhLynf4yMoMtj8AQF,30,Levitating (feat. DaBaby),6,2021-06-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22479,6,2021,Canada,67BtfxlNbhBmCDR2L2l8qd,30,MONTERO (Call Me By Your Name),5,2021-06-01,Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd
+22509,6,2021,Canada,4iJyoBOLtHqaGxP12qzhQI,29,Peaches (feat. Daniel Caesar & Giveon),7,2021-06-01,Justin Bieber,https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI
+22538,6,2021,Canada,6HU7h9RYOaPRFeh0R3UeAr,26,deja vu,2,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr
+22564,6,2021,United Kingdom,4ZtFanR9U6ndgddUvNcjcG,30,good 4 u,1,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+22594,6,2021,United Kingdom,67BtfxlNbhBmCDR2L2l8qd,30,MONTERO (Call Me By Your Name),5,2021-06-01,Lil Nas X,https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd
+22624,6,2021,United Kingdom,6uvMKqNlrSvcC4NaKnrwjZ,28,"Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",2,2021-06-01,"Tion Wayne, Russ Millions",https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ
+22652,6,2021,United Kingdom,5CZ40GBx1sQ9agT82CLQCT,27,traitor,6,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT
+22679,6,2021,United Kingdom,6HU7h9RYOaPRFeh0R3UeAr,26,deja vu,4,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr
+22705,6,2021,United States,4ZtFanR9U6ndgddUvNcjcG,30,good 4 u,1,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+22735,6,2021,United States,6HU7h9RYOaPRFeh0R3UeAr,28,deja vu,2,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr
+22763,6,2021,United States,5CZ40GBx1sQ9agT82CLQCT,27,traitor,3,2021-06-01,Olivia Rodrigo,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT
+22790,6,2021,United States,5nujrmhLynf4yMoMtj8AQF,25,Levitating (feat. DaBaby),6,2021-06-05,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22815,6,2021,United States,748mdHapucXQri7IAO8yFK,24,Kiss Me More (feat. SZA),5,2021-06-01,Doja Cat,https://open.spotify.com/track/748mdHapucXQri7IAO8yFK
+22839,7,2021,Canada,3DarAbFujv6eYNliUTyqtz,31,Kiss Me More (feat. SZA),5,2021-07-01,Doja Cat,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+22870,7,2021,Canada,3Wrjm47oTz2sjIgck11l5e,31,Beggin',6,2021-07-01,Måneskin,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+22901,7,2021,Canada,4ZtFanR9U6ndgddUvNcjcG,31,good 4 u,1,2021-07-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+22932,7,2021,Canada,5nujrmhLynf4yMoMtj8AQF,31,Levitating (feat. DaBaby),3,2021-07-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+22963,7,2021,Canada,6PQ88X9TkUIAUIZJHW2upE,31,Bad Habits,2,2021-07-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+22994,7,2021,United Kingdom,4ZtFanR9U6ndgddUvNcjcG,31,good 4 u,2,2021-07-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+23025,7,2021,United Kingdom,6PQ88X9TkUIAUIZJHW2upE,31,Bad Habits,1,2021-07-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+23056,7,2021,United Kingdom,3Wrjm47oTz2sjIgck11l5e,30,Beggin',3,2021-07-01,Måneskin,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+23086,7,2021,United Kingdom,4pt5fDVTg5GhEvEtlz9dKk,29,I WANNA BE YOUR SLAVE,4,2021-07-01,Måneskin,https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk
+23115,7,2021,United Kingdom,5K6Ssv4Z3zRvxt0P6EKUAP,24,Heartbreak Anthem (with David Guetta & Little Mix),8,2021-07-01,Galantis,https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP
+23139,7,2021,United States,3DarAbFujv6eYNliUTyqtz,31,Kiss Me More (feat. SZA),2,2021-07-01,Doja Cat,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+23170,7,2021,United States,4ZtFanR9U6ndgddUvNcjcG,31,good 4 u,1,2021-07-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+23201,7,2021,United States,3Wrjm47oTz2sjIgck11l5e,28,Beggin',9,2021-07-03,Måneskin,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+23229,7,2021,United States,5nujrmhLynf4yMoMtj8AQF,27,Levitating (feat. DaBaby),6,2021-07-01,Dua Lipa,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+23256,7,2021,United States,5lAnYvAIkSDNXqfo7DyFUm,25,Ain't Shit,10,2021-07-06,Doja Cat,https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm
+23281,8,2021,Canada,5PjdY0CKGZdEuoNab3yDmX,31,STAY (with Justin Bieber),1,2021-08-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+23312,8,2021,Canada,27NovPIUIRrOZoCHxABJwK,30,INDUSTRY BABY (feat. Jack Harlow),2,2021-08-01,Lil Nas X,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK
+23342,8,2021,Canada,6PQ88X9TkUIAUIZJHW2upE,29,Bad Habits,3,2021-08-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+23371,8,2021,Canada,3DarAbFujv6eYNliUTyqtz,28,Kiss Me More (feat. SZA),8,2021-08-01,Doja Cat,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+23399,8,2021,Canada,3Wrjm47oTz2sjIgck11l5e,28,Beggin',6,2021-08-01,Måneskin,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+23427,8,2021,United Kingdom,4ZtFanR9U6ndgddUvNcjcG,31,good 4 u,3,2021-08-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+23458,8,2021,United Kingdom,5PjdY0CKGZdEuoNab3yDmX,31,STAY (with Justin Bieber),2,2021-08-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+23489,8,2021,United Kingdom,6PQ88X9TkUIAUIZJHW2upE,31,Bad Habits,1,2021-08-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+23520,8,2021,United Kingdom,27NovPIUIRrOZoCHxABJwK,29,INDUSTRY BABY (feat. Jack Harlow),9,2021-08-01,Lil Nas X,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK
+23549,8,2021,United Kingdom,4RVwu0g32PAqgUiJoXsdF8,28,Happier Than Ever,5,2021-08-01,Billie Eilish,https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8
+23577,8,2021,United States,27NovPIUIRrOZoCHxABJwK,29,INDUSTRY BABY (feat. Jack Harlow),2,2021-08-01,Lil Nas X,https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK
+23606,8,2021,United States,5PjdY0CKGZdEuoNab3yDmX,29,STAY (with Justin Bieber),1,2021-08-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+23635,8,2021,United States,3DarAbFujv6eYNliUTyqtz,28,Kiss Me More (feat. SZA),5,2021-08-01,Doja Cat,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+23663,8,2021,United States,3Vi5XqYrmQgOYBajMWSvCi,28,Need To Know,8,2021-08-01,Doja Cat,https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi
+23691,8,2021,United States,4RVwu0g32PAqgUiJoXsdF8,28,Happier Than Ever,3,2021-08-01,Billie Eilish,https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8
+23719,9,2021,Canada,0k1WUmIRnG3xU6fvvDVfRG,28,Way 2 Sexy (with Future & Young Thug),4,2021-09-03,Drake,https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG
+23747,9,2021,Canada,2BcMwX1MPV6ZHP4tUT9uq6,28,Knife Talk (with 21 Savage ft. Project Pat),10,2021-09-03,Drake,https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6
+23775,9,2021,Canada,40iJIUlhi6renaREYGeIDS,28,Fair Trade (with Travis Scott),1,2021-09-03,Drake,https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS
+23803,9,2021,Canada,5PjdY0CKGZdEuoNab3yDmX,28,STAY (with Justin Bieber),1,2021-09-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+23831,9,2021,Canada,6PQ88X9TkUIAUIZJHW2upE,25,Bad Habits,5,2021-09-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+23856,9,2021,United Kingdom,5PjdY0CKGZdEuoNab3yDmX,29,STAY (with Justin Bieber),1,2021-09-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+23885,9,2021,United Kingdom,6PQ88X9TkUIAUIZJHW2upE,29,Bad Habits,2,2021-09-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+23914,9,2021,United Kingdom,37Nqx7iavZpotJSDXZWbJ3,28,Girls Want Girls (with Lil Baby),1,2021-09-03,Drake,https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3
+23942,9,2021,United Kingdom,4ZtFanR9U6ndgddUvNcjcG,28,good 4 u,4,2021-09-01,Olivia Rodrigo,https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG
+23970,9,2021,United Kingdom,02MWAaffLxlfxAUY7c5dvx,23,Heat Waves,8,2021-09-02,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+23993,9,2021,United States,0k1WUmIRnG3xU6fvvDVfRG,28,Way 2 Sexy (with Future & Young Thug),5,2021-09-03,Drake,https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG
+24021,9,2021,United States,2BcMwX1MPV6ZHP4tUT9uq6,28,Knife Talk (with 21 Savage ft. Project Pat),9,2021-09-03,Drake,https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6
+24049,9,2021,United States,40iJIUlhi6renaREYGeIDS,28,Fair Trade (with Travis Scott),3,2021-09-03,Drake,https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS
+24077,9,2021,United States,5PjdY0CKGZdEuoNab3yDmX,28,STAY (with Justin Bieber),2,2021-09-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24105,9,2021,United States,02MWAaffLxlfxAUY7c5dvx,24,Heat Waves,9,2021-09-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+24129,10,2021,Canada,02MWAaffLxlfxAUY7c5dvx,31,Heat Waves,5,2021-10-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+24160,10,2021,Canada,5PjdY0CKGZdEuoNab3yDmX,31,STAY (with Justin Bieber),1,2021-10-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24191,10,2021,Canada,5Z9KJZvQzH6PFmb8SNkxuk,31,INDUSTRY BABY (feat. Jack Harlow),2,2021-10-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+24222,10,2021,Canada,2BcMwX1MPV6ZHP4tUT9uq6,30,Knife Talk (with 21 Savage ft. Project Pat),3,2021-10-01,Drake,https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6
+24252,10,2021,Canada,0e8nrvls4Qqv5Rfa2UhqmO,28,THATS WHAT I WANT,7,2021-10-01,Lil Nas X,https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO
+24280,10,2021,United Kingdom,02MWAaffLxlfxAUY7c5dvx,31,Heat Waves,7,2021-10-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+24311,10,2021,United Kingdom,4PYfFHKfjYz6dwAtZhBy1z,31,Obsessed With You,5,2021-10-01,Central Cee,https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z
+24342,10,2021,United Kingdom,5PjdY0CKGZdEuoNab3yDmX,31,STAY (with Justin Bieber),2,2021-10-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24373,10,2021,United Kingdom,5Z9KJZvQzH6PFmb8SNkxuk,30,INDUSTRY BABY (feat. Jack Harlow),6,2021-10-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+24403,10,2021,United Kingdom,6PQ88X9TkUIAUIZJHW2upE,28,Bad Habits,3,2021-10-01,Ed Sheeran,https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE
+24431,10,2021,United States,02MWAaffLxlfxAUY7c5dvx,31,Heat Waves,5,2021-10-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+24462,10,2021,United States,0k1WUmIRnG3xU6fvvDVfRG,31,Way 2 Sexy (with Future & Young Thug),4,2021-10-01,Drake,https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG
+24493,10,2021,United States,2BcMwX1MPV6ZHP4tUT9uq6,31,Knife Talk (with 21 Savage ft. Project Pat),3,2021-10-01,Drake,https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6
+24524,10,2021,United States,5PjdY0CKGZdEuoNab3yDmX,31,STAY (with Justin Bieber),2,2021-10-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24555,10,2021,United States,5Z9KJZvQzH6PFmb8SNkxuk,31,INDUSTRY BABY (feat. Jack Harlow),1,2021-10-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+24586,11,2021,Canada,5Z9KJZvQzH6PFmb8SNkxuk,30,INDUSTRY BABY (feat. Jack Harlow),2,2021-11-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+24616,11,2021,Canada,5PjdY0CKGZdEuoNab3yDmX,28,STAY (with Justin Bieber),4,2021-11-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24644,11,2021,Canada,7rglLriMNBPAyuJOMGwi39,28,Cold Heart - PNAU Remix,7,2021-11-01,"Elton John, Dua Lipa",https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39
+24672,11,2021,Canada,02MWAaffLxlfxAUY7c5dvx,25,Heat Waves,6,2021-11-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+24697,11,2021,Canada,50nfwKoDiSYg8zOCREWAm5,25,Shivers,3,2021-11-01,Ed Sheeran,https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5
+24722,11,2021,United Kingdom,50nfwKoDiSYg8zOCREWAm5,29,Shivers,2,2021-11-01,Ed Sheeran,https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5
+24751,11,2021,United Kingdom,7rglLriMNBPAyuJOMGwi39,26,Cold Heart - PNAU Remix,4,2021-11-01,"Elton John, Dua Lipa",https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39
+24777,11,2021,United Kingdom,3rmo8F54jFF8OgYsqTxm5d,20,Bad Habits,3,2021-11-01,Ed Sheeran,https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d
+24797,11,2021,United Kingdom,0gplL1WMoJ6iYaPgMCL0gX,18,Easy On Me,1,2021-11-01,Adele,https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX
+24815,11,2021,United Kingdom,5PjdY0CKGZdEuoNab3yDmX,18,STAY (with Justin Bieber),6,2021-11-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24833,11,2021,United States,5Z9KJZvQzH6PFmb8SNkxuk,28,INDUSTRY BABY (feat. Jack Harlow),2,2021-11-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+24861,11,2021,United States,5PjdY0CKGZdEuoNab3yDmX,25,STAY (with Justin Bieber),3,2021-11-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24886,11,2021,United States,02MWAaffLxlfxAUY7c5dvx,23,Heat Waves,4,2021-11-01,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+24909,11,2021,United States,5enxwA8aAbwZbf5qCHORXi,19,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),1,2021-11-12,Taylor Swift,https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi
+24928,11,2021,United States,7sMBvZCSUl99bJLXZaLa0b,17,Smokin Out The Window,6,2021-11-12,"Bruno Mars, Anderson .Paak, Silk Sonic",https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b
+24945,12,2021,Canada,0bYg9bo50gSsH3LtXe2SQn,15,All I Want for Christmas Is You,7,2021-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+24960,12,2021,Canada,2EjXfH91m7f8HiJN1yQg97,15,Rockin' Around The Christmas Tree,10,2021-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+24975,12,2021,Canada,5PjdY0CKGZdEuoNab3yDmX,15,STAY (with Justin Bieber),2,2021-12-01,The Kid LAROI,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+24990,12,2021,Canada,5Z9KJZvQzH6PFmb8SNkxuk,15,INDUSTRY BABY (feat. Jack Harlow),3,2021-12-01,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+25005,12,2021,Canada,46IZ0fSY2mpAiktS3KOqds,14,Easy On Me,1,2021-12-01,Adele,https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds
+25019,12,2021,United Kingdom,0bYg9bo50gSsH3LtXe2SQn,7,All I Want for Christmas Is You,1,2021-12-01,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+25026,12,2021,United Kingdom,0lLdorYw7lVrJydTINhWdI,7,It's Beginning to Look a Lot like Christmas,4,2021-12-01,Michael Bublé,https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI
+25033,12,2021,United Kingdom,2EjXfH91m7f8HiJN1yQg97,7,Rockin' Around The Christmas Tree,6,2021-12-01,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+25040,12,2021,United Kingdom,2FRnf9qhLbvw8fu4IBXx78,7,Last Christmas,3,2021-12-01,Wham!,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+25047,12,2021,United Kingdom,2TE4xW3ImvpltVU0cPcKUn,7,Merry Christmas Everyone,7,2021-12-01,Shakin' Stevens,https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn
+25054,12,2021,United States,0bYg9bo50gSsH3LtXe2SQn,24,All I Want for Christmas Is You,9,2021-12-03,Mariah Carey,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+25078,12,2021,United States,2EjXfH91m7f8HiJN1yQg97,24,Rockin' Around The Christmas Tree,8,2021-12-03,Brenda Lee,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+25102,12,2021,United States,5Z9KJZvQzH6PFmb8SNkxuk,22,INDUSTRY BABY (feat. Jack Harlow),2,2021-12-03,Lil Nas X,https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk
+25124,12,2021,United States,7vQbuQcyTflfCIOu3Uzzya,22,Jingle Bell Rock,4,2021-12-04,Bobby Helms,https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya
+25146,12,2021,United States,1IcR6RlgvDczfvoWJSSY2A,19,It's the Most Wonderful Time of the Year,9,2021-12-04,Andy Williams,https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A

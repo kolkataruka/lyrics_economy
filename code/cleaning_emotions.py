@@ -16,7 +16,7 @@ PARENT = f"projects/{PROJECT_ID}"
 
 EMOTION_DICT = {
     'admiration': 0, 'amusement': 0, 'anger':1, 'annoyance': 1, 'approval': 0, 
-    'caring': 0, 'confusion': 1, 'curiosity': 2, 'desire': 2, 'disappointment': 1, 
+    'caring': 0, 'confusion': 1, 'curiosity': 2, 'desire': 0, 'disappointment': 1, 
     'disapproval': 1, 'disgust': 1, 'embarrassment': 1, 'excitement': 0, 'fear': 1, 
     'gratitude': 0, 'grief': 1, 'joy': 0, 'love': 0, 'nervousness': 2, 
     'optimism': 0, 'pride': 0, 'realization': 2, 'relief': 2, 'remorse': 1, 'sadness': 1, 'surprise': 2, 'neutral': 2
@@ -70,6 +70,9 @@ def make_emotions(songs_df):
     #print(songs_df['lyrics'])
     classifier = pipeline(task="text-classification", model="SamLowe/roberta-base-go_emotions", top_k=None)
     emotions = []
+    anger_list = []
+    love_list = []
+    sad_list = []
     batch_size = 256
     for index, row in songs_df.iterrows():
         batch_emotions = []
@@ -96,14 +99,28 @@ def make_emotions(songs_df):
                         final_emotions[emotion['label']] += emotion['score']
         num_batches = len(batch_emotions)
         average_emotions = {emotion: score / num_batches for emotion, score in final_emotions.items()}
+        anger = max(average_emotions['anger'], average_emotions['annoyance'])
+        anger_list.append(anger)
+        love = max(average_emotions['love'], average_emotions['desire'], average_emotions['caring'])
+        love_list.append(love)
+        sad = max(average_emotions['sadness'], average_emotions['grief'])
+        sad_list.append(sad)
         sorted_emotions = sorted(average_emotions.items(), key=lambda x: x[1], reverse=True)
+        
         top_emotion = dict(sorted_emotions[:1])
+        if EMOTION_DICT[next(iter(top_emotion.keys()))] == 2:
+            top_emotion = dict(sorted_emotions[1:2])
         emotions.append(next(iter(top_emotion.keys())))
     
-    #print(emotions)
+    
     songs_df['emotions'] = emotions
+    songs_df['anger'] = anger_list
+    songs_df['love'] = love_list
+    songs_df['sadness'] = sad_list
     songs_df['emotions_id'] = songs_df['emotions'].map(EMOTION_DICT)
-    songs_df.to_csv('../data/song_emotions.csv')
+    print(emotions)
+    print(songs_df.head())
+    #songs_df.to_csv('../data/song_emotions.csv')
 
 
 def test_model():
@@ -116,12 +133,11 @@ def test_model():
     }
     response = requests.get('https://spotify-scraper.p.rapidapi.com/v1/track/lyrics', headers=headers, params=querystring)
     test_df.loc[0, 'lyrics'] = response.text
-
-
+    print(test_df)
     make_emotions(test_df)
 
 #test_model()
-songs_df = pd.read_csv('../data/feats_lyrics.csv')
+songs_df = pd.read_csv('../data/feats_lyrics.csv').head(20)
 #print(songs_df['lyrics'].iloc[0])
 make_emotions(songs_df)
 
