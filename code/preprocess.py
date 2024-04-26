@@ -6,28 +6,33 @@ from sklearn.preprocessing import normalize
 
 
 def load_data():
-    music_df = pd.read_csv('../data/song_emotions.csv')[['month','year', 'region', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'emotions', 'emotions_id']]
+    music_df = pd.read_csv('../data/song_emotions.csv')[['month','year', 'region', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'emotions', 'emotions_id', 'anger', 'love', 'sadness']]
     unemployment_df = pd.read_csv('../data/unemployment.csv')
-    final_df = music_df.merge(unemployment_df, on=['year', 'month', 'region'], how='left')
+    final_df = music_df.merge(unemployment_df, on=['year', 'month', 'region'], how='left')[['month','year', 'region', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'emotions', 'emotions_id', 'anger', 'love', 'sadness', 'unemployment']]
     final_df.to_csv('../data/combined.csv')
     return final_df
 
-def data_split(init_df):
+def data_split(init_df, ycol):
     '''Normalizing and splitting data into training and testing sets'''
 
-    init_df = init_df[['month','year', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'unemployment', 'emotions_id']]
+    init_df = init_df[['acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'unemployment', 'region', ycol]]
     
     #init_df = init_df.dropna()
     #print(init_df.head())
     cols = init_df.columns
     print(cols)
-    #df_scaled = normalize(init_df) 
+
+    #init_df['unemployment'] = normalize(init_df['unemployment']) 
 
     #df_scaled = pd.DataFrame(df_scaled, columns=cols) 
-    #df_encoded = pd.get_dummies(init_df, columns=['emotions_id']) #one hot encoding regime types and admin scale
+    init_df = pd.get_dummies(init_df, columns=['region']) #one hot encoding countries for fixed effects
     #print(df_encoded.head())
-    
-    y=init_df['emotions_id']
-    X=init_df.drop(columns=['emotions_id'])
+    print(len(init_df))
+    if ycol == 'emotions_id':
+        init_df = init_df[init_df['emotions_id'] <= 1]
+        print(len(init_df))
+    y=init_df[ycol]
+    init_df = init_df.astype(float)
+    X=init_df.drop(columns=[ycol])
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1680)
     return X_train, X_test, y_train, y_test

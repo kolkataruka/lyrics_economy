@@ -22,6 +22,8 @@ EMOTION_DICT = {
     'optimism': 0, 'pride': 0, 'realization': 2, 'relief': 2, 'remorse': 1, 'sadness': 1, 'surprise': 2, 'neutral': 2
 }
 
+TRANSLATE_DICT = {}
+PREDICTIONS_DICT = {}
 
 def translate_text(text, target_language_code):
     client = translate.Client("en")
@@ -57,11 +59,16 @@ def clean_lyrics(lyrics):
         if not is_duplicate:
             unique_sentences.append(sentence)
     for sent in unique_sentences:
-        translated_sent = translate_text(sent, target_lang)
+        if sent in TRANSLATE_DICT:
+            translated_sent = TRANSLATE_DICT[sent]
+        else:
+            translated_sent = translate_text(sent, target_lang)
+            TRANSLATE_DICT[sent] = translated_sent
         translated_sentences.append(translated_sent)
     
     # Join the unique sentences to form the deduplicated lyrics
     deduplicated_lyrics = '\n'.join(translated_sentences)
+
     return deduplicated_lyrics
     
 def make_emotions(songs_df):
@@ -75,42 +82,51 @@ def make_emotions(songs_df):
     sad_list = []
     batch_size = 256
     for index, row in songs_df.iterrows():
-        batch_emotions = []
-        lyrics = row['lyrics']
-        tokens = lyrics.split()
-        #print(len(tokens))
-        token_batches = []
-        for i in range(0, len(tokens), batch_size):
-            if (len(tokens) - i) < batch_size:
-                token_batches.append(tokens[i:])
-            else:
-                token_batches.append(tokens[i:i+batch_size])
-        #print(len(token_batches))
-        for batch in token_batches:
-            batch_lyric = ' '.join(batch)
-            emo = classifier([batch_lyric])
-            batch_emotions.append(emo)
-            #print(batch_emotions)
-        final_emotions = {emotion['label']: 0 for emotion in batch_emotions[0][0]}
-        for batch in batch_emotions:
-            for sublist in  batch_emotions:
-                for subsublist in sublist:
-                    for emotion in subsublist:
-                        final_emotions[emotion['label']] += emotion['score']
-        num_batches = len(batch_emotions)
-        average_emotions = {emotion: score / num_batches for emotion, score in final_emotions.items()}
-        anger = max(average_emotions['anger'], average_emotions['annoyance'])
-        anger_list.append(anger)
-        love = max(average_emotions['love'], average_emotions['desire'], average_emotions['caring'])
-        love_list.append(love)
-        sad = max(average_emotions['sadness'], average_emotions['grief'])
-        sad_list.append(sad)
-        sorted_emotions = sorted(average_emotions.items(), key=lambda x: x[1], reverse=True)
-        
-        top_emotion = dict(sorted_emotions[:1])
-        if EMOTION_DICT[next(iter(top_emotion.keys()))] == 2:
-            top_emotion = dict(sorted_emotions[1:2])
-        emotions.append(next(iter(top_emotion.keys())))
+        if row['id'] in PREDICTIONS_DICT:
+            emotions.append(PREDICTIONS_DICT[row['id']][0])
+            anger_list.append(PREDICTIONS_DICT[row['id']][1])
+            love_list.append(PREDICTIONS_DICT[row['id']][2])
+            sad_list.append(PREDICTIONS_DICT[row['id']][3])
+        else:
+            batch_emotions = []
+            lyrics = row['lyrics']
+            tokens = lyrics.split()
+            #print(len(tokens))
+            token_batches = []
+            for i in range(0, len(tokens), batch_size):
+                if (len(tokens) - i) < batch_size:
+                    token_batches.append(tokens[i:])
+                else:
+                    token_batches.append(tokens[i:i+batch_size])
+            #print(len(token_batches))
+            for batch in token_batches:
+                batch_lyric = ' '.join(batch)
+                emo = classifier([batch_lyric])
+                batch_emotions.append(emo)
+                #print(batch_emotions)
+            final_emotions = {emotion['label']: 0 for emotion in batch_emotions[0][0]}
+            for batch in batch_emotions:
+                for sublist in  batch_emotions:
+                    for subsublist in sublist:
+                        for emotion in subsublist:
+                            final_emotions[emotion['label']] += emotion['score']
+            num_batches = len(batch_emotions)
+            average_emotions = {emotion: score / num_batches for emotion, score in final_emotions.items()}
+            anger = max(average_emotions['anger'], average_emotions['annoyance'])
+            anger_list.append(anger)
+            love = max(average_emotions['love'], average_emotions['desire'], average_emotions['caring'])
+            love_list.append(love)
+            sad = max(average_emotions['sadness'], average_emotions['grief'])
+            sad_list.append(sad)
+            sorted_emotions = sorted(average_emotions.items(), key=lambda x: x[1], reverse=True)
+            
+            top_emotion = dict(sorted_emotions[:1])
+            if EMOTION_DICT[next(iter(top_emotion.keys()))] == 2:
+                top_emotion = dict(sorted_emotions[1:2])
+            emotions.append(next(iter(top_emotion.keys())))
+            dict_vals = [next(iter(top_emotion.keys())), anger, love, sad]
+            PREDICTIONS_DICT[row['id']] = dict_vals
+
     
     
     songs_df['emotions'] = emotions
@@ -118,9 +134,8 @@ def make_emotions(songs_df):
     songs_df['love'] = love_list
     songs_df['sadness'] = sad_list
     songs_df['emotions_id'] = songs_df['emotions'].map(EMOTION_DICT)
-    print(emotions)
     print(songs_df.head())
-    #songs_df.to_csv('../data/song_emotions.csv')
+    songs_df.to_csv('../data/song_emotions.csv')
 
 
 def test_model():
@@ -137,7 +152,7 @@ def test_model():
     make_emotions(test_df)
 
 #test_model()
-songs_df = pd.read_csv('../data/feats_lyrics.csv').head(20)
+songs_df = pd.read_csv('../data/feats_lyrics.csv')
 #print(songs_df['lyrics'].iloc[0])
 make_emotions(songs_df)
 
