@@ -19,15 +19,15 @@ def data_split(init_df, ycol):
     
     #init_df = init_df.dropna()
     #print(init_df.head())
-    cols = init_df.columns
-    print(cols)
+    #cols = init_df.columns
+    #print(cols)
 
     #init_df['unemployment'] = normalize(init_df['unemployment']) 
 
     #df_scaled = pd.DataFrame(df_scaled, columns=cols) 
-    init_df = pd.get_dummies(init_df, columns=['region']) #one hot encoding countries for fixed effects
+    init_df = pd.get_dummies(init_df, columns=['region'], drop_first=True) #one hot encoding countries for fixed effects
     #print(df_encoded.head())
-    print(len(init_df))
+    #print(len(init_df))
     if ycol == 'emotions_id':
         init_df = init_df[init_df['emotions_id'] <= 1]
         print(len(init_df))

@@ -20,6 +20,21 @@ from sklearn.pipeline import make_pipeline
 import numpy as np
 
 
+def visualise(df, y):
+    plt.figure(figsize=(13, 8))
+    ax = plt.axes()
+    plt.scatter(df['unemployment'], df[y])
+    m, b = np.polyfit(df['unemployment'], df[y], 1)
+    plt.plot(df['unemployment'], m * df['unemployment'] + b, color='red')
+    ax.set_facecolor("whitesmoke")
+    plt.ylim(0, 1.2)
+    plt.ylabel(y, fontweight="bold")
+    plt.xlabel("Unemployment", fontweight="bold")
+    plt.title('Unemployment vs ' + y, fontweight="bold")
+    plt.savefig('../outputs/trends_' + y +  '.jpeg', dpi=300)
+    plt.show()
+
+
 def linear_regressors(df):
     '''
     Evaluating initial coefficients assigned using OLS, Lasso, and Ridge
@@ -29,11 +44,45 @@ def linear_regressors(df):
         X_train, X_test, y_train, y_test = data_split(df,y)
         sm.add_constant(X_train)
         sm.add_constant(X_test)
-        print(X_train.head())
+        #print(X_train.head())
         trained_ols = sm.OLS(y_train, X_train).fit()
         ols_pred = trained_ols.predict(X_test)
         ols_mse = mean_squared_error(y_test, ols_pred)
-    #lassoreg = make_pipeline(StandardScaler(with_mean=False), Lasso())
+    
+        plt.figure(figsize=(13, 8))
+        ax = plt.axes()
+        plt.scatter(trained_ols.params.tolist(), X_train.columns)
+        plt.errorbar(trained_ols.params.tolist(), X_train.columns, xerr=ols_mse, fmt="o", ecolor="red")
+        plt.grid(True)
+        ax.set_facecolor("whitesmoke")
+        plt.ylabel('Coefficient', fontweight="bold")
+        plt.title('Coefficient Plot - ' + y, fontweight="bold")
+        plt.savefig('../outputs/coefficients_' + y +  '.jpeg', dpi=300)
+        plt.show()
+        visualise(df, y)
+    
+        print(trained_ols.summary())
+
+
+
+
+def main():
+    '''Main function to load, preprocess, and train the data'''
+    init_data = load_data()
+    #init_data = init_data[(init_data['emotions_id'] <=1)]
+    #print(len(init_data))
+    print(init_data.describe())
+    init_data.describe().to_csv('../outputs/descriptive_stats.csv')
+    linear_regressors(init_data)
+    #coef_comp=pd.DataFrame({'var':X_train.columns, 'val_ols':trained_ols.params.tolist()})
+    
+
+
+
+if __name__ == '__main__':
+    main()
+
+#lassoreg = make_pipeline(StandardScaler(with_mean=False), Lasso())
 
     #alphas=np.linspace(1e-6, 1, num=50)
     #params = {'lasso__alpha':alphas}
@@ -68,33 +117,3 @@ def linear_regressors(df):
     #elif mse == ridge_mse:
     #    coef = 'val_ridge'
     #print(coef)
-    
-        plt.figure(figsize=(12, 8))
-        ax = plt.axes()
-        plt.scatter(trained_ols.params.tolist(), X_train.columns, )
-        plt.errorbar(trained_ols.params.tolist(), X_train.columns, xerr=ols_mse, fmt="o", ecolor="red")
-        plt.grid(True)
-        ax.set_facecolor("whitesmoke")
-        plt.ylabel('Coefficient', fontweight="bold")
-        plt.title('Coefficient Plot - ' + y, fontweight="bold")
-        plt.savefig('../outputs/coefficients_' + y +  '.jpeg')
-        plt.show()
-    
-        print(trained_ols.summary())
-
-
-
-def main():
-    '''Main function to load, preprocess, and train the data'''
-    init_data = load_data()
-    #init_data = init_data[(init_data['emotions_id'] <=1)]
-    #print(len(init_data))
-    init_data.describe().to_csv('../outputs/descriptive_stats.csv')
-    linear_regressors(init_data)
-    #coef_comp=pd.DataFrame({'var':X_train.columns, 'val_ols':trained_ols.params.tolist()})
-    
-
-
-
-if __name__ == '__main__':
-    main()
