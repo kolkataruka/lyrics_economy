@@ -30,9 +30,10 @@ def data_split(init_df, ycol):
     #print(len(init_df))
     if ycol == 'emotions_id':
         init_df = init_df[init_df['emotions_id'] <= 1]
-        print(len(init_df))
+        #print(len(init_df))
     y=init_df[ycol]
     init_df = init_df.astype(float)
     X=init_df.drop(columns=[ycol])
+    cols = X.columns
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1680)
-    return X_train, X_test, y_train, y_test
+    return X_train, X_test, y_train, y_test, cols
