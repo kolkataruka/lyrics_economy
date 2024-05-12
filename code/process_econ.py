@@ -1,5 +1,10 @@
 import pandas as pd
 
+'''
+Cleans and concatenates monthly unemployment data for the US, UK and Canada
+for analysis. To be run only once.
+'''
+
 MONTH_DICT = {
     "JAN": 1,
     "FEB": 2,

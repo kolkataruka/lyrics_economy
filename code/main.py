@@ -15,10 +15,16 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np
 from statsmodels.iolib.summary2 import summary_col
 
+'''
+File to be run for analysis. Only run after all data is generated. 
+'''
 
 
 
 def visualise(df, y):
+    '''
+    Visualizes the trend between an outcome variable and unemployment
+    '''
     plt.figure(figsize=(13, 8))
     ax = plt.axes()
     plt.scatter(df['unemployment'], df[y])
@@ -35,7 +41,8 @@ def visualise(df, y):
 
 def linear_regressors(df):
     '''
-    Evaluating initial coefficients assigned using OLS, Lasso, and Ridge
+    Evaluating initial coefficients for different dependent variables
+    using OLS
     '''
     outcomes = ['anger', 'love', 'sadness', 'emotions_id']
     trained_models = []
@@ -79,6 +86,7 @@ def multilayer(df):
         X_test = scaler.transform(X_test)
         #Initializing a multilayer perceptron classifer with defined hidden layers, optimizer, and learning rate
         if y == 'emotions_id':
+            #Training an MLP Classifier only for emotions_id
             MLP = MLPClassifier(
             random_state=1680,
                                 activation='logistic', solver='adam', 
@@ -103,7 +111,7 @@ def multilayer(df):
             
             unemployment_index = cols.get_loc('unemployment')
             print(unemployment_index)
-            # Plot Partial Dependence Plot for 'unemployment'
+            # Partial Dependence Plot for 'unemployment'
             pd_display = PartialDependenceDisplay.from_estimator(MLP, X_test, features=[unemployment_index])
             pd_display.plot()
             plt.title('Partial Dependence Plot for Unemployment - ' + y)
@@ -112,11 +120,9 @@ def multilayer(df):
             plt.tight_layout()
             plt.savefig('../outputs/emotion_id_mlp.jpeg', dpi=300)
             plt.show()
-            
-        
-            
 
         else:
+            #Training an MLP Regressor for anger, love, and sadness
             MLP = MLPRegressor(
             random_state=1680,
                                 activation='logistic', solver='adam', 
@@ -131,7 +137,7 @@ def multilayer(df):
 
             unemployment_index = cols.get_loc('unemployment')
             print(unemployment_index)
-            # Plot Partial Dependence Plot for 'unemployment'
+            #  Partial Dependence Plot for 'unemployment'
             pd_display = PartialDependenceDisplay.from_estimator(MLP, X_test, features=[unemployment_index], kind='both')
             pd_display.plot()
             plt.title('Partial Dependence Plot for Unemployment - ' + y)
@@ -145,9 +151,10 @@ def multilayer(df):
 
        
 def visualize_trend(init_data):
+    '''Visualizes the trend between unemployment and emotions_id'''
     df = init_data[init_data['emotions_id'] <= 1]
     df['date'] = pd.to_datetime(df[['year', 'month']].assign(day=1))
-    df['emotional'] = df['emotions_id'].apply(lambda x: 'Negative Emotion' if x == 1 else 'Positive Emotion')
+    df['Emotion Classification'] = df['emotions_id'].apply(lambda x: 'Negative Emotion' if x == 1 else 'Positive Emotion')
     # Plot the data
     plt.figure(figsize=(10, 6))
 
@@ -169,15 +176,14 @@ def visualize_trend(init_data):
 def main():
     '''Main function to load, preprocess, and train the data'''
     init_data = load_data()
-    #init_data = init_data[(init_data['emotions_id'] <=1)]
-    #print(len(init_data))
-    #print(init_data.describe())
-    init_data.describe().to_csv('../outputs/descriptive_stats.csv')
+
+    init_data[['acoustic','dance','energy','instrumental','loudness','mode']].describe().to_latex('../outputs/descriptive_stats1.tex')
+    init_data[['tempo', 'valence','emotions_id','anger','love','sadness','unemployment']].describe().to_latex('../outputs/descriptive_stats2.tex')
     linear_regressors(init_data)
 
-    #multilayer(init_data)
+    multilayer(init_data)
 
-    #visualize_trend(init_data)
+    visualize_trend(init_data)
     
 
 
@@ -185,38 +191,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-#lassoreg = make_pipeline(StandardScaler(with_mean=False), Lasso())
-
-    #alphas=np.linspace(1e-6, 1, num=50)
-    #params = {'lasso__alpha':alphas}
-    #gslasso = GridSearchCV(lassoreg, params, n_jobs=-1, cv=10)
-    #gslasso.fit(X_train, y_train)
-    #lasso_alpha = list(gslasso.best_params_.values())[0]
-
-    #ridgereg = make_pipeline(StandardScaler(with_mean=False), Ridge())
-    #alphas=np.linspace(1e-6, 1, num=50)
-    #ridgeparams = {'ridge__alpha':alphas * X_train.shape[0]}
-    #gsridge = GridSearchCV(ridgereg, ridgeparams, n_jobs=-1, cv=10)
-    #gsridge.fit(X_train, y_train)
-    #ridge_alpha = list(gsridge.best_params_.values())[0] / X_train.shape[0]
-
-    #lassoReg = make_pipeline(StandardScaler(with_mean=False), Lasso(alpha=lasso_alpha))
-    #lassoReg.fit(X_train, y_train)
-    #lasso_pred = lassoReg.predict(X_test)
-    #lasso_mse = mean_squared_error(y_test, lasso_pred)
-
-    #ridgeReg = make_pipeline(StandardScaler(with_mean=False), Ridge(alpha=ridge_alpha * X_train.shape[0]))
-    #ridgeReg.fit(X_train, y_train)
-    #ridge_pred = ridgeReg.predict(X_test)
-    #ridge_mse = mean_squared_error(y_test, ridge_pred)
-    #coef_comp=pd.DataFrame({'var':X_train.columns, 'val_ols':trained_ols.params.tolist(), 'val_lasso':lassoReg['lasso'].coef_, 'var_ridge':ridgeReg['ridge'].coef_})
-
-
-    #mse = min(ols_mse, lasso_mse, ridge_mse)
-    #if mse == ols_mse:
-    #    coef = 'val_ols'
-    #elif mse == lasso_mse:
-    #    coef = 'val_lasso'
-    #elif mse == ridge_mse:
-    #    coef = 'val_ridge'
-    #print(coef)

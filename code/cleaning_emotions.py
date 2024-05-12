@@ -8,12 +8,16 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-#Assigning emotions to the lyrics generated. Hopefully only one run needed
+'''
+Assigning emotions to the lyrics generated. Only one run needed after running
+filter_data and getdata
+'''
 
 MAX_TOKENS = 512
 PROJECT_ID = os.environ['PROJECT_ID']
 PARENT = f"projects/{PROJECT_ID}"
 
+#Classifications for emotions_id
 EMOTION_DICT = {
     'admiration': 0, 'amusement': 0, 'anger':1, 'annoyance': 1, 'approval': 0, 
     'caring': 0, 'confusion': 1, 'curiosity': 2, 'desire': 0, 'disappointment': 1, 
@@ -22,10 +26,11 @@ EMOTION_DICT = {
     'optimism': 0, 'pride': 0, 'realization': 2, 'relief': 2, 'remorse': 1, 'sadness': 1, 'surprise': 2, 'neutral': 2
 }
 
-TRANSLATE_DICT = {}
-PREDICTIONS_DICT = {}
+TRANSLATE_DICT = {} #to store already translated songs
+PREDICTIONS_DICT = {} #to store the predictions of songs already predicted
 
 def translate_text(text, target_language_code):
+    '''Translates each line in a lyric into English'''
     client = translate.Client("en")
 
     if isinstance(text, bytes):
@@ -37,6 +42,11 @@ def translate_text(text, target_language_code):
     return response["translatedText"]
 
 def clean_lyrics(lyrics):
+    '''
+    Cleaning lyrics of any punction/special characters
+    Removing all duplicate lines in a lyric, and then translating each line into
+    English.
+    '''
     cleaned_lyrics = re.sub(r'\[.*?\]', '', lyrics)
     sentences = cleaned_lyrics.split('\n')
     unique_sentences = []
@@ -72,6 +82,11 @@ def clean_lyrics(lyrics):
     return deduplicated_lyrics
     
 def make_emotions(songs_df):
+    '''
+    Generate emotion values for each song's lyrics using the HuggingFace model:
+    https://huggingface.co/SamLowe/roberta-base-go_emotions
+
+    '''
 
     songs_df['lyrics'] = songs_df['lyrics'].apply(clean_lyrics)
     #print(songs_df['lyrics'])
@@ -82,36 +97,38 @@ def make_emotions(songs_df):
     sad_list = []
     batch_size = 256
     for index, row in songs_df.iterrows():
-        if row['id'] in PREDICTIONS_DICT:
+        if row['id'] in PREDICTIONS_DICT: #Checks if the song already has had predictions generated
             emotions.append(PREDICTIONS_DICT[row['id']][0])
             anger_list.append(PREDICTIONS_DICT[row['id']][1])
             love_list.append(PREDICTIONS_DICT[row['id']][2])
             sad_list.append(PREDICTIONS_DICT[row['id']][3])
         else:
-            batch_emotions = []
+            batch_emotions = [] #Batching lyrics for easier tokenization
             lyrics = row['lyrics']
             tokens = lyrics.split()
-            #print(len(tokens))
+
             token_batches = []
             for i in range(0, len(tokens), batch_size):
                 if (len(tokens) - i) < batch_size:
                     token_batches.append(tokens[i:])
                 else:
                     token_batches.append(tokens[i:i+batch_size])
-            #print(len(token_batches))
+
             for batch in token_batches:
                 batch_lyric = ' '.join(batch)
                 emo = classifier([batch_lyric])
                 batch_emotions.append(emo)
                 #print(batch_emotions)
-            final_emotions = {emotion['label']: 0 for emotion in batch_emotions[0][0]}
+            final_emotions = {emotion['label']: 0 for emotion in batch_emotions[0][0]} 
+            #Aggregating values of emotions across batches
             for batch in batch_emotions:
                 for sublist in  batch_emotions:
                     for subsublist in sublist:
                         for emotion in subsublist:
-                            final_emotions[emotion['label']] += emotion['score']
+                            final_emotions[emotion['label']] += emotion['score'] 
             num_batches = len(batch_emotions)
             average_emotions = {emotion: score / num_batches for emotion, score in final_emotions.items()}
+
             anger = max(average_emotions['anger'], average_emotions['annoyance'])
             anger_list.append(anger)
             love = max(average_emotions['love'], average_emotions['desire'], average_emotions['caring'])
@@ -139,6 +156,10 @@ def make_emotions(songs_df):
 
 
 def test_model():
+    '''
+    Only to be run for testing the code itself, to see how it performs on a small
+    subset of the data. 
+    '''
     test_df = pd.read_csv('../data/top_songs.csv').head(1)
     track_id = test_df['id'].iloc[0]
     querystring = {"trackId":track_id}

@@ -11,9 +11,10 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-
-#Fetches spotify data and lyrics for each song using API keys. Will also ideally
-#run only once
+'''
+Fetches spotify data and lyrics for each song using 
+API keys. Will also ideally run only once
+'''
 
 LYRIC_URL = "https://spotify-scraper.p.rapidapi.com/v1/track/lyrics"
 CID =os.environ['CID']

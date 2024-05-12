@@ -6,6 +6,10 @@ from sklearn.preprocessing import normalize
 
 
 def load_data():
+    '''
+    Loads in the final music data (with emotions) and the unemployment data.
+    Combines all the data into one csv file
+    '''
     music_df = pd.read_csv('../data/song_emotions.csv')[['month','year', 'region', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'emotions', 'emotions_id', 'anger', 'love', 'sadness']]
     unemployment_df = pd.read_csv('../data/unemployment.csv')
     final_df = music_df.merge(unemployment_df, on=['year', 'month', 'region'], how='left')[['month','year', 'region', 'id', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'emotions', 'emotions_id', 'anger', 'love', 'sadness', 'unemployment']]
@@ -13,22 +17,14 @@ def load_data():
     return final_df
 
 def data_split(init_df, ycol, norm):
-    '''Normalizing and splitting data into training and testing sets'''
+    '''Normalizing, preprocessing and splitting data into training and testing sets'''
 
     init_df = init_df[['acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'unemployment', 'region', ycol]]
     
-    #init_df = init_df.dropna()
-    #print(init_df.head())
-    #cols = init_df.columns
-    #print(cols)
+    #One-hot encoding for fixed effects
     init_df = pd.get_dummies(init_df, columns=['region'], drop_first=True)
      
     
-
-    #df_scaled = pd.DataFrame(df_scaled, columns=cols) 
-     #one hot encoding countries for fixed effects
-    #print(df_encoded.head())
-    #print(len(init_df))
     if ycol == 'emotions_id':
         init_df = init_df[init_df['emotions_id'] <= 1]
         #print(len(init_df))
