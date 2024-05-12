@@ -33,6 +33,7 @@ Splits the data into training and testing sets.
 models
 
 **How to Run**
+
 The data needs to first be generated. First download the dataset from Kaggle at 
 https://www.kaggle.com/ds/1265407 .
 Then run the following files in order:
