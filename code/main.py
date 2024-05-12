@@ -13,6 +13,7 @@ from sklearn.neural_network import MLPClassifier, MLPRegressor
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
 import numpy as np
+from statsmodels.iolib.summary2 import summary_col
 
 
 
@@ -37,8 +38,9 @@ def linear_regressors(df):
     Evaluating initial coefficients assigned using OLS, Lasso, and Ridge
     '''
     outcomes = ['anger', 'love', 'sadness', 'emotions_id']
+    trained_models = []
     for y in outcomes:
-        X_train, X_test, y_train, y_test, cols = data_split(df,y)
+        X_train, X_test, y_train, y_test, cols = data_split(df,y, True)
         sm.add_constant(X_train)
         sm.add_constant(X_test)
         #print(X_train.head())
@@ -57,8 +59,11 @@ def linear_regressors(df):
         plt.savefig('../outputs/coefficients_' + y +  '.jpeg', dpi=300)
         plt.show()
         visualise(df, y)
-    
+        trained_models.append(trained_ols)
         print(trained_ols.summary())
+    summary = summary_col(trained_models, stars=True, float_format='%0.2f', model_names=outcomes, regressor_order=['unemployment', 'acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit'], drop_omitted=True).as_latex()
+    with open('../outputs/ols_table.tex', 'w') as file:
+        file.write(summary)
 
 
 def multilayer(df):
@@ -66,7 +71,7 @@ def multilayer(df):
     #'anger', 'love', 'sadness', 
     outcomes = ['anger', 'love', 'sadness', 'emotions_id']
     for y in outcomes:
-        X_train, X_test, y_train, y_test, cols = data_split(df,y)
+        X_train, X_test, y_train, y_test, cols = data_split(df,y, False)
         #print(X_train)
         scaler=StandardScaler() 
         scaler.fit(X_train) 
@@ -168,7 +173,7 @@ def main():
     #print(len(init_data))
     #print(init_data.describe())
     init_data.describe().to_csv('../outputs/descriptive_stats.csv')
-    #linear_regressors(init_data)
+    linear_regressors(init_data)
 
     #multilayer(init_data)
 

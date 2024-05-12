@@ -12,7 +12,7 @@ def load_data():
     final_df.to_csv('../data/combined.csv')
     return final_df
 
-def data_split(init_df, ycol):
+def data_split(init_df, ycol, norm):
     '''Normalizing and splitting data into training and testing sets'''
 
     init_df = init_df[['acoustic', 'dance', 'energy', 'instrumental', 'loudness', 'mode', 'tempo', 'valence', 'explicit', 'unemployment', 'region', ycol]]
@@ -21,19 +21,26 @@ def data_split(init_df, ycol):
     #print(init_df.head())
     #cols = init_df.columns
     #print(cols)
-
-    #init_df['unemployment'] = normalize(init_df['unemployment']) 
+    init_df = pd.get_dummies(init_df, columns=['region'], drop_first=True)
+     
+    
 
     #df_scaled = pd.DataFrame(df_scaled, columns=cols) 
-    init_df = pd.get_dummies(init_df, columns=['region'], drop_first=True) #one hot encoding countries for fixed effects
+     #one hot encoding countries for fixed effects
     #print(df_encoded.head())
     #print(len(init_df))
     if ycol == 'emotions_id':
         init_df = init_df[init_df['emotions_id'] <= 1]
         #print(len(init_df))
+    #init_df = init_df.drop(columns=['region']).astype(float)
+    
     y=init_df[ycol]
-    init_df = init_df.astype(float)
     X=init_df.drop(columns=[ycol])
+
     cols = X.columns
+    if norm:
+        new_df = normalize(X)
+        X = pd.DataFrame(new_df, columns=cols, index=X.index)
+        
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1680)
     return X_train, X_test, y_train, y_test, cols
